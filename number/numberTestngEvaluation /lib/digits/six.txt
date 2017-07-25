@@ -1,0 +1,3906 @@
+# Old English # sex
+# English # six
+# Scots # sax
+# W.Frisian # seis
+# Frisian (Saterland) # sæks
+# Dutch # zes
+# W/S Flemish # zèsse
+# Brabants # zes
+# Low Saxon # söß
+# Emsland # zɛs
+# Mennonite Plautdietsch # sass
+# Afrikaans # ses
+# German # sechs
+# Central Bavarian # sechse
+# Swabian # sechs
+# Alsatian # sex
+# Cimbrian # sèks
+# Rimella # žakše
+# Rheinfränkisch # sechs
+# Pennsylvania # sex
+# Luxembourgeois # sechs
+# Swiss German # sächs
+# Yiddish # zeks
+# Norwegian # seks
+# Danish # seks
+# Swedish # sex
+# Dalecarlian # sjäks
+# Faroese # seks
+# Icelandic # sex
+# Portuguese # seis
+# Galician # seis
+# Spanish # seis
+# Ladino # sex
+# Asturian # seis
+# Aragonese # seis
+# Catalan # sis
+# Valencian # sis
+# French # six
+# Walloon # shijh
+# Jèrriais # six
+# Poitevin # sis
+# Picard # sis
+# Occitan (Provençal) # sièis
+# Lengadocian # sièis
+# Gascon # shèis
+# Auvergnat # siei
+# Limosin # siei
+# Franco-Provençal (Vaudois) # sî
+# Rumantsch Grischun # sis
+# Sursilvan # sis
+# Sutsilvan # sis
+# Vallader # ses
+# Surmiran # seis
+# Friulian # sîs
+# Ladin # síes
+# Italian # sei
+# Piedmontese # sés
+# Milanese # sés
+# Genovese (Ligurian) # sei
+# Venetian # sié
+# Parmesan # sɛ:s
+# Corsican # sei
+# Umbrian # séi
+# Neapolitan # sèië
+# Sicilian # sie
+# Romanian # şase
+# Arumanian # şase
+# Meglenite # şasi
+# Istriot # şåse
+# Sardinian # ses
+# Gaulish # suex
+# Welsh # chwech
+# Breton # c’hwec’h
+# Vannetais # huéh
+# Common, Std Written # hwegh
+# Modern # whee
+# Devonian # hueh
+# Irish # sé
+# Scots Gaelic # sia
+# Manx # shey
+# Greek # éksi
+# Greek written # έξι
+# Cypriot # éksi
+# Tsakonian # ékse
+# një # shtatë
+# Gheg (Qosaj) # ɣ́ašt
+# Tosk (Mandritsa) # ǵáštë
+# Armenian # vec
+# Lithuanian # šešì
+# Latvian # seši
+# Latgalian # seši
+# Russian # šest’
+# Russian written # шесть
+# Belarussian # šesć
+# Belarussian written # шэсць
+# Ukrainian # šist’
+# Ukrainian written # шість
+# Polish # sześć
+# Kashubian # šesc
+# Czech # šest
+# Slovak # šest’
+# West # šest
+# East # šesc
+# Upper Sorbian # šěsć
+# Lower Sorbian # sěsć
+# Bulgarian # šest
+# Bulgarian written # шест
+# Pomak # altí
+# Macedonian # šest
+# Serbo-Croat # šêst
+# Slovene # šest
+# Ossetian (Iron) # æxsæz
+# Digor # æxsæz
+# Sogdian # xušu
+# Yaghnobi # uxš
+# Saka # kṣäta’
+# Pashto # špag
+# Wakhi # šād
+# Munji # āχše
+# Yidgha # uχšo
+# Ishkashmi # χųl
+# Shughn # χōɣ
+# Rushani # χų́w
+# Yazgulami # xu
+# Sarikoli (Tashkorghani) # χel
+# Parachi # xi
+# Ormuri # ṣ̌ªh
+# Yazdi # šaš
+# Natanzi # šæš
+# Khunsari # šäš
+# Gazi # šöš
+# Sivandi # šuš
+# Vafsi # shish
+# Semnani # šaš
+# Sangisari # šaš
+# Gilaki # shish
+# Mazanderani # šeš
+# Talysh # šaš
+# Harzani # šoš
+# Zaza (Dimli) # šeš
+# Gorani # šɪš
+# Baluchi # šəš
+# Turkmenistan # šaš
+# E Hill # shash
+# Rakhshani (Western) # šəšš
+# Kermanji (S) Kurdish # šaš
+# Zaza (N) Kurdish # šaš
+# Bajalani # šiš
+# Kermanshahi # šäš
+# Farsi # šeš
+# Isfahani # šiš
+# Tajik # šaš
+# Tati # šæš
+# Chali # šeš
+# Fars # šišt
+# Lari # šiš
+# Luri # šiš
+# Kumzari # šiš
+# Ashkun # ß.ù˘
+# Wasi-weri (Prasuni) # wūṧ
+# Kati # ṧu
+# Kamviri # S’u
+# Kalasha-ala (Waigali) # ṧū
+# Spanish # jol
+# Welsh # šov
+# Kalderash # šov
+# Syrian # šās
+# Armenian # šeš
+# Iranian # šov
+# Sinhalese # haya
+# Vedda # pahamay tava ekamay
+# Maldivian # haie
+# Kashmiri # šah
+# Shina # ṧa
+# Brokskat # ṣa
+# Phalura # ṧoʰ
+# Bashkarik # šō
+# Tirahi # xo
+# Torwali # šō
+# Wotapuri # šō
+# Maiya (Kohistani) # šōh
+# Kalasha # ṧo
+# Khowar # chhoy
+# Dameli # ṧo
+# Gawarbati # ṧuō
+# Pashai # č̣ha
+# Shumashti # ṣ̌ọo
+# Nangalami # ṣō
+# Dumaki # ṧa
+# Marathi # səha
+# Konkani # sô
+# Sindhi # cha
+# Khatri # cho
+# Lahnda # ch‘ē
+# Hindi/ Urdu # chai 
+# Hindi/ Urdu written # छः / छह
+# Parya # čhe
+# Punjabi # che
+# Siraiki # chi
+# Gujarati # cha
+# Rajasthani (Marwari) # ch‘aw
+# Banjari (Lamani) # cho
+# Malvi # ch‘ē
+# Bhili # sō
+# Dogri # ch‘ē
+# Kumauni # ch‘ai
+# Garhwali # ch‘aī
+# W Pahari # tshɔ̄
+# Khandeshi # ch‘a
+# Nepali # cha
+# Maithili # ch‘a:
+# Magahi # chau
+# Bhojpuri # cʰæ
+# Awadhi (Kosali) # chā
+# Chattisgarhi # ch‘ē
+# Oriya # cha’a
+# Bengali # chɔy
+# Assamese # səi
+# Mayang # soy
+# Brahui # šaš
+# Kurukh # soyyē
+# Malto # sōye
+# Kolami # saa / ār
+# Parji (Duruwa) # sējēn
+# Gadaba # āru-gur
+# Telugu # āru
+# Telugu written # ఆరు ‎ఏడు ‎ఎనిమిది ‎తొమ్మిది పది
+
+# Gondi # sārūng
+# Koya # āru
+# Konda # āru
+# Pengo # co
+# Kui # sajgi
+# Kuvi # sō
+# Tulu # āji
+# Koraga # aji
+# Kannada # āru
+# Kannada written # ಆರು
+# Badaga # a:ru
+# Kodagu # ārü
+# Kurumba # -ạru–
+# Toda # ōṛ
+# Kota # āre
+# Tamil # āṟu
+# Tamil written # ஆறு
+# Vernacular # aarru
+# Malayalam # āṟu
+# Malayalam written # അറ്
+# Irula # aru
+# Nahali # chāh
+# Hunza # mishíndi
+# Yasin # bishínde
+# Basque # sei
+# Arabic # sittah
+# numerals # ٦
+# Saudi (Najdi) # sitta
+# Yemeni # sitteh
+# Syrian (Levantine) # sətte
+# Lebanese # setti
+# Cypriot # sítte
+# Iraqi # sitta
+# Egyptian # sitta
+# E Libyan # ’sitta
+# Algerian (Darja) # sitta
+# Moroccan # setta
+# Sudanese # sıˈtta
+# Nigerian # sitte
+# Zanzibari # sitte
+# Maltese # sitta
+# Modern Hebrew # šeš
+# NE (Christian Urmi) # ištā
+# Jewish Urmi # əšta
+# Alqosh # ʾešta
+# Amədya # ʾəšta
+# Barwar # ʾə́šta
+# Bohtan # əšta
+# Challa # ʾəšta
+# Van # išṭa
+# Western (Ma’lula) # šḗt͔t͔ā
+# Ahvaz # šitta
+# South Arabian (Harsusi) # ’hattəh
+# Sheri (Jibbali) # šɛt
+# Socotra # yhaʕT
+# Tigre # səs
+# Beni Amir # siss
+# Tigrinya # šudduštɛ
+# Amharic # sɨddɨst
+# Argobba # seddest
+# Harari # siddisti
+# E Gurage # seddest
+# Soddo # seddəst
+# Goggot # səddəst
+# Muher (W Gurage) # seddest
+# Masqan # seddest
+# CW Gurage # sədəst
+# Ennemor # sədəst
+# Coptic (Sahidic) # sow
+# Akhmimic # se
+# Bohairic # sow
+# Tamahaq Ahaggar # seìs
+# Ghat # sadis
+# Tamazheq # sadis
+# Tamasheq # sæìs
+# Zenaga # šoduš
+# Shilha (Tachelhit) # sìs
+# Bamarani (Ifni) # s.ṣdis
+# Tamazight # setta
+# Figuig # setta
+# Kabyle # seţţa
+# Ait Seghƚrushen # sTa
+# Shawiya (Ohaouia) # nȳeḳà
+# Riff (Tarifit) # setta
+# Senhayi # setta
+# Mzab (Tumzabt) # sez
+# Ghardaia # sətta
+# Jerba # afus d’ižžen
+# Nefusi # ufes d ujun
+# Ghadames # ṣuz.
+# Hamar # lah
+# Banna # lʌx
+# Ari # láa
+# Dime # lah
+# Dizi # yàkú
+# Shako # yaku
+# Nao (Niyi) # yakko
+# Hozo # kɛn:i
+# Sezo # t’ján:́έ:
+# Kafa (Kaficho) # siritā
+# Mocha (Shakacho) # šĭrítto
+# Anfillo # širto
+# Shinasha (Boro) # šeríta
+# Janjero (Yemsa) # issun12
+# Bencho (Gimira) # sa2pm3
+# She # sapm
+# Chara # sāfun
+# Basketo # lɜhi
+# Makle (Male) # laho
+# Walamo (Ometo) # usuppuna
+# Kullo # osuphuna
+# Zayse # ʔizúp
+# Ganjule # ʔə'zu
+# Zergulla # ʔi'zib
+# Gatsame # qēb’ē
+# Koyra (Koorete) # ʔizzúppe
+# Beja (Tu-Bedawie) # ʔasagwir̀
+# Rein 1895 # asågŭr
+# Wats 1888 # assakor
+# Awngi # wálta
+# Kemant (Falasha, W Agaw) # wólta
+# Xamir (Xamtanga) # wal-tā́
+# Xamta # waltā
+# Bilin # welta
+# Burji # lia
+# Gedeo # jaane
+# Hadiyya # loho
+# Kambata # leho
+# Sidamo # leye
+# Yaaku # iĺέ
+# Birale # s’anafa
+# Tsamay # tábben
+# Afar # lixéy-i
+# Saho # leeḥ
+# Dasenech # li
+# Arbore # ǧih
+# Bayso # 'lɛ
+# Rendille # liħ
+# Somali # lehh-di
+# Tunni # líʔ
+# Aweer (Boni) # líh
+# Oromo (Galla) # jaʔa
+# Borana # jaa
+# Gidole (Dirasha) # leh
+# Bussa (Muusiye) # lehi
+# Konso # lehi
+# Dahalo # síít̪a
+# Ma’a (Mbugu) # matisu
+# Iraqw # lahhóo’
+# Alagwa (Wasi) # laḩo
+# Burunge # laḩo
+# Masa # karkia
+# Lame (Pevé) # kánki
+# Mesme # kandi
+# Somrai # ūgi
+# Tumak # wuhu
+# Ndam # ugi
+# Sarwa # ǰu biru min
+# Miltu # wegi
+# Nancere # meneŋ
+# Lele # meneng
+# Gabri # jī
+# Kabalai # ji
+# Kera # kāngi
+# Mokulu (Mokilko) # zóo
+# Migama # béeɗyá
+# Mogum # mik
+# Bidiyo # pénke’
+# Mubi # ístàlà
+# Sokoro # bíbīni
+# Barain # dsumáui
+# Tera # njoŋ
+# Jara # kwe
+# Ga'anda # mɪca
+# Gabin # mɪcè
+# Pidhimdi # šòŋ
+# Hona # mɪ̀ki
+# Bura # ŋ̀kwà
+# Chibak # ŋ̀kwà
+# Putai # kwa
+# Margi # ŋkwà
+# Kilba (Huba) # kwà
+# Higi (Kamwe) # kwaŋəy
+# Bana # kárkia
+# Fali Kiria # ŋkwaŋ
+# Fai Jilbu # ŋ̀kwaʔ
+# Sukur # mukwa
+# Lamang # m̀kwá
+# Hidé # ŋku
+# Mandara (Wandala) # ŋ̀kwàxὲ
+# Paduko (Parkwa) # mokūa
+# Glavda # ŋ́kwàxà
+# Dghwede # ŋ́kwe
+# Gvoko # ŋkox
+# Matakam (Mofu) # mòkwâ
+# Gisiga # maerké
+# Mada # mùkó
+# Hurza (Pelasla) # márkà
+# Muktele (Matal) # mùkwá
+# Daba # kwox
+# Gawar # nko
+# Hina (Mina) # nku
+# Gudu # kwǎ
+# Bata # kuldāka
+# Gude # kuwà
+# Nzangi # kwɔx
+# Bacama # tukwə̀ltaka
+# Musgu # s~á¯ ra
+# Mbara # ƚírá
+# Gidar # sěrrĕ́
+# Buduma # harákke8
+# Logone # venáχkir
+# Kotoko (Afade) # wafrákěró
+# Makere # thaeskǒtē
+# Nghala # rasko
+# Hausa # shidà
+# Gwandara # šídà
+# Nimbia # šídə́
+# Karekare # bə̀coɗì
+# Bole # bəšɪ̀moɗì
+# Bele # bàccímóoɗi
+# Ngamo # bàʔàšìmoɗi
+# Maha (Maaka) # binkunu
+# Kirfi (Giiwo) # bìcúunıˈ
+# Galambu # bə̀címə́n
+# Gera # bìšim
+# Kanakuru (Dera) # byême
+# Tangale # fayìndì
+# Pero # fədəlemundì
+# Gerka (Yiwom) # poingmi
+# Angas # pìmí
+# Sura (Mwaghavul) # pèmẽ
+# Kofyar # pèmɛ
+# Chip (Miship) # pemɛ
+# Ankwe (Goemai) # pɨmo
+# Montol # pyumma
+# Fyer # tâán
+# Tambas # táányi
+# Ron (Bokkos) # táan
+# Daffo # makông
+# Sha # háram
+# Mundat # háram
+# Kulere # háran
+# Duwai # eldegrma
+# Bade # ə̀zdù
+# Ngizim # zɨ̀dù
+# Pa’a # maha
+# Dira # mukkə̀
+# Miya # mahà
+# Boghom (Burma, Bux) # mak
+# Mangas # mààghà
+# Guruntum # mòoon
+# Ju # maagha
+# Geji # mukkə̀
+# Dwot (Dass) # mamak
+# Polchi (Pelci) # maɣà
+# Buli # magà
+# Seya (Zaar) # lɨm
+# Zeem # makkà
+# Ubykh # fə
+# Abkhaz # f-ba
+# Abaza # c-ba
+# Kabard- Cherkes # x̂ə
+# Adygh # x̂ə
+# Chechen # yalx
+# Ingush # jaalx
+# Bats # jetχ
+# Avar # ạnƚ:-go
+# Andi # onƚ:i-gu
+# Botlix # inƚ:i-da
+# Godoberi # inƚ:i-da
+# Chamalal # anƚ:ida
+# Bagulal # inƚ:i-ra
+# Tindi # inƚ:i-ja
+# Karata # inƚ:i-da
+# Axvax # ĩƚ:i-da
+# Xvarshi # ẽjla
+# Dido # iƚno
+# Hinux # iƚno
+# Bezhta # iƚna
+# Hunzib # iƚno
+# Lak # ryaχ
+# Dargwa # ureg-al
+# Archi # diƚ
+# Xinalug # zäk
+# Lezgian # rugud
+# Tabasaran # jirx˜ u-b
+# Agul # jerxi-d
+# Rutul # rixɨ-d
+# Tsaxur # jixɨ-llä
+# Kryts # rɨxɨ-d
+# Budux # rəxəd
+# Udi # uqɪ
+# Georgian # ekvsi
+# Mingrelian # amšvi
+# Svan # usgva
+# Laz # ans
+# Meidob # kórci
+# Birgid # korshi
+# Debri (Dilling) # kwarcu
+# Dongolawi # gurg-u
+# Mahas (Nobiin) # gorge’o
+# Mursi # ìllè
+# Murle # tɔrkɔnɔm
+# Bale # tɔ̄rkɔ́nɔ̄
+# Majang # tuulaʔom
+# Shabo (Mikeyir) # tulu
+# Kwegu # la
+# Suri # íllé
+# Me’en # ille
+# Nera # da:ta
+# Gaam # ţə́lḍíg
+# Aka # gĭlmugeri
+# Molo # ŭtŭmlēdi
+# Kelo # kesawāti
+# Nyimang (Ama) # kwártši
+# Merarit # tūr
+# Tama # tor
+# Erenga # toɾ
+# Miisiirii # toɾ
+# Shatt # aran
+# Liguri # koskodos
+# Sila # aran
+# Nyala (Dar Fur Daju) # aran
+# Lagawa # aran
+# Shilluk # ábîkyὲl
+# Anuak (Anywa) # abïciɛl
+# Maban # wĭnankielo
+# Burun # derguk
+# Luo # aučiel
+# Alur # ábʊ́syὲl
+# Lango # àbícὲl
+# Akoli # abicel
+# Nuer # bakel
+# Dinka # wdetem
+# Rek # detem
+# Bari # bukɛr
+# Lotuxo # ɪllɛ
+# Ongamo (Ngasa) # mí'éti o-b'ô
+# Maasai # ɪlɛ
+# Turkana # nga-kanɪ̀-ka-pey
+# Teso # akany kape
+# Karamojong # ŋikani kapei
+# Nandi # i•llo
+# Kipsikiis # la
+# Keiyo # ɪlɔ
+# Tuken # ɪlɔ́
+# Markweta # lɔ́
+# Kony # lɔ́
+# Pok # lɔ́
+# Ng’oma # lɔ́
+# Terik (Kalenjin) # lɔ
+# Okiek # lɔ́
+# Pokot # mut ngo akoŋo
+# Omotik # l’ae
+# Datooga # la
+# Ik # nda-keɗi-kɔna
+# So # tud ka ni ɛdɛs
+# Ngangea (Nyang’i) # mɔk kan kapei
+# Kresh (Gbaya) # sála ’bala
+# Aja # niɛr̥r̥u kpá
+# Baka # inyi-da-keri
+# Bongo # do-kotu
+# Gambai # mìsá
+# Kaba # nkali
+# Kaba Dunjo # maka
+# Mbai # kə́-bòy-dètə́
+# Sara # mḕhḗ
+# Babahi # meko
+# Bagirmi # mika
+# Gula # mùtə́-mùtə́
+# Kenga # mὲćέ
+# Kuka (Naba) # de măshā
+# Yulu # mìttì-kal
+# Kara # nangu-sɔ-tùmù-dɔg
+# Moru # n' dzwí drıˈ àlɔ̍
+# Avukaya # nzɪ káźέ
+# Kaliko # ázíá
+# Logo # kázíá
+# Logbara # azia
+# Madi # ázíá
+# Lendu # aza
+# Mangbetu # ’t́έngwɛkana
+# Mamvu # elí qɔdὲ relí
+# Lese # màyà
+# Berta # mak’ɛɛra
+# Gebeto # makykyera
+# Sudan # yáagá
+# Kunama # kon-tal-e
+# Gumuz (Bega) Sai # mɔdya
+# Sese # komtá
+# Gojjam # mac’ek
+# Kokit # makye:ra
+# Anej (Gule) # dělódĭn
+# Kwama # 'kōb:ā:sɪ́n
+# Madin # kanendidi
+# Opo # kanedidi
+# Komo # kā:nagīɗ́έ
+# Twampa (Uduk) # péɗéʔ
+# Kanuri # araskə
+# Kanembu # arakú
+# Teda # disē
+# Zagawa # dešté
+# Berti # doti
+# Maba # sìttàal
+# Masalit # ítí
+# Aika # isséì
+# Runga # isseÿ
+# Kibet # ɪssʌl
+# Mimi Gaudefroy # tulgu
+# Mimi Nachtigal # šaara
+# Songhai # iddu
+# Zarma # iddu
+# Dendi # ìddú
+# Fur # ɔzundik
+# Miri # kiòmmu ńōŋɔţɔ̄́k
+# Kadugli # ndánanɔ¯´ gɔ
+# Katcha # ofunu ŋgɔtɔ
+# Krongo # àttì kí-tì nyúŋwá
+# Tumtum # atěkāden nīŋoŋi
+# Katla # djoltẹ́n
+# Tima # è. ntăŋgădăkọ̆lŏ́́‘
+# Ko # át̯t̯úi t̯abur láákan
+# Rere (Koalib) # ñ́έrlɛl
+# Utoro # ñírɛl
+# Logol # ñ́έrlil
+# Ebang (Heiban) # ñ́έril
+# Laru # ñ́έrlɛl
+# Shirumba (Shwai) # ñɛrɛɽɛl
+# Tiro # lɽ̀cíɽcin
+# Moro # ðέέnaŋ náŋáƚḿέñ́έ gánnaŋ
+# Lafofa # tledile dile do
+# Tegem # tĺέɛtí ĺέt̯ílɛt̯
+# Nding # ciβiñ cállâŋ ná ŋállâŋ
+# Tocho # bat̯t̯áβát5ak
+# Ngile # táíyɪɪlɪ
+# Tegali # ńĕ́rẹ̆l
+# Tagoi # ńērẹ̆y
+# Sandawe # kwaʔana danda ts’ex
+# Nama # !naní
+# Nharo # n!ání
+# Sya # ko-nara
+# Soninke # tunmu
+# Bozo # tummi
+# Susu # seni
+# Yalunka # woro
+# Ligbi # mworo
+# Numu (Huela) # mɔ̀ɔ̀dó
+# Kono # oro
+# Vai # sôŋ lɔ̀ndɔ́
+# Mandinka # wooro
+# Xasonke # wooro
+# Malinke (W Maninkakan) # wóoro
+# Bambara (Bamanankan) # wòoro
+# Dyula # wɔ́ɔrɔ
+# Loko # ngohita
+# Loma # doseta
+# Kpelle # lɔl maida
+# Mende # ẃέita
+# Bandi # wo̱ita
+# Mano # sora-do
+# Dan # slấdo
+# Kweni (Guro) # süɛdʊ
+# Beng # sɔ́do
+# Gbin (Gagu) # soru-do
+# Mwa # sura-du
+# Nwa (Wan) # wã́ã́ŋ́
+# Tura # sáàdō
+# Bisa # sɔddi
+# Busa # sûḍó
+# Samo Toma # sɔrɔ
+# Sembla (Seeku) # tsìin
+# Bijago (Ankaras) # namudughe
+# Fulani (Fula, Pulaar) # joweego’o
+# Maasina # jeegon
+# Serer # betu fo lɛng
+# Wolof # juróom benna
+# Falor (Palor) # poʊ̈nɔ
+# Lehar # mɛ̄nɔ
+# Ndut # pʉnə
+# Non # nɛ̄-nɔ
+# Safan # yɛs na inɔr
+# Balant # kcef kə fɔɔdn
+# Ganja # fáaj
+# Mankanya # paadʲ
+# Manjaku # pádje
+# Papel # pads
+# Diola # futɔk di yəkon
+# Badyara (Pajade) # kobəda nka pakã
+# Banyun # kilaŋguduk
+# Bassari # -ndʸɔ̀ ng ́έ-mât
+# Bedik # mo-dʸó ng-iyè
+# Biafada # mpaaji
+# Kobiana # juroog ŋga hee
+# Konyagi (Wamei) # -mbʌ́ɗ g -ryǽw̃
+# Mbulungish # sakben
+# Nalu # tedu-te-dendeg
+# Limba # taso̱hunte
+# Gola # diegun
+# Baga Binari # tsamáterkín
+# Landuma # t’ãtin
+# Temne # dùkin
+# Bom # tòfáá
+# N Bullom (Mmani) # mən-bul
+# S Bullom (Sherbro) # mɛn-bul
+# Kisi # -ŋwom-pum
+# Krim # nwɛn-mɔ
+# Aizi # fɔ
+# Kuwaa # folὲ
+# Seme (Siamou) # kpaa
+# Bakwe # hwukrolo
+# Wané # hwukrolo
+# Bete Guiberoua # n̄gbʊ̍pʊ̍lʊ̍
+# Daloa # ńgbʊ́pʊ́lʊ́
+# Godie # ʌ̃³gbɪ-² plɪ-²
+# Dida Vata # gbıˈflɔ́
+# Yocoboué # ǹgbʊfřʊ
+# Neyo # gbɪ́flɔ́
+# Kodia # ngbeblo
+# Basa # bedo
+# Dewoin # mὲlegbō
+# Gbe # hmledo
+# Oubi # hṹ dò
+# KTJ # wuno-do
+# Tepowi (Kruman) # hwono³
+# Grebo # hmunɛdo
+# Kru (Klao) # ŋmìὲdò
+# Guere (S. We) # mɛ̃̄ ɛ̃́´õ¯
+# Nyabwa # mɛ̃ɛ' lʊ̀
+# Wobé # mɛ⁴ɛ1o⁴
+# Jamsay # kúróy
+# Toro Tegu # kúréy
+# Togo Kan # kúré:
+# Tomo Kan # kúlé
+# Tiranige (Duleri) # kùlèyⁿ
+# Mombo Songho # kúléyⁿ
+# Penange # kúlé:ní
+# Bunoge (Budu) # kúléwⁿ
+# Najamba # kúlèy
+# Toro So # kúloy
+# Tommo So # kúlóy
+# Yanda # yè-kúlé
+# Nanga # kúrê
+# Bankan Tey # kúròy
+# Ben Tey # kúròy
+# Tebul Ure # kúlé
+# Bariba (Bargu) # nɔbatiya
+# Kulango # torofiri-ta
+# Lorhon (Tèèn) # tɔ’tánɪ
+# Toussian) # kenugu
+# Senari # gbani
+# Nafana (Palera) # kɔɔnanu
+# Palaka # wokoronu
+# Karaboro # klɔn
+# Viemo # kõnuura
+# Wara # sinepo
+# Natioro # zaba
+# Suppire # baa-nì
+# Mianka (Mamara) # gbani
+# Dyimini # korholo-nu
+# Tagbana # nulu
+# Kurumfe # ɪhʊrʊ
+# Bwamu # hèzĩ` n
+# Buli # bayuebi
+# Bieri # hãdoa
+# Wama # kpānàn
+# Tayari (Nateni) # kwɛ
+# Tamari # kwa
+# Notre (Boulba) # npway
+# Gurenne # -yoobe
+# Frafra # yoobe
+# Mossi (More) # iō:bē
+# Dagaare (Dagara) # -yʊ̀ɔ́
+# Kusal # ayɔɔbʊk
+# Mampruli # yoobu
+# Dagbani (Dagomba) # -yobu
+# Hanga # ayoobu
+# Kasele # nloobe
+# Basari (Ntcham) # -lùù
+# Konkomba # nlu
+# Gangam # nɪ́lúwò
+# Gando # i lob
+# Gurma # nluoba
+# Moba # ŋánlwɔ́b’
+# Yom (Pila) # mə̀lòò
+# Naudem # mìrò:ndé
+# Doghose # wãa ne kpo
+# Gan (Kaansa) # maŋgpo
+# Kasem # ǹdʊ̃̃̀̀
+# Nuni # baradu
+# Lyele # baridó
+# Siti # nue-mbele
+# Winye # -gò
+# Sisala # du
+# Vagala # numbɛl
+# Degha (Mo) # mbele
+# Kabre # lóÍo
+# Lamba # lóÍo
+# Tem # loÍo
+# Kirma # niediɛ
+# Tyurama (Turka) # nanden
+# Dyan # molodũ
+# Lobi # maadõ
+# Kam # džɔʌp
+# Longuda # kí-na̍pkẃέ
+# Fali # yìrá
+# Awak # kúún
+# Dadia # nukuǹ
+# Tula # nukuǹ
+# Waja # nokono
+# Cham (Dijim-Bwilim) # nukún
+# Chamba # tù´ nī
+# Donga # nɔŋgwa
+# Wom # nɔngwoi
+# Taram # kənoan
+# Dirrim # tɪni
+# Gandole # tuni
+# Doyãyo # noon³-gbu¹nu¹
+# Duru (Dii) # gúu
+# Kolbila # nŭngṓăss
+# Kutin (Peere) # nōndě
+# Kotopo # nùŋdè
+# Sari (Saa) # gu
+# Sewe # non gunu
+# Vere (Mom Jango) # bamburo
+# Mumuye # màńgoó
+# Gengle # kanɔŋ ti bini
+# Kumba # nogɛndi
+# Teme # gadɪbini
+# Waka # gatɪndi
+# Yendang # ga ɪndi
+# Galke (Ndai) # a-čara
+# Mangbai # bīgĭ´ llō
+# Pam # ya
+# Tupuri # yé
+# Mbum # jéì
+# Kali (Kare) # sara
+# Lakka # tatógalo
+# Mundang # yé
+# Dama # a-sara
+# Libo (Kaan) # mo wɔnlonu
+# Mboi # mintšɪke
+# Yungur (Bena) # mɪndike
+# Roba # mɪndike
+# Jen (Dza) # hwi ɪtsuŋ
+# Munga (Leelau) # hwi ətšɔŋ
+# Bua # itar
+# Bolgo # tipsi
+# Day # sārì mɔ̀n
+# Koke # dípsil
+# Nielim # taar
+# Fanya # kaba
+# Gula # tiŋa
+# Kulaal (Gula Iro) # lúénţóŋ
+# Tunya # tala
+# Gbaya # mɔɔrɔ́-ɗoŋ-kpɔ́k
+# Ngbaka # gàzὲlὲ
+# Ngbandi # mana̍
+# Sango # omaná
+# Feroge # wínì
+# Indri # vi-ciki-ni
+# Ndogo # vɔ-nje-gbanje
+# Tagbu # vo-mbuti-nje
+# Sere # vo-rombi-nje
+# Bai # mōro dun pok
+# Viri # ìnyé-ethelá
+# Mangaya # wínì
+# Togoyo # vara’
+# Mundu # moÍiya
+# Mayogo # madia
+# Bangba # malia
+# Gbanziri # sita
+# Bwaka (Ngbaka Ma’bo) # sita
+# Monjombo # sita
+# Bayanga # pué momona
+# Gundi # podé
+# Banda # míndu-aman-bari
+# Mbanja # gazala
+# Golo # siemgbari
+# Zande # bisue bati sa
+# Nzakara # išibé alikíri
+# Barambo # bįnyatsì-mbùsù-àtsì
+# Pambia # boinyatsi-ngabasibɛ-tsongodo
+# Amadi (Ma) # bíyácè-mbùsà-ácì
+# Ijo # sòńdie
+# Kolokuma # sóndie2
+# Kalabari # sóníó
+# Nembe # sòndìò
+# Abure # enkye
+# Eotile (Beti) # àhɪ́ɛ̃́
+# Akan (Twi) # asiá
+# Fante # esia
+# Ashanti # ensĩá
+# Abron # ensyĩ
+# Baule # nsyɛ̃
+# Anyi (Afema) # ǹǹsɥíá
+# Brissa # nsĩa
+# Chakosi (Anufo) # ǹsɛ̃́
+# Nzema # nsia
+# Ahanta # eshẽ
+# Awutu # isɛ̃́ !´
+# Chiripong # ìsĩ´ɛ̃̀
+# Lete (Larteh) # sĩɛ̃ 51
+# Guang (Gonja) # à-shé
+# Nkonya # a-sie
+# Nchumburu # à-siye
+# Achode (Gikyode) # ὲ-sí’é
+# Anyanga # ì-sí
+# Krachi # ā-síé
+# Adele # koro
+# Akpafu # ìkúɔ̀
+# Siwu # ìkūɔ̄·`
+# Buem (Lelemi) # ὲkú
+# Likpe (Sekpele) # ǹkwœ
+# Sele # ò-kúɔ́
+# Ahlo (Igo) # ùgo
+# Avatime # ògòlò
+# Kebu # kuran
+# Kposo # ὲwlū
+# Gã # ékpàa
+# Adangme # é-kpà
+# Ewe # adé
+# Fong # àyìźέn
+# Gwa (Mbato) # okwa
+# Kyama (Ebrie) # akwa
+# Akye (Attié) # emõ
+# Abe # lohõ
+# Ari (Abiji) # nahwã
+# Ari (Abiji) # náhʊ́ã̀
+# Krobu # ńsj˜ɛ̱̃
+# Adyukru # nɔhn
+# Avikam # ewa
+# Aladian # œure
+# Igbira (Ebira) # hɪ̍nɔ̍nyɪ̄
+# Gade # cẹị
+# Nupe # gútswayĩ̀
+# Gbari (Gwari) # tnunwi
+# Idoma # ɛhi̥li̥
+# Etulo # ὲgyĩ
+# Yala # ὲrıˈwıˈ
+# Igede # ɪ̄rwɔ̀nyὲ
+# Eloyi # -ɔ̄rὲnyí
+# Yoruba # ὲfà
+# Igara # efa
+# Engenni # ὲnyɪ́sà
+# Degema # ɪ̀-jɪ́'sá
+# Epie # ɪ̀-yĩ̄-sã́ã̄
+# Eruwa # ɪ́-zã̀
+# Isoko # ɪ̀-zɪ́zà
+# Okpe # é-rhã̀
+# Urhobo # èé-sã́
+# Uvbie # é-rhà
+# Bini (Edo) # éhàn
+# Emai # éhan
+# Uneme # é-shùà
+# Ghotuo # ìē-hà
+# Uhami # έśέ-sàì
+# Ukue # ìrhɔ̃́-rhã̀
+# Oloma # esesa
+# Okpamheri # ɛsasa
+# Ogori # ɔp· ɔnɔ yɛrɛ
+# Ibo (Igbo) # isi
+# Izi # ìshí´ ì
+# Ikwere # ì-sĩ́nù
+# Ekpeye # bhísû
+# Yukuben (Boritsu) # ɔ́-toŋ gí:en
+# Kuteb # ìtsóŋ ǹzò
+# Icen (Etkywan) # tšiʌŋ
+# Eregba (Kpan) # í:-tinje
+# Jukun (Jibu) # sùndžĩ'
+# Wapan # tjĩ̀-djẽ'
+# Ashaku # tju a zũ
+# Nama (Tigon Mbembe) # tsa-ðo
+# Ogbia # ódîn
+# Kugbo # ódîn
+# Abua # ódíìñ
+# Odual # ódíín
+# Odbronuagum # odi
+# Gokana # ɔ̀ɔ̀lὲ
+# Kana # ìnìʔĩ̀
+# Efik # ìtyôkyet
+# Ibibio # ì-tiô-kὲ:d
+# Anaang # ì-tíè-kèt
+# Okobo # ìtíŋ́έ tšjɔ̀ŋ
+# Oron # ìtóògì
+# Ekit # ìtíŋ́έkjàŋ
+# Ibino # ìtìótsì
+# Obolo (Andoni) # gwèrèrgwèi
+# Mbembe # ǹčádànὲ
+# Leyigha # a-tena-wɔŋo
+# Yakur (Loko) # jàtə́n à-wàná
+# Legbo # à-ze̍n-a̍-wɔ̀nıˈ
+# Nkukoli # ténágɨnî
+# Olulumo # étı̍ta̍l
+# Kukele # bwɔ̀la'a̍níŋ
+# Koring (Okpoto) # brane
+# Ufia # br̀ánὲ
+# Kohumono # ɔ̄βɔ́-rà-yὲn
+# Awagwune # baragɔŋ
+# Umon # òβὲɾέ
+# Akpet # jò ná tšíí
+# Kiong # ó-'ńέn-ó-ndé
+# Korop # kà:sáɣàsá:
+# Bakpinka # buroon ebuni
+# Amo # ku-totšin
+# Piti # ti-tšerɪm
+# Chawai (Atsam) # a-tšɪrɪm
+# Kurama # tásé
+# Rebina # tá:sè
+# Surubu # ku-tasi
+# Gure # pe-taše
+# Kahugu # taši
+# Chamo # tase
+# Butu # taši
+# Ningawa # taši
+# Gyem # tasi
+# Lemoro # taase
+# Janji # tase
+# Sheni # taše
+# Buji (Jere) # tásé
+# Anaguta (Iguta) # tuasì
+# Chokobo (Izora) # tààshè
+# Reshe # tẽzo
+# C Kambari # tə̀:lí
+# SW Kambari # tə̀:lì
+# Ngwoi (Hungworo) # ǹthỳhÿ
+# Kamuku (Cinda-Regi-Tiyal) # i-tunihi
+# Bassa # tší:hĩ
+# Gurmana # čenihi
+# Ura (Fungwa) # tšĩ´ hĩ`
+# Basa-Komo # tšihi
+# Duka (Hun-Saare) # cînd
+# Dakarkari (C’lela) # tšíhèn
+# Ayu # tejet
+# Yashi (Hasha) # -kwif
+# Mabo (Bo-Rukul) # sen
+# Irigwe # rítsíæ
+# Boyawa # ša
+# Migili # ávi:zĩ
+# Aten # ta̍:ra̍
+# Birom # ti:mìn
+# Niten # dan
+# Katab (Tyap) Kagoro # ù-táà
+# Morwa # a-tei
+# Yeskwa # untši
+# Lungu (Idun) # tɔ́ɔ́í
+# Koro # tooší
+# Kamanton # tidžin
+# Kagoma # tjondi
+# Jaba (Ham) # tɔ:ni
+# Chori # pjuiŋ
+# Kenyi (Zhire) # tsujin
+# Izarek # gùtar
+# Afusare # ìgàrtá:r
+# Jari # gàtár
+# Kaje (Jju) # a̍kə́tàt
+# Kadara # ir-tin
+# Kuturmi # ten
+# Doka # kjuni
+# Ikulu # in-cunu 3332
+# Idong # etin
+# Rukuba (Che) # tai
+# Kwanka (Vaghat) # šan
+# Ninzam # táánɨ̀
+# Mada # efî
+# Nindem # ù-táání
+# Eggon # òfĩ´
+# Nungu # àndrá
+# Rindre # andra
+# Ake # o-ndra
+# Pyem (Fyam) # táárùn
+# Horom # taran
+# Tarok (Yergham) # ùkpə́ɗí- ŋ
+# Bashar (Yangkam) # meaŋ
+# Pai # metaɨ
+# Bokyi # ñâtšjât
+# Bekwarra # ìdyāākìn
+# Alege # é-tše:tše
+# Bete (Bendi) # díɔ̀ŋ-kɨ̀n
+# Mambila # tenjɛn
+# Kila (Somyewe) # te-mwe
+# Kamkam (Mbongno) # tiɛn-mo
+# Magu (Mvanip) # bətiɛnmo
+# Ndoro # soŋ kere
+# Bute # tiŋ-mui
+# Tiv # átárátáŕ
+# Batu # tɔno mon
+# Abon # tšɔ
+# Bitare # busoru
+# Mboa # kǒēnō
+# Nagumi # saesama
+# Jaku (Labir) # tɪɓa
+# Mama # tanza
+# Jarawa # toŋ-salmwak
+# Bankala # tə́ŋśέlmò
+# Mbula # bari nɔŋ mɔšɛt
+# Kulung # tı̍sa̍ƚmɔ̀ɣo̍o
+# Mbe # bὲ-sísar
+# Afudu # enyintae
+# Ndoe # bὲrábàrá
+# Ekoi # έsàɣàsá
+# Kwa # asakasu
+# Efutop # àsə́hàsà
+# Nkem # ì-râ-rá
+# Ekajuk # -ràgèrà
+# Kenyang # b́έtándàt
+# Limbum # ǹ-tòù-ɱ̀-fú
+# Kofa (Mfumte) # tûŋfú
+# Ndaktup # ntûmfú
+# Ntem # ntùfú
+# Yamba # tăn wātĕ́
+# Mbe’ # ntùnfú
+# Bamun # i-ntuu
+# Mungaka # intu’
+# Mankon (Ngemba) # -ǹ-túgə̀`
+# Pinyin # ǹ-tùú
+# Bafut # ǹ-tóʔó
+# Mandankwe # ǹ-tòú
+# Nkwen # ǹ-tòú
+# Babaju (Ngombale) # ntɔkg̵ə
+# Fe’fe (Bafang) # -tóɣó
+# Dschang (Yemba) # ntokó
+# Bafu # ǹ-tòɣó
+# Banjun (Ghomala) # ntɔkɔ́
+# Bangangté (Medumba) # ntágə
+# (Ngiemboon) # ǹtɔ̀gɔ́
+# Bangwa # ntóó
+# Ngwe # ǹ-tùdí
+# Aghem # tǒo
+# Babanki # ntùfa
+# Kom # ǹ-tùfá
+# Bum # tuǔfá
+# Oku # -ntùfa
+# Lamnso # ṇ 31 tu: 31 fu 35
+# Mbem (Kaka) # ntõ vō
+# Ndop # tɔvə
+# Kënsense (Bamessing) # ʌ̀-tɔ`ɔ́
+# Babungo (Vengo) # tɔvə
+# Bamunka # ǹtəə
+# Meta # təfõa
+# Menemo # tùfúr
+# Ngie # ifəu
+# Mekaf (Naki) # isîu
+# Bu # bətalə
+# Kinabe (Missong) # bilite
+# Koshin # bɨfuɔ́
+# Dumbo (Kemezung) # bùsíí
+# Nchanti (Ncane) # sɔ̀
+# Noni # sɔɔcàn
+# Tikar # fẅóló
+# Bandobo # solu
+# Lundu # -tare oko
+# Lue # bi-sama
+# Balong # mútòb
+# Bonkeng # bi-sama
+# Bafo # ntìó
+# Bakwiri (Mokpwe) # mo̍tóá
+# Su # mu-toba
+# Duala # mutóba
+# Bubi # lade
+# Noho (Batanga) # n-toba
+# Yasa # mu-toba
+# Benga # u-toba
+# Lombi (Barombi) # mo-tuwa
+# Bankon (Abo) # bí-sámà
+# Basaa # sámàl
+# Tunen # -ĺέndal
+# Mbong # βé-tá lì-ɔ́kɔ́
+# Ki # mwālātó
+# Bulu # -sàmàn
+# Ewondo # saman
+# Bebele # sàmàn
+# Fang # samé
+# Ngumba # n-toa
+# Bujeba # ntaŋ vur
+# Njem (Koonzime) # -tobɔ
+# Mpiemo # -tan-e-woro
+# Yaka (Kako) # -tanewato
+# Myene # orowa
+# Sekyani # -tan-ai-wɔte
+# Kele # -tani na yi-wɔtɔ
+# Wumvu # motoba
+# Kota # -tan’ moko
+# Tsogo # motoba
+# Kande # mo-toba
+# Pinji # motoba
+# Sira # isyamanu
+# Sangu # samano
+# Punu # bisyamunu
+# Lumbu # bisamunu
+# Duma # -samunu
+# Njebi # e-samuna
+# Mbede # -syami
+# Mbama # -tan’ ke-mɔš
+# Ndumu # -sameni
+# S. Teke # šyeno
+# N Teke # -semini
+# NE Teke # Sienʊ
+# C Teke # Sienʊ
+# E Teke # Siem
+# W Teke # jam
+# Buma # -shiö´ köm
+# Tiene # -síame
+# Yanzi # ko-wob
+# Di # syām
+# Aka (Yaxa) # -sàmánò
+# Ngundi # -tana-i moti
+# Pande # -amano
+# Koyo # -tóbá
+# Bobangi # môtöba
+# Sengele # bi-samalo
+# Sakata # i' sawn
+# Ntomba # hamalo
+# Lingala (Losengo) # motoba
+# Buja # -sámano
+# So # m-balomoi
+# Lokele # li-ambi
+# Foma # li-ambi
+# Ngombe # samano
+# Bwela # hámano
+# Bati # sa-salu
+# Bua # a-da nsi moti
+# Mongo # -botóá
+# Mbole # sambali
+# Ombo # -samalo
+# Tetela # enáánɛí
+# Kusu # samaro
+# Nkutu # samalu
+# Kela # sambano
+# Songomeno # bi-samalu
+# Bushong # ba-samalu
+# Enya # mo-toba
+# Lengola # techinendára
+# Bali # i-dju
+# Lega # moróbá
+# Holoholo # -tandá
+# Piri (Bhele) # mu-tuba
+# Bira # ma-dya
+# Nyali # ma-dia
+# Bodo # molon-mòtú-tátali-motu
+# Komo # síta
+# Kare # itanu-nà-yimɔ̀tyí
+# Nyanga # mu-túbá
+# Logoli # sita
+# Gusii # isano nemo
+# Kuria # isansaba
+# Zanaki # isasaba
+# Nata (Ikoma) # isasabhi
+# Sonjo (Temi) # nɛdani
+# Ngurimi # isansabha
+# Kikuyu # ithathatû
+# Embu # ithathatʊ
+# Meru # firindaru
+# Tharaka # iθandatu
+# Kamba # thanthatũ
+# Chaga # -rinàru
+# Gweno # tandatu
+# Pokomo # handahu
+# Nyika (Giryama) # handahu
+# Taita # irandadu
+# Bende # mukagha
+# Fipa # uuntanda
+# Nyamwezi # -tandáto
+# Sumbwa # mkaga
+# Sukuma # -tandátu
+# Kimbu # mutanda
+# Bungu # sita
+# Nyilamba # -tandatọ
+# Mbugwe (Irangi) # i-sasatu
+# Mbugu # -mtendatu
+# Rimi (Nyaturu) # mutandatu
+# Langi # isasatu
+# Gogo # m-tandatu
+# Kaguru # m-tandatu
+# Shambala # -tandatu
+# Tubeta (Taveta) # -tandatu
+# Casu (Pare) # -tandatu
+# Bondei # sita
+# Zigula # tandatu
+# Zaramo # yesita
+# Ngulu # mtandatu
+# Kami # sita
+# Kutu # sita
+# Sagala # m-tandatu
+# Swahili # sita
+# Komoro # sita
+# Tikuu # sita
+# Pogoro # sita
+# Ndamba # sita
+# Sango # m-tanda
+# Hehe # mutaanda
+# Bena # fimutanda
+# Pangwa # sita
+# Kinga # -n-tanatu
+# Wanji # ntanda
+# Kisi # sita
+# Kikongo # kusambanu
+# Bembe # -sa:munu
+# Yombe # -sambanu
+# Kimbundu # samanu
+# Sama # -samana
+# Bolo # -samana
+# Songo # -samana
+# Yaka # -sááƚmbánú
+# Suku # -sámbánu
+# Mbangala # samanu
+# Hungana # bi-nin’
+# Soga # mukaga
+# Gwere # mukaaga
+# Nyala # -tano na lala
+# Luganda # mukaaga
+# Nyoro # om̄kaaga
+# Nyankole # om̄kaaga
+# Nkore-Kiga # mukaaga
+# Karagwe # mu-kaga
+# Haya # mukáaga
+# Kerebe # mugaka
+# Zinza # mukaga
+# Kwaya (Jita) # etanu na imwi
+# Masaba # tsiseesaba
+# Luhya # -sasaba
+# Saamia # chitanu na ndala
+# Konzo # omu-kaga
+# Nande # ndatu
+# Hunde # sita
+# Shi # -dàtù
+# Kabwari # m-tanda
+# Rwanda # gatandatu
+# Rundi # -tandatu
+# Shubi # mukaaga
+# Hangaza # mukaga
+# Vinza # katandatu
+# Ha # gatandatu
+# Chokwe # mu-sambânu
+# Luchazi # sambano
+# Lwena (Luvale) # musambu
+# Mbuunda # -tana na u-mu
+# Nyengo # -moya 
+# Mbwela # -tanu na omo
+# Lunda (Ndembo) # sambaŋo
+# Luyana # -sikaa na -mwea
+# Kwangali # ntazimwe
+# Kwangwa # -omboƚmwe
+# Mwenyi # mutáánu ná -mweya
+# Gova (Mbukushu) # kwoko no-fotji
+# Subia # zimane anza ni yi-mwina
+# Mbala # sambanu
+# Luna # sambomo
+# Bangubangu # mu-tuba
+# Kete # -sàmbàn
+# Songye # sambombo
+# Luba-Kasai # -sáámƚboombó
+# Kanyok # mu-sambanu
+# Luba-Shaba # samba
+# Hemba # samba
+# Sanga # samba
+# Kaonde # tutaanu nekamo
+# Nkoya # -tanu na ʊmʊ
+# Mbwera # sambanʊ
+# Pimbwe # sita
+# Rungwa # sita
+# Rungu # mutanda
+# Mambwe # mutanda
+# Ndali # ntandatu
+# Mwanga # mu-tanda
+# Nyiha # sita
+# Malila # mutanda
+# Safwa # tandaa
+# Iwa # mutanda
+# Tembo # mutanda
+# Nyakyusa # ntandatu
+# Taabwa # mu-tanda
+# Bemba # mutanda
+# Bisa # -sano na -mo
+# Lala # -sano na -mo
+# Lamba # -sanu na-mo
+# Lenje # tosánwe a komwí
+# Ila # chisambomwi
+# Tonga # musanu -mwi
+# Manda # sita
+# Matengo # sita
+# Mpoto # sita
+# Tonga # nkonde na chimoza
+# Tumbuka # nkonde na chimoza
+# Nyanja # zisanu ndi chimodzi
+# Senga # -sano na -mo
+# Kunda # -tantatu
+# Nyungwe # -tant’atu
+# Sena # -tanthatu
+# Rue # -šano na me-tu
+# Podzo # -tandatu
+# Ndengereko # sita
+# Ruihi # sita
+# Matumbi # sita
+# Ngindo # sita
+# Yao # msano na -mo
+# Mwera # 
+# Makonde # mwanu na -mo
+# Mabiha # mɸanu na -mo
+# Makua # tânu ná mózà
+# Lomwe # -tanu na moha
+# Chuabo # -tanu na moða
+# South Mbundu # epandu
+# Nyaneka # pandu
+# Kwanyama # n-hano na i-mwe
+# Ndonga # -hamanó
+# Herero # ohamboumwe
+# Shona # tanhatu
+# Zezuru # -tánhatú
+# Manyika # -tanɦatu
+# Karanga # tanatu
+# Ndau # tantato
+# Kalanga # -tathatu
+# Venda # rathi
+# Setswana # babarataro
+# N Sotho # tshela
+# Sesotho # tshelela
+# Xhosa # thandathu
+# Zulu # isitupa
+# Swazi (Swati) # -si–tfûpha
+# Ndebele # isithupha
+# Ngoni # -tano na-mozi
+# Tswa # nklanu wa -ŋwe
+# Tonga # ntlhanu na -ŋwe
+# Tsonga # tsevu
+# Ronga # ntlhanu na xiñwe
+# Chopi # m̄tš’anuni--mwe
+# Tonga Imhambane # -sanu mu--mwi
+# Finnish # kuusi
+# Meänkieli (Tornedalian) # kuusi
+# Ingrian # kūz
+# Karelian # kuuši
+# Olonets (Livvi) # kuuzi
+# Ludic # kuuš
+# Veps # kuź
+# Sódjärv # kuź
+# Votic (Vod) # kuuz
+# Estonian # kuus
+# Livonian # kūž
+# N Saami (Lapp) # guhtta
+# S Saami # kuuɔtɛ
+# Inari Saami # kuttâ
+# Lovozero (Kildin) # kudḍ
+# Skolt # kutt
+# Udmurt (Votyak) # kwatʲ
+# Komi (Zyryan) # kvayt
+# Permyak # kvat’
+# Mari (Cheremis) # kudɪt
+# Gornomari (Hill Mari) # kudɪm
+# Mordvin (Erzya) # koto
+# Moksha # kota
+# Hungarian # hat
+# Khanty # ȟut
+# Mansi # ȟot
+# Selkup # muktyt
+# Nenets # matʔ
+# Enets # mottú”
+# Nganasan # motü
+# Chuvash # ult
+# Turkish # altı
+# Crimean Turkish # altı
+# Turkmen # altı
+# Khalaj # alta
+# Gagauz # altı
+# Azerbaijani # altɪ
+# Uyghur # altæ
+# Uzbek # olti
+# Yellow Uighur # altɪ
+# Salar # alty
+# WYughur # ahldy
+# Fu-yü Gïrgïs # altï
+# Bashkir # altɪ
+# Karachay # altı
+# Karaim # altı
+# Kumyk # altı
+# Tatar # altı
+# Baraba # alttı
+# Crimean Tatar # altı
+# Kazakh # altı
+# Kazakh written # алты
+# Kyrghyz # alty
+# Nogai # altı
+# Karakalpak # altı
+# Yakut # alta
+# Dolgan # alta
+# Khakas # altı
+# Altay # altɪ
+# Chulym # altı
+# Shor # altı
+# Tuvan # aldı
+# Karagas # altè
+# Mongolian (Khalkha) # dzorɣaa
+# Khorchin (Peripheral) # džurgā
+# Ordos # džurgā
+# Buryat # zurgaan
+# Oirat # zurɣā
+# Kalmyk # zurhan
+# E Yurghur # jurghuun
+# Pao-an (Bonan) # jirghung
+# Santa (Dongxiang) # jirghun
+# Monguor (Tu) # jirghoon
+# Dagur # jirgoo
+# Moghol # jurghan / shish
+# Negidal # ñuŋun
+# Even # ñuŋən
+# Evenki # nyuŋun
+# Solon # ningun
+# Orochon # nyungun
+# Manchu # ninggun
+# Jurchen # ninggu
+# Sibe (Xibo) # nüngun
+# Nanay # nyuŋun
+# Hezhen Nanai # ningun
+# Gold # ṇuŋgun
+# Olcha # ñuŋgu
+# Orok # nuŋgu
+# Oroch # ñüŋü
+# Udihe # ñuŋu
+# Korean # yǒsǒt
+# Korean written # 여섯
+# Sino-Korean # yuk
+# native Japanese # muttsu
+# Sino-Japanese # roku
+# Irabu # mm-cï
+# Ogami # muiu
+# Yuwan # muu-cɨ
+# Hachijō # mɯttsɯ
+# Ainu # iwan
+# Kuril # iwam-pe
+# Sakhalin # iwan-pe
+# N Yukaghir # mālayl-a-n’
+# S Yukaghir # melʀalo-y
+# Chukchi (Chukot) # ənnanmətləŋen
+# Kerek # ənnan məlləŋi
+# Koryak # ɪnnan- mɪllɪŋɛn
+# Alyutor # ənnanməlləŋən
+# Kamchadal (Itel’men) # 
+# Ket # as’
+# Gilyak (Nivkh) # ŋax-
+# Hmong mod. orth. # rau
+# Green Miao (Mong Njua) # čau
+# Bunu # tɤw
+# White Meo # ţow
+# Chuanqiandian # ţow
+# NE Dian # tƚaw
+# Qiandong # tjuh
+# Xiangxi # ţoh
+# Mien (Yao) # kuq
+# mod. orth. # juqv
+# Jinmen (Mun) # kjo:
+# Biaomin # klɔq
+# Zaomin (Ba Pai) # to
+# Xiaoban # kio
+# Banyao # klu
+# She # kɔh
+# Jiongnai # čoh
+# Be (Lingao) # lok
+# Nung Ven (En) # nam 24
+# Lati # nam
+# Gelao Qau # naŋ
+# Hagei # ñaŋ
+# White # ćə
+# Red # soŋ 44
+# Yiren # tśho 13
+# Buyang # nam 33
+# Yerong # nām 53
+# Lakkia # lɔk D2S
+# Proto-Kam-Sui # ljok D1
+# Kam # ljok8
+# Dong # ljok 21
+# Sui # ljok8
+# Mulao # ljok D2
+# Mak # lok8s
+# Maonan # ljok D2
+# Then # ljok D2
+# Northern Li (Hlai) # tom
+# Southern Li # nom
+# Seao # nom
+# Bupäli # nom
+# Basadung # dom
+# Dogang # dom
+# Ha # tom
+# Qi (Gei) # tom
+# White Sand # tom
+# Cun # tsem
+# Laqua # nam
+# Laha # dam 343
+# Thai # hok 22
+# Thai written # หก
+# Lao # hōk 44
+# Shan # hōk 44
+# Lü # hok1
+# Khün # hōk
+# Maw # hǒk
+# Phu Thai # hok1
+# N Thai # hok1
+# S Thai # hɔk1
+# Ahom, Khamti # rōk, hōk
+# Black Tai # hok2
+# Red Tai # hok2
+# Tay Nua # hok2
+# Yuan # hǒk
+# Yunnan Shant’ou # hoo-go
+# Nung # hohc 23
+# Tay # sốc
+# Tho # hɔk1
+# Man Cao-lan # lu’k2
+# Tien-pao # khjɔʔ
+# Ts’un-lao # yok0
+# Lung-chow # luk 21
+# N Zhuang # Qok 5
+# S Zhuang # huk 5
+# Puyi (Bouyei) # zok7
+# Giay # rók3
+# Hsi-lin # ðok
+# Nhang # rouk
+# Pou-se # hok3
+# Saek # rɔk4
+# Tien-chow # lok
+# Zhongjia # sok
+# Wu-ming # luk 12
+# Yay # rok3
+# Bugan # pio 33
+# Sino-Viet. # lục
+# Vietnamese # sáu
+# Saigon # şáw
+# Muong # khạw3
+# May (Ruc, Chut) # ráw
+# Thavung (Aheu) # phaluʔ
+# Tay Pong (Hung) # prău
+# Arem # prau
+# Khasi # hnriw
+# Amwi # thrau
+# Palaung # tōr
+# Rumai # tɔ2
+# Danau # tun
+# Riang # twàl
+# Lamet # tal
+# Khamet # tol
+# Plang (Kontoi) # leh2
+# Kem Degne # lè
+# Wa # lich
+# Lawa # laeh
+# La (Vo) # lie
+# Phalok (Parauk) # li
+# Son # lu-à
+# En # liă
+# A Mok # tàll
+# P’uman # t’ao
+# Pou Ma # hok
+# Khmu’ # hók
+# Mal # piapaeh
+# Mrabri # tán
+# So # tapet
+# Bru # tapoât
+# Van Kieu # tapât
+# Suei # tapat
+# Na Nhyang # thpak
+# Kuy # thəpha:t
+# Tareng # pat
+# Pacoh # tapát
+# Katu # səpat
+# Kantu # tapat
+# Ong # tpat
+# Ngeq # tapu’at
+# Khmer # pram múuəj
+# Khmer written # ប្រាំមួយ
+# Stieng # prau
+# Chrau # prau
+# Biat # praw
+# Ko’ho # pro
+# Sre # praw
+# E Mnong # prǎw
+# C Mnong # prǎw
+# Loven # třao
+# Lave # třao
+# Sapuan # traw
+# Cheng # caw
+# Suq (Sou) # traw
+# Nyahöŋ # trǒu
+# Oi # třao
+# Brao # trau
+# Krung 2 # traw
+# Lavi # traw
+# Bahnar # to’drou
+# Alak # taḥrău
+# Tampuan # trao
+# Cua # ko’drôu
+# Rengao # to’drô
+# Jeh # to’drau
+# Halang # tarau
+# Sedang # tədróu
+# Hrê # tadràw
+# Didra (Todrah) # dadrue
+# Modra # tandru
+# Pear # kədɔ:ŋ
+# Bolyu # pju 53
+# Samre # kadang
+# Chong # kadɔɔng
+# Mon # kərao
+# Nyah Kur # traw
+# Che’ Wong # nem
+# Kensiu # ¯am
+# Mos # mampoh
+# Semai # anam
+# Temiar # anam
+# Mah Meri (Besisi) # nam
+# Semaq Beri # pruʔ
+# Semelai # pruʔ
+# Temoq # těpěru
+# Nicobarese # tafūl
+# Nancowry # lue tafuel
+# Shompen # lagau
+# Car # tafụ́l
+# Mundari # turuia
+# Bhumij # turia
+# Ho # turuiá
+# Korwa # chha
+# Birhor # chhai
+# Asuri # turiā
+# Santali # turui
+# Turi # miad’ ti miad’
+# Kurku # turūī
+# Kharia # tiburu
+# Juang # chhao
+# Gorum (Parenga) # turgi
+# Sora (Savara) # tudru
+# Gutob (Gadaba) # tir
+# Remo (Bondo) # tʔīri
+# Gta’ # tur
+# Chinese written # 六
+# Mandarin (Běijīng) # liù
+# (Běijīng IPA) # lioʊ 51
+# Mùpíng # liou 131
+# Xī’ān # liou 11
+# Chéngdù # niəu 12
+# Yángzhōu # lɔʔ 4
+# Wǔhàn # nəu 213
+# Nánjīng # luʔ 5
+# Ürümqi # liəu 213
+# Dungan # ljugɨ
+# Jin Píngyáo # liəu 55
+# Xiang Chángshā # nou 4
+# Shuāngfēng # nəu 31
+# Wu Shànghǎi # loʔ 13
+# Sūzhōu # lɯʔ 22
+# Wēnzhōu # liu 42
+# Gan (Nánchāng) # liuk 41
+# Línchuān # tiuk 5
+# Cantonese # lok 2
+# Hong Kong # luk 2
+# Toishan # luk 31
+# N. Min Jiànóu # ly 42
+# E. Min Fúzhōu # lek 4
+# S. Min Xiàmén # lak 5
+# Cháozhōu (Teochew) # lak 42
+# Hailam # lako
+# Hakka Méixiàn # liuk 1
+# Fúzhōu # løyʔ 4
+# Táoyuán # liok 2
+# Bai Jianchuan # fvʔ
+# Dali # fvʔ
+# Bijiang # fvʔ
+# Sulung # reí
+# Sherdukpen # khit
+# Wewaw # hu
+# Pho # χu 22
+# Taungthu (Pa-o) # θu
+# Bwe # θö θå
+# Kayah # sō swáʔ
+# Yinbaw # šu
+# Karenbyu (Geba) # mä θà θo
+# Padaung # cho
+# Gekho # šo
+# Sgaw # χü 44
+# Mopwa # hú
+# Paku # xíj
+# Miju Mishmi (Kaman) # ki-tàm
+# Hruso (Aka) # rie
+# Newari # k’u-gu
+# Pahri # k’u-gu
+# Digaru Mishmi # tahro
+# Idu # tahro
+# Lhoba # tā-hrò
+# Motuo # k’uŋ
+# Dhimal # tū
+# Toto # ţū
+# Lepcha # ta-rak
+# Adi # ā-keŋ-kɔ
+# Nishi # akh
+# Dafla (Tagen) # ā-kr
+# Apatani # xrjɯ
+# Yano # akke
+# Lho-pa (Bokar Adi) # akɯ
+# Monpa (N) # grok
+# S # gro`
+# Takpa # kro
+# Kaike # ru
+# Murmi (Tamang) # ţū
+# Manang # t’u 4
+# Gurung # ţū
+# Thakali # ţuh
+# Tibetan (Bhotia) # dug
+# Ladakhi # tuk
+# Dzongkha (Bhutanese) # dru
+# Sherpa # ʈuk
+# Stod Bothi # ţuk
+# West Tibetan (Balti) # truk
+# Magari # ch‘a
+# Raji # turku
+# Vayu # cha / chhu-niŋ
+# Chepang # kruk-
+# Bunan (Gahri) # trui
+# Thebor # ţuk-
+# Kanashi # tso
+# Chitkuli # ţu
+# Kanauri # ţug
+# Manchati (Pattani) # trui
+# Chamba # trūī
+# Rangloi (Tinani) # trui
+# Rangkas # ţuk
+# Darmiya # ţuku
+# Chaudangsi # ţogo
+# Byangsi # ţugo
+# Thami # ch‘au
+# Thulung # ru
+# Bahing # ruk-ba
+# Sunwar # ruku
+# Dumi # mu
+# Khaling # ’raa
+# Rai # j‘ak-pu
+# Kulung # tuk-
+# Khambu # tuk-chi
+# Rodong # tūk-ka-ra
+# Lohorong # tūk-chi
+# Yamphu # cuʔum
+# Yakha # tuk-ji
+# Limbu # tuksi
+# Waling # tūk-ya-k
+# Rungchenbung # tūk-ya
+# Dungmali # tūk-chi
+# N Qiang Taoping # xtšu 33
+# Mawo # xtšɛ
+# Dzorgai # tøh
+# Kortse # tuiü
+# Ergong # wtɕhau
+# Thochu # xa-ta-re
+# Queyu # č’í
+# Zhaba # c̣’ó
+# S Qiang # xc̣ū
+# Puxi # χtʂu
+# Ersu # č’ū
+# Lyusu # c̣’v̄
+# Guiqiong # k’uô
+# Muya # č’uə̀
+# Pumi # č’ùʔ
+# Shixing # č’ô
+# Namuyi # k’ù
+# Japhug rGyalrong # kɯtʂɤɣ
+# Garo # -dok
+# Atong # kōrōk
+# Tripuri (Kok Borok) # dok
+# Chutiya (Deori) # chu
+# Bodo # ṛā
+# Dimasa # m-do
+# Lalung # chhui
+# Tangsa (Tableng) # wok
+# Chang # lak
+# Moshang # trok
+# Konyak # wok
+# Wancho # arok
+# Nocte # i-rok
+# Phom # rok
+# Meithei # tɔ-ruk
+# Mikir # rāk
+# Mru # t-ro 1
+# Yimchungru # thruruk
+# Lhota # tīrōk
+# Lophomi (Sangtam) # thüro
+# Thukumi # t’u-ru
+# Pochuri # toro
+# Mongsen # terok
+# Yachumi # t‘u-ro
+# Ao # tæhok
+# Tengsa # t‘e-lok
+# Rengma # ce-ro
+# Ntenyi # togho
+# Meluri # taro
+# Kezhama # sārr
+# Mao # choro
+# Zumomi # tso-ɣa
+# Simi (Sema, Sumi) # c-ɣó
+# Sopvoma # cho-ro
+# Angami # sō-rù
+# Chakrima # shwürü
+# Maring # t‘a-ruk
+# Tangkhul # t’-ruk
+# Khangoi # t‘a-rūk
+# Kupome # t-ruk
+# Maram # s-rok
+# Kabui # cha-rūk
+# Liangmai # charuk
+# Nruanghmei # cüruk
+# Khoirao # s-ruk
+# Zeme # seruk
+# Empeo # sū-rūk
+# Kwoireng # cha-rūk
+# Thado # gùp
+# Kamhau # guk
+# Paite (Vuite) # guk
+# Siyin # lōk
+# Zo (Zome) # guʔ
+# Anal # t-ruʔ
+# Lamgang # tū-rūk
+# Kolhreng # kū-rūk
+# Kom # k-ruk
+# Tarao # ku-ruk
+# Aimol # ka-rūk
+# Chiru # ū-rūk
+# Purum # a-rūk
+# Langrong # pā-rūk
+# Hrangkhol # ruōk
+# Biate # ĭ-rūk
+# Hallam (Falam) # ā-rūk
+# Hmar # paruk
+# Pankhu # rūk
+# Haka (Lai, Bawm) # pa ruk
+# Shonshe # rūk
+# Mara # -charu
+# Tlongsai # miacharu
+# Lushai # -ruk
+# Mizo # pa-ruk
+# Banjogi (Zotung) # pa-rūk
+# Taungtha # p-ru
+# Sho # sok
+# Thayetmo # so
+# Chinbok (Mün) # k’ruk
+# Chinbon # šo-ke
+# Yawdin # k’rok
+# Khumi # taríü’
+# Khami # tarü
+# Kachin (Jingpo) # krú̱ʔ
+# Kadu # kôk
+# Andro # kok hà
+# Sak # kruk-
+# Taman # kwa
+# Chairel # lū-
+# Rawang # t’ă-ru
+# Nung # t’-ru
+# Drung # kruʔ
+# Metu # tə-ru
+# Melam # k-ru
+# Tamalu # k-əu
+# Tukiumu # k-əu
+# Naxi # ʈʂʰwɑ́
+# Na (Moso) # qʰv̩̌
+# Laze # qʰɔ̀
+# Gazhuo # č’oʔ
+# Burmese # c’auq
+# Lashi # k’júk
+# Maru # k’jáuk
+# Phun (Hpon) # kɔ́ŋ-jɔ́ŋ
+# Tsaiwa # k’júʔ
+# Achang # xrōʔ
+# Nusu (N) # k’rū
+# S # c̣’ù ̱
+# Zaozou # k’aq
+# Xa Pho (Laghɯ) # khu 33
+# Pakishan # fou ma
+# Kangsiangying # h’a
+# Kiaokio # lók dö
+# Nee # hru ma
+# Tudza # ts’ju lö
+# P’ou-la # ču to
+# Ulu # k’iu
+# Ko-p’u # tsiou lée
+# Weining # tchô
+# Mung # kò·u3
+# Lisu # č’òʔ
+# Yi (Lolo) # fut
+# Chökö # so
+# Ahi # ch‘u 15
+# Lolopho # ch‘o 15
+# Phupha # so
+# Phunoi # khà
+# Bisu # hɔ́k
+# Mpi # khoʔ2
+# Hwethom # ku3
+# Akha # k’ô
+# Ako # kō
+# Asong # kouma
+# Phana # kouma
+# Menghwa # k’o
+# Hani # kuvq
+# Lahu # khɔ̀ʔ
+# Lahu Xi # k’ɔ 2
+# Manyak # trū-bi
+# Horpa # ch‘au
+# Menia # k’o
+# Muli # t’ru
+# Ugong # kaw
+# Atayal # tizyuʔ
+# Sedeq (Taroko) # mumuteru
+# Rukai Taloma # ənə́mə
+# Bud # ə́nəmə
+# Maga # nɨmɨ
+# Tona # nə́mə
+# Mantauran # nəmə
+# Tsou # nómə
+# Kanakanabu # n´ə́mə
+# Saaroa # kənəmə
+# Bunun # nuum
+# Paiwan # unəm
+# Puyuma # nəm
+# Saisiyat # sayboši:
+# Ami # ʔnəm
+# Kavalan # ʔənəm
+# Pazeh # xasəbuzaʔ
+# Thao # kato:roʔ
+# Chamorro # gunum
+# Modern # sais
+# Palauan # elolęm
+# Yapese # nel
+# Isnag # ʔánnam
+# Yogad # qannam
+# Adasen # qannɨm
+# Malaweg # annam
+# Agta # ʔanna̱m
+# Itawis # annə́m
+# Gaddang # ʔanɨm
+# Ibanag # annám
+# Atta # annam
+# Umiray Dumaget # qanɨm
+# Southeast Cagayan Agta # anəm
+# Kasiguranin # ənəm
+# Casiguran Dumaget # qɨ’nɨm
+# Paranan # anném
+# Ilokano # innem
+# Isinai # anóm
+# Itneg # qɨ’nɨm
+# Kalinga (Llamzón) # olóm
+# N Kalinga # onóm
+# S Kalinga # onóm
+# Balangaw # ʔɨnɨm
+# Kiangan # qonóm
+# C Ifugao # ʔonóm
+# Batad Ifugao # onom
+# C Bontok # qiním
+# E Bontok # qonom
+# Kankanay # ənə́m
+# North # qiním
+# Iyaplay # enem
+# Ilongot # tambiang nu sít
+# Pangasinan # aném
+# Inibaloi # ‘ɨnɨm
+# Karaw # qɨnɨm
+# N Kallahan # ʔî- nɨm
+# S Kallahan # enem
+# Yami # anem
+# Itbayaten # aʔnəm
+# Ivatanan # anəm
+# Babuyan # a:nem
+# Ivatan # anem
+# Sinauna (Remontado Agta) # ʔaʔnúm
+# Kapampangan # ánam
+# Tina # aʔnəm
+# Botolan # ‘qanɨm
+# Bolinao # qaqnɨm
+# Alangan # enem
+# West Subanon # gonom
+# Binukid # haənúm
+# Obo # ʔánɨm
+# Ata # nonʔom
+# Tigwa # hɨnʔɨm
+# Matigsalug # hun-em
+# Agusan # ʔunî- m
+# Dibabawon # ʔɨnɨm
+# Rajah Kabungsuan # onom
+# Ilanen # ʔî- nɨm
+# West Bukidnon # hɨʔɨnɨm
+# Tagabawa # ʔánɨm
+# Sarangani # ʔanam
+# Kalamansig # ʔî- nɨm
+# Tasaday (Cotabato) # ʔaî- m
+# Magindanao # ə́nnəm
+# Maranao # nəm
+# Iranon # nem
+# Hanunoo # únum
+# Buhid # ʔunum
+# Taubuid # unum
+# Kalamianen # ʔɨnɨm
+# Agutaynon # ɨnɨm
+# Batak # ənə́m
+# Tagbanwa # ənə́m
+# Palaweŋo # anɨm
+# Molbog # onom
+# Banggi # ʔonom
+# Tagalog # ánim
+# Bikol (Naga) # anóm
+# Buhi # ənəm
+# Iriga # ʔɨnɨm
+# Kamayo # qunum
+# Mandayan # qunum
+# Mansakan # ʔî- nɨm
+# Kalagan # ʔɨnɨm
+# Tagakaolo # ɨnɨm
+# Mamanwa # ənə́m
+# Surigaonon # qənə́m
+# Jaun-Jaun # qunúm
+# Kantilan # qunúm
+# Tausug # únum
+# Butuanon # qunúm
+# Cebuano # unúm
+# Boholano # qənə́m
+# Gubat (Waray Sorsogan) # qunúm
+# N Samar # qunúm
+# Waray # unúm
+# Camotes (Porohanon) # qunúm
+# Bantayan # qunúm
+# Masbate # ʔunóm
+# Ilonggo (Hiligaynon) # ánum
+# Romblonanon # unóm
+# Banton # qánqom
+# Odionganon # qánqom
+# Kuyunon # qanəm
+# Datagnon # qánum
+# Kinaraya # anum
+# Pandan # qánəm
+# Looknon (Inonhan) # qánqom
+# Bulalakawnon # qánum
+# Aklanon # qânqom
+# Bagobo (Giangan) # qɨnɨm
+# Tiruray # ʔenem
+# Tboli # nɨm
+# Bilaan # nam
+# Talaud # annuma
+# Sangir # ənuŋ
+# Sangil # nuŋ
+# Bantik # nuŋ
+# Ratahan # num
+# Tonsea # ənəm
+# Tondano # ənəm
+# Tombulu # ənəm
+# Tontemboan # ənəm
+# Tonsawang # ənəm
+# Ponosakan # onom
+# Mongondow # onom
+# Bintauna # onomo
+# Kaidipang # onomo
+# Bolango # wonomo
+# Atinggola # onom
+# Gorontalo # olomo
+# Suwawa # wono
+# Buol # onom
+# Banggai # noom
+# Saluan # anom
+# Andio # noom
+# Balantak # noom
+# Balaesan # ronong
+# Tolitoli # onom
+# Tomini # onomE
+# Bolano # onom
+# Dondo # onomE
+# Dampelasa # honong
+# Kasimbai (Tajio) # onong
+# Petapa Taje # oono
+# Ndau # ronong
+# Lauje # onong
+# Kaili # aono
+# Pipikoro (Uma) # ono
+# Lindu # aono
+# Sedoa # aono
+# Napu # ini
+# Bada # ini
+# Rampi # ʔoni
+# Pamona # aono
+# Bungku # onoo
+# Mori # ono
+# Tolaki (Lalaki) # ono
+# Macassarese # annang
+# Buginese # ənnəŋ
+# Mandar # annang
+# Sadan # anan
+# Massenrempulu # ʌnʌn
+# Pitu Ulunna Salo # unuŋ
+# Mamuju # ʔanaŋ
+# Seko # unuŋ
+# Wotu # ana
+# Muna # noo
+# Wolio # nama
+# Buton # ana
+# S. Buton (Cia-Cia) # no’o
+# Tukang-Besi # no’o
+# Bonerate # kenóʔo
+# Kalaotoa # ánaŋ
+# Layolo # ana
+# Ida’an # no·m
+# Selungai Murut # onom
+# Kolod # onom
+# Sumambu (Tagal) # ʔonom
+# Paluan # onom
+# Timugon # ʔnnɔm
+# Beaufort Murut # ʔɔnɔm
+# Keningau # ʔɔnə́m
+# Tidong # ʔnnʌm
+# Sambakung # ənom
+# Baukan # ənom
+# Kalabakan # ʔɔnɔm
+# Gana # ʔonom
+# Kuijau # ənom
+# Kadazan-Dusun # ʔönöm
+# Lotud # ɔn´¨ m
+# Papar # önöm
+# Rungus # onom
+# E Kadazan # ʌnʌm
+# Klias R Kadazan # anam
+# Kimaragang # ʔonom
+# Garo # ʔənəm
+# Tebilung # ʔɔnɔm
+# Tatana # ʔönöm
+# N Bisayan # ʔönöm
+# S Bisayan # onom
+# Dumpas # ʔonom
+# Lingkabau # ʔənəm
+# Abai Sungai # onom
+# Tambanua # ənum
+# Upper Kinabatangan # ənom
+# Lobu # ʔʌnam
+# Lundayeh # ěněm
+# Kelabit # ěněm
+# Sa’ban # nam
+# Melanau # nam
+# Bukitan # nom
+# Narom # ěnam
+# Kiput # nem
+# Berawan # něm
+# Punan Bah # anum
+# Jagoi # nuəm
+# Singgie # nom
+# Biatah # něm
+# Bukar Sadong # něm
+# Bekati’ # unun
+# Benyadu’ # ěnm
+# Kembayan # nəm
+# Ribun # ning
+# Sanggau # nam
+# Punan-Nibong # anum
+# Murik Kayan # nem
+# Rejang Kayan # nəm
+# Kayan R. Kayan # nem
+# Aoheng # onom
+# Sebob Kenyah # nem
+# Upper Baram Kenyah # nem
+# Lawangan # ɔnɨm
+# Dusun Deyah # ɔnɔm
+# Ma’anyan # ɛnɛm
+# Malagasy # énina
+# Dohoi # ɔnɔm
+# Siang # ɔnɔm
+# Kapuas (Ngaju) # jahawɛn
+# Katingan # jahawɛn
+# Kahayan # jahawen
+# Bakumpai # jahawen
+# Tunjung # hagan
+# Abaknon # qánum
+# Batuan # ənnom
+# Yakan # ennem
+# Sibutuq # unnóm
+# Samalan # ənáŋ
+# N Sama # nnom
+# C Sama # ɨnnom
+# S Sama # unnom
+# Pangutaran # ənnu- m
+# Jama Mapun # nnom
+# Bajau # nnum
+# Poso (Indonesian Bajau) # anam
+# Javanese # nem
+# Krama # nem
+# Sundanese # gənəp
+# Mbaloh # anam
+# Gayo # ònòm
+# Lampung # něm
+# Komering # nom
+# Balinese # enem
+# Sasak # ěněm
+# Sumbawa # enam
+# Lom # nam
+# Mentawai # enem
+# Enggano # ariyb he kahaiʔ
+# Simeulue # nemaro
+# Nias # önö
+# Simalungan # onom
+# Mandailing # onom
+# Batak (Toba) # onom
+# Karo # enem
+# Alas # enam
+# Madurese # ennem
+# Iban # nam
+# Malayic Dayak # anam
+# Moklen # nam
+# Moken # nam
+# Minangƚkabau # anam
+# Urak Lawoi’ # nam
+# Rejang # ənum
+# Indonesian (Malay) # enam
+# Terengganu # enang
+# Achinese (Aceh) # nam
+# Huihui (Tsat) # na:t2
+# Jarai # nǎm
+# Rhade # năm
+# Haroi # nam
+# E Cham # nàm
+# W Cham # nǎm
+# Chru # nam
+# S Raglai # nam
+# N Raglai # nǎm
+# Teor # nɛm
+# Ambelau # ne
+# Buru # neʔ
+# Taliabo # nong
+# Sula # ganéi
+# Mangoli # gané
+# Banda # nemu
+# Geser # ʔonan
+# Watubela # onan
+# Bobot # nom
+# Masiwang # ʔainom
+# Seti # noi
+# Kayeli # ne
+# Nuaulu # nome
+# Wemale # dinaine
+# Atamanu (Yalahatan) # nóme
+# Saleman # lómi
+# Hulung # ne:ná
+# Lisabata (N Nuniali) # néna
+# Naka’ela # néna
+# Alune # ne
+# Asilulu # néna
+# Boano # nɛnáwa
+# Wakasihu # ńέniu
+# Manipa # ńέna
+# Luhu # néna
+# Teluti # nóe
+# Kaibobo # nóʔo
+# Hitu # ńέna
+# Paulohi # nojo
+# Kamarian # héʔe
+# Saparua # noʔo
+# Haruku # nóʔo
+# Nusalaut # nóʔo
+# Amahai # noʔo
+# Selaru # ńέm
+# Kei # neán
+# Yamdena # nɛm
+# Selwasa # nɛm
+# Ujir # dúau
+# Kola # dúm
+# Dobel # dúbu
+# Barakai # dóm
+# Tarangan # dóm
+# Helong # eneng
+# Naueti # kailima-resin
+# Kairui # kinee
+# Waimaha # kainena
+# Sikka # ena
+# Lamaholot # nəm
+# Alor # námmu
+# Kedang # enéng
+# Roti # nè
+# Timorese (Atoni) # nɛ:
+# Baikenu # nee
+# Habun # neen
+# Tetun # nɛ:n
+# Belunese # ne:n
+# Bekais # inan
+# Tugun # faneen
+# Kemak # neme
+# Tukudede # vívɛ ńέsɔ
+# Mambai # hóho-n-ida
+# Ainaro # lim-nain-ide
+# Galoli # ineen
+# Talur # eneem
+# Lakalei # -uolo
+# Idaté # neen
+# Wetar (Perai) # ʔinen
+# Rahesuk # baneen
+# Raklungu # heneen
+# Roma # wonéma
+# Kisar # wo’nɛme
+# Lóvaia # oneme
+# Letri Lgona (Luang) # wo-nema
+# Dai # nɛm
+# Dawera # lɛm
+# Masela # wonen
+# Damar # wonem
+# Teun # nɛmu
+# Serua # nɛmu
+# Bima # němu
+# Kodi # nâmô
+# Lamboya # annuʔ
+# Weyewa # enne
+# Anakalangu # namu
+# Mamboro # nâmu
+# E Sumbanese (Kambera) # nōmoe
+# Savu # ena
+# Manggarai # enem
+# Riung # non
+# Ende # rima ǎssa
+# Lio # lima ěsa
+# Palu’e # ené
+# Ngada # lima ěsa
+# Kaiwai # rim isamós
+# Uruangnirin # nem
+# Onin # nɛm
+# Sekar # nema
+# Arguni # a·nem
+# Bedoanas # venam
+# Erokwanas # a̱ujam
+# Nabi (Kuri) # ture-su
+# Irahutu # p̵řandɛ-p̵ɪndɛ tuřɛsu
+# Gane # wonam
+# E Makian # pwonam
+# Buli # piwonam
+# Maba # wonom
+# Patani # wonom
+# Sawai # wonem
+# Weda # wonem
+# Amber # wanom
+# Giman (Gane) # wonam
+# Waigeo # wanom
+# Batanta # wonom
+# Maya # wonom
+# Matbat # ainɔm
+# Laganyan # onòm
+# Kawe # wɔnóm
+# Gebe # siwonom
+# Waropen # gonno
+# Mor # rimo maʔa tatá
+# Iresim # rimaiŋganaket
+# Humuku # kanakele
+# Yaur # rádjáriè-darèbè
+# Yeretuar # matèhi-kòtèm
+# Tandia # márási-miei
+# Biak # wonem
+# Numfor # onem
+# Ron # rimjòsièdě
+# Dusner # rimbi-jòser
+# Meoswar # wonem
+# Wabo # we-onaŋ
+# Kurudu # bo-ve-rimrebo-sandi
+# Wandamen (Windesi) # rimsiri
+# Ansus # wonaŋ
+# Woi # wónaŋ
+# Pom # wonan
+# Aibondeni # wónaŋ
+# Marau # wona
+# Munggui # bo-wonaŋ
+# Papuma # bo-onang
+# Busami # wonang
+# Serui-Laut # boiri-ko-ri
+# Ambai # wonang
+# Maisin # faketi tarosi taure sese
+# Sobei # dimtés
+# Bongo # miekfari itkwase
+# Tarpia # mana-suksè
+# Yotafa (Tobati) # mʌndosim
+# Ormu # manrohima
+# Kayupulau # marotima
+# Sissano # entin ke entin ke entin
+# Ali (Yakamul) # lim-tei
+# Kairiru # lim-tai
+# Bam # kiki be areg di ru
+# Manam # lima teke
+# Megiar # sugwam yaumon
+# Matukar # numan tahek aintate ta
+# Gedaged # niman aenta tikun ta
+# Bilbil # nimanta ketei di
+# Biliau (Awad Bing) # dimad ziziliy deseg
+# Mindiri # madata tomomom ida
+# Sio # lima kanango taitu
+# Mangap # lama-ta mi ta
+# Lukep # lim be atul
+# Malasanga # bayerta takes
+# Barim # lim be ta
+# lua di # laingtela laingtela suplo
+
+# Tami # lim timong
+# Mutu # lim be es
+# Gitua # nimanda sirip wolo eze
+# Maleu # masa tea
+# Bariai # lima ga ere
+# Kove # lima ga ere
+# Lusi (Kaliai) # lima ɣa ere
+# Yabim # lemengteng ngano ta
+# Bukawac # lim dang ngando tigen
+# Labu # maipianendi tugwatu
+# Kela # lita mango nua
+# Kaiwa (Iwal) # bage tavlu tavlu ano dongke
+# Siboma (Numbami) # nima teula ano sesemi
+# Dangal (S Watut) # bangi  ru wangin
+# Maralango # sirokasirokab̵aŋen
+# Azera # iruʔ dairuʔ dairuʔ
+# Wampur # bacin marahin bisangcwa
+# Sukurum # lɛluk wagəlɛluk wagəlɛluk
+# Ngariawan # iru da iru da iru da bits
+# Sirasira # iruk a mangan iruk a mangan
+# Wampar # bangid  da oroz
+# Sirak (Nafi) # baing lafen urus
+# Guwot (Duwot) # limangga arinang anau na ta
+# Musom # baing lehem da munuts
+# Yalu (Aribwaung) # pangging lefen nitsin uruts
+# Mumeng # vige vilu di sec ti
+# Piu # serkti
+# Kapin # lima sakti
+# Mapos # nəmantəb̵aɣi mbiti
+# Hote # baheŋ’p̵i lahavu te
+# Yamap # b̵agɛbi bala-hava tom
+# Misim # behemvi bala-hava tom
+# Misima # ewon
+# Nimowa # ho-woni
+# Tagula (Sudest) # ghewona
+# Ubir # nim at reban kaita
+# Mukawa (Are) # nima masiana ba kesana
+# Gapapaiwa # mikovi ma sago
+# Boianaki (Ghayavi) # kumaneva sago
+# Wataluma # nima fafana tomokaga
+# Dawawa #  be  be ra:bu
+# Igora (Kakabai) # farigigi esebo
+# Wedau # ura gela tagogi
+# Taupota # ura gela emoti
+# Kehelala (Tawala) # nim’itutu po emosi
+# Kukuya (Minaveha) # nima papani keana ka aitamoata
+# Suau # harigigi karimoga
+# Bohutu # faligigi esega
+# Wagawaga # nima yatutu be esega
+# Tubetube (Bwanabwana) # varigigi kegeda
+# Duau # nimana kaigeda
+# Bunama # ulabara aigeda
+# Mwatebu # sikis
+# Kurada (‘Auhelawa) # nima ‘e‘ehebo na haligigi ‘esega
+# Sewa Bay # nima soᵘbařai kaikeda
+# Dobu # nima ta ebweu
+# Bosilewa # venimána
+# Molima # museupweya
+# Galeya # dimanina ‘iesi
+# Gumasi (Gumawana) # ainima tayamo
+# Yamalele # vi inega i damana
+# Fagululu # sikisi
+# Kalokalo (Koluawawa) # nima yavai idamana kaitamoga
+# Bwaidoka # nima fafali seyana
+# Diodio # nimafakewatamo ifokeyana
+# Budibud # kwelim katanok
+# Muyuw # kwei-nim katanok
+# Kilivila # -lima -tala
+# Mekeo # imagea
+# Roro # abaihau
+# Nara # kalakoi
+# Gabadi # karakoi
+# Doura # ima kaona
+# Motu # tauratoi
+# Sinagoro # taulatoitoi
+# Keapara # kaulakoi
+# Ouma # riria-una
+# Magori # ima reria ana
+# Yoba # ima reria kana
+# Bina # riria kana
+# Melamela # pantasa
+# Bileki (Nakanai) # iwolo
+# Xarua # lima polonai taku
+# Bola # polo tara
+# Bulu # hono
+# Vitu (Muduapa) # polo katiku
+# Tumuip # liɛm dɛnan mɔ dɛnan
+# Arawe (Solong) # elmoke
+# Moewehafen (Aiklep) # nake kongo
+# Gasmata # kesolo
+# Longa (Amara) # lume kapuk
+# Mok (Mouk-Aria) # luma kaine
+# Lamogai # -elmesa
+# Pulie # elme kene
+# Rauto # isakulo
+# Pasismanua (Kaulong) # sipeta
+# Kapore # hoton kasok
+# Mangseng # ořlimae
+# Uvol (Lote) # ratɛle ɛllɛ
+# Mamusi # -lotele kena
+# Mengen # ilman kan kɛn
+# Barok # lavanabas ma ra
+# Patpatar # liman ma tikai
+# Lihir # a liem ka wo
+# Siar (Lak) # iwan
+# Tolai (Kuanua) # a lăptikai
+# Duke of York (Ramoaaina) # purut
+# Lavongai (Tungag) # lima-le-sikei
+# Tigak # palmit sakai
+# Kara # pi saka
+# Tiang # patlima pa saka
+# Nalik # ka visik sakai
+# Notsi # vun
+# Tabar (Mandara) # pazu kes
+# Mussau # ga onɔmɔ
+# Lamusong # ono
+# Madak # lavana
+# Wuvulu # oderoa
+# Seimat # tepanim tehu
+# Kaniet # tohinjet
+# Hermit # wonop
+# Sisi (Bipi) # wono
+# Sori # gonop
+# Ponom # onof
+# Andra # onoh
+# Leipon # mawono
+# Loniu # wonoh
+# Lindrou # enoh
+# Levei (Khehek) # djaha:hu
+# Likum # cohahu
+# Gele # anoh
+# Nali # nono
+# Mokerang # mawono
+# Papitalai # wonoh
+# Titan # wono
+# Baluan # ngunep
+# Lenkau # enep
+# Lou # ŋiniop
+# Penchal # UnUp
+# Nauna # tuten a siu
+# Pak # wono
+# Nehan # tonomo
+# Halia # tönomo
+# Solos # tonom
+# Petats # tonom
+# Saposa # aunom
+# Tinputs # tonim mea pach
+# Teop # peha to toka
+# Mono # ɔnomo
+# Uruava # onomo
+# Torau # olomo
+# Banoni # bena
+# Vaghua # kaɔnɔmɔ
+# Varisi # kaɔnɔmɔ
+# Ririo # vɔnɔm
+# Babatana # vɔnomo
+# Marovo # ɔnɔmo
+# Vangunu # ɔnɔmɔ
+# Ghanongga # vɔnɔmo
+# Lungga # vonomo
+# Simbo # vɔnɔmo
+# Nduke # vɔnɔmo
+# Ughele # ɔnɔmo
+# Roviana # ɔnɔmo
+# Kusaghe # ɔnɔmo
+# Hoava # onomo
+# Kia (Zabana) # ɔnɔmɔɣu
+# Laghu # ɔnɔmo
+# Kokota # nablɔu
+# Zazao # hnaʔblɔ
+# Blablanga # hnablɔ
+# Maringe (Cheke Holo) # famnɔ
+# Gao # famnɔ
+# Nembao (Amba) # uru
+# Asumboa # suɔ
+# Tanimbili # kavilisuo
+# Buma (Teanu) # tuɔ
+# Vano # tawo
+# Tanima # o
+# Aiwo # po’legi
+# Santa Cruz # e’səmə
+# Nea # ’tʰima
+# Nanggu # ’t ʰemũ:
+# Aneityum # nijman celed et ithii
+# Sie # mehikai
+# Ura (traditional) # misai
+# (modern) # misikai-saiag̵an
+# Kwamera # kərirəm rəti
+# Whiteƚsands # kəriləm kətiəh
+# N Tanna # kariləm kičiyah
+# Lenakel # katilum karena
+# SW Tanna # kəlkələpkəlikiana
+# Yuaga # ni ma xɛ
+# Hmwaveke # nimbwa see
+# Jawe # ni-siic
+# Nemi # nimwedš
+# Fwai # ni-bweec
+# Pije # ni-bweec
+# Ajie # kanii na mâ rhaaxâ
+# Orowe # kêni mè rrakê
+# Tiri (Tinrin) # anrôrrô mê saa
+# Xaracuu # kɛ̃rɛ̃nĩ̵rĩ̵ mɛ̃ śaa
+# Xaragure # kɛ̂rɛ̂nĩ̵rĩ̵ mɛ̃ šaa
+# Numee # taa véré-xè mê taa nuotaa
+# Iaai # θabüŋ ke nua xača
+# Dehu # tranemen
+# Nengone # sedosa
+# Nauruan # ango
+# Gilbertese (Kiribati) # onoua
+# Fabre 1847 # onohua
+# Marshallese # jiljino
+# Kusaiean (Kosraean) # on
+# Mokilese # wonow
+# Ponapean # weneu
+# Trukese # woon
+# Puluwat # woon
+# Carolinian # ool
+# Ulithian # wo·ȯl
+# Sonsorol # woróu
+# Pulo Anna # oróu
+# Merir # oro
+# Tobi # woróu
+# Woleai # wol
+# Qae (Visale) # ono
+# Di ( Vaturanga, Ghara) # ono
+# Bughotu # ono
+# Gela # ono
+# Lengo # ono
+# Ghari # ono
+# Talise # ɔnɔ
+# Malango # ɔnɔ
+# Birao # ɔnɔ
+# Longgu # ɔnɔ
+# Lau # ɔnɔ
+# To’abaita # ɔnɔ
+# Kwara’ae # ɔōn
+# Langalanga # olo
+# Kwaio # ɔnɔ
+# Dori’o # ɔnɔ
+# Are’are, Marau # ōno
+# Oroha # ono
+# Sa’a # ’e ono
+# Arosi # ono
+# Fagani # ono
+# Bauro # ɔnɔ
+# Kahua # ono
+# Sakao # lønara
+# Lorediakarkar # linə-raθ
+# Shark Bay # na-raðe
+# Butmas # lema-raβ
+# Polonombauk # almara
+# Labo # tumusoi
+# Letemboi # leβ-sua
+# Repanbitip # loβəsua
+# Dixon Reef # i-laβ-sua
+# Nasarian # i-saus
+# Katbol # sout
+# Lingarak # i-nsos
+# Vinmavis # čou
+# Litzlitz # tsous
+# Larevat # nčos
+# Maragus # i-ləmsis
+# Big Nambas # lensei
+# Hiw # yeβe-se
+# Toga # liβi-sə
+# Lehali # leβe-te
+# Lehalurup # leβe-če
+# Motlav # leβe-te
+# Mota # laβea-tea
+# Vatrata # liβi-ʔie
+# Mosina # leβe-te
+# Nume # leβe-te
+# Koro # liβi-te
+# Wetamut # leβe-te
+# Lakona # letuwa
+# Merlav # liβi-tiə
+# Marino # laβa-tea
+# Central Maewo # taβ-tuɣʷale
+# Baetora # le-tβʷale
+# NE Aoban (E Ambae) # ono
+# Nduindui (W Ambae) # ko-ono
+# Raga # ono
+# Apma # lapwaleh
+# Sowa # lowal
+# Seke # lafwal
+# Sa # liti
+# N Ambrym # liuse
+# Lonwolwol # lise
+# Dakaka # miliβsies
+# Port Vato # mɛlɛpsie
+# SE Ambrym # tehetisaβ
+# Paama # ahitāi
+# Valpei # ono
+# Nokuku # ono
+# Piamatsina # ono
+# Vunapu # ono
+# Tolomako # lina-raβe
+# Tasmate # ono
+# Wusi # lima-raβe
+# Akei # awesa
+# Malmariv (Tiale) # lima-raβu
+# Navut # lima-raβe
+# Lametin (Merei) # lima-raβu
+# Morouas # lima-raβe
+# Fortsenal # lima-raβe
+# Wailapa # mo lima-raβe
+# Roria # niya-rað
+# Amblong # lim-raβe
+# Tangoa # mo-lim̈a-raβe
+# Araki # haiono
+# Narango # mɔ-lim-raf
+# Tambotalo # la-raðe
+# Aore # aiono
+# Malo # ayono
+# Tutuba # eono
+# Mafea # m̈a-rav̈a
+# Malua Bay # i-xowen
+# Vovo # on
+# Mpotovoro # hon
+# Mae # i-xowen
+# Vao # ɣeyon
+# Atchin # owon
+# Uripiv # owon
+# Unua # r̥optes
+# Rerep # ruptes
+# Aulua # ⁿdʳoβoɣol
+# Burmbar # ma-roptes
+# Port Sandwich # emut-sukai
+# Maskelynes # meleβtes
+# Axamb # rö-čkai
+# Malfaxal # i-raxtex
+# SW Bay # i-sosi
+# Lewo # orae
+# Maii # lokroᵑgai
+# Bierebo # wora
+# Baki # ari
+# Bieria # loktaŋgai
+# Namakura # lateh
+# N Efate # latesa
+# S Efate # latsa
+# Rotuman # on
+# Fijian # e ono na
+# Niuean # ono
+# Tongan # ono
+# Samoan # ono
+# Tuvalu # ono
+# Nanumea # ono
+# Tokelauan # ono
+# East Uvea (Wallisian) # ono
+# Pukapuka # ono
+# Rennellese # ono
+# Pileni # ono
+# Tikopia # ono
+# Anuta # ono
+# West Uvea # tahia-tupu
+# Emae # ono
+# Mele # ono
+# West Futuna # ono
+# Sikaiana # ono
+# Luangiua (Ontong Java) # oŋo
+# Takuu # ono
+# Kapingamarangi # ono
+# Nukuoro # ka-ono
+# Rapanui # ono
+# Tahitian # ōno
+# Rarotongan # ono
+# Pa’umotu (Tuamotu) # ono
+# Maori # ono
+# Mangareva # ono
+# Marquesan # e ono
+# Hawaiian # ‘e-ono
+# Eastern # atuung
+# Atkan # atuung
+# Attuan # atuung
+# Naukan Sib. Yupik # aʀvinɨlɨk
+# Chaplino # aʀvinlɨk
+# Alutiiq AK Yupik # aʀwinlən
+# Central AK Yupik # aʀvinləɣən
+# Seward PeṇInuit (Inupiatun) # aʀvinilik
+# W Canad. Inuit (Inuktitut) # aʀvinilik
+# Eastern Can. Inuit # aʀvinilik
+# Greenlandic Inuit West # arfinillit
+# North # arviniglit
+# East # arpiittit
+# Haida # tla’únhl
+# Tlingit # tleidooshú
+# Eyak # tsi’i:n
+# Ahtna # gistaani
+# Tanaina # k’uych’en’i
+# Deg Xinag (Ingalik) # donganh qiłiggi
+# Holikachuk # gełts’idinal gełigg miq’idz
+# Koyukon # daanaan k’eełakk’ee
+# Lower Tanana # niłk’a tok’i
+# Upper Tanana # łk’eetaagn
+# Tanacross # niłk’etaag
+# Upper Kuskokwim # donants’ełk’e
+# Hän # nk'echaww
+# Gwich’in # nihk’iitik
+# Tahltan # na·sƚə́ge
+# Sekani # ehk’ehdidzi
+# Beaver # inché-ta-té
+# Chipewyan # ʔąƚk’é-taghe
+# Slave # ʔehts’ȩ́tai
+# Hare # ʔehts’ȩ́tai
+# Dogrib # ek’ètai
+# Carrier # ƚk’etha
+# Anahim L. # ƚķətaķi
+# Chilcotin # utl-tshun-tai
+# Sarcee # gùstóní
+# Kwalhioqua # kwustánahe
+# Tolowa # kostanne
+# Tututni # gwəstane
+# Coquille # kwosta:ne
+# Hupa # xosta:n
+# Mattole # gwostx̣ạ́n
+# Kato # bûn-Laxa
+# Navajo # hastá̧á̧
+# Jicarilla # kus-kŭ´ n
+# W Apache # gostáń
+# Chiricahua # gò·stá-
+# Kutenai # ʔinmisa
+# Blackfoot # náao
+# Cheyenne # naesòhto
+# Arapaho # níítootox
+# Menomini # nekūtuasetah
+# Ojibwe (Western) # ingodwaaswi
+# Algonquin # nigodwàsi
+# Oji-Cree # ninkotwaahso
+# Saulteaux # nikotwâhso
+# Odawa # ngodwaaswi
+# Potawatomi # ngodwadso
+# Fox # kotwa:šika
+# Kickapoo # kotoaasika
+# Sauk # kotwâshika
+# Shawnee # nekotwa’thwi
+# Plains Cree # nikotwâsik
+# Moose Cree # nikotwâs
+# N East Cree # kutwaashch
+# S East Cree # nikutwaas
+# Innu (Montagnais) # kutuasht
+# Naskapi # aasutaahch
+# Mi’kmaq (Micmac) # asukom
+# W Abenaki (Sokoki) # negwedôz
+# Passamaquoddy-Maliseet # kamahcin
+# Munsee # ngwútaash
+# Kwakiutl # ḵ’etl’á
+# Heiltsuk # khatla’
+# Haisla # q’ƛaukʷ
+# Nuuchahnulth (Nootka) # noupo
+# Nitinat # č’ịx̣pạƚ
+# Bella Coola # t’xulh
+# Comox # t’axam
+# Squamish # t’a'q’ač
+# Halkomelem # t’x̣ə́m
+# Saanich # t’x̣əŋ
+# Lushootseed Skagit # yəlaʔc
+# Duwamish # cəl-áci
+# Quinault # sí-ta-cha
+# Upper Chehalis # t’əx̣əm
+# Lower Chehalis # sétʊtç
+# Cowlitz # tá-ḥŭm
+# Lillooeet # ƛ̓áq̓əmkst
+# Thompson # /λ’áq’-m=ekst
+# Shuswap # təq’-m-ékst
+# Columbian # ʷcmákst
+# Okanagan # t̓áq̓əmkst
+# Kalispel (Spokane) # t’aq’n
+# Coeur d’Alene # tǽw’šæ
+# W Keres # š’ísâ
+# E Keres # sč’ísᴀ
+# Yuchi # ʼishtú
+# Catawba # dipkraré
+# Dakota # śakpe
+# Lakhota # šakpe
+# Assiniboin # šákpe
+# Stoney # sakpé
+# Omaha-Ponca # šappe
+# Osage # šáhpe
+# Winnebago (Hocak) # hakewe
+# Crow # akaawá
+# Hidatsa # akáwa
+# Mandan # kíimą
+# Caddo # dán:kih
+# Wichita # kíyehes
+# Arikara # tšaápis
+# Pawnee # kskiksaapic
+# Adai # pacanancus
+# Onondaga [Zeisberger] # achiak
+# [Shea] # hayak
+# Seneca # yei
+# Mingo # yéi’
+# Cayuga # hyéi‘
+# Oneida # yâya‘k
+# Mohawk (Kanien’kehá:ka) # ia:iak
+# Cherokee # sudali
+# Kiowa # mɔ́sɔ́
+# Tewa # si·
+# Towa # minstyi
+# Taos (N Tiwa) # man ƚi
+# Picuris # mąƚi
+# Isleta (S Tiwa) # manLi
+# Shasta # čo-watča
+# Karok # ikrívkiha
+# Achumawi # lád:íwade ha’mís a:yé’qdi
+# Atsugewi # djira-búdjaki
+# SE Pomo # xowaloxat
+# E Pomo # c’á·di
+# NE Pomo # tca-deika
+# N Pomo # tsadi
+# C Pomo # tsadi
+# S Pomo # lan-tca
+# Kashaya # lan-tca
+# Washo # tubaldE lak
+# Migueleño # páy-a·t’el
+# Walapai # taspé
+# Havasupai # tacpĕ́
+# Yavapai # tispé
+# Paipai # təšpé-k
+# S. Vicente # qamquk
+# S. Catarina # taṣpé
+# Mohave # ʔamaykʔasentknʸ
+# Maricopa # x̣amᴬx̣úk
+# Yuma (Quechan) # xụmxụk
+# Cocopa # xmxụk
+# Diegueño (Kumiái) # xəmxụk
+# Kiliwa # msir-lhpa·ypʰ
+# Tequistlatec # agamts’ús
+# Tlamelula # kañč’uš
+# Jicaque (Tol) # kuspi
+# Seri # isnáap c-ázoj
+# Older #s # nápzoj
+# Coahuiltec # chicuas
+# Tonkawa # sikʷa·law
+# Tsimshian # ḵ’oolt
+# Gitskan # ḵ’ool̓t
+# Nisga’a # ḵ’ool̓t
+# Chinook Jargon # toghum
+# Upper Chinook # tʌhʌm
+# Takelma # haᵋīmī’ᵋs
+# Santiam (Kalapuya) # ta'fo
+# Coos # yîxēⁱ’wîeq
+# Siuslaw # qa’tīmx
+# Sahaptin # uyláxs
+# Nez Percé # ʔoylá·qc
+# Klamath # n8acksept
+# Nomlaki # seppanuƚ
+# Patwin # sĕ́r=pohl-ta
+# NW Maidu # sai-tsoko
+# S Maidu # tymbo·
+# Mountain Maidu # sai-tsoko
+# Nisenan # tymbo
+# Foothill N Yokuts # č́utipʰiy
+# Valley Yokuts # tc’olipî
+# Niles # säkěn’
+# N Sierra # tem·ok·a-
+# Lake # patsadat
+# Zuñi # topalikya
+# Yuki Proper # mek’ąs
+# Huchnom # p’u:ta
+# Coast Yuki # powtít
+# Wappo # baténawk
+# Choctaw # hannaalih
+# Chickasaw # hanná’li
+# Alabama # hánnàali
+# Koasati # hanná:ƚlin
+# Mikasuki # ipákin
+# Muskogee (Creek) # ipákin
+# Seminole # ipákin
+# San Mateo del Mar # anaíw
+# San Francisco del Mar # anajoyuf
+# Santa María del Mar # anayiw
+# San Dionisio del Mar # anayiw
+# Sayula # túhtup
+# Oluta # tuhtuhko
+# Totontepec # tohtɨk
+# Tlahuitoltepec # tutuhk
+# Texixtepec # tujna
+# Sierra Popoluca # tuhtu
+# Francisco León # tuhtay
+# Rayón # tuhta’
+# Copainalá # tuhta’y
+# Totonac # čašán
+# Tepehua # ča:šan
+# Huastec # ʔakak
+# Yucatec # wak
+# Lacandon # taham-u-na’-k’ə’
+# Itza # wacp’el
+# Mopan # wuqbel
+# Chol # wɨk-
+# Chontal # ʔun k’a tom p’e
+# Chorti # wac’té
+# Tzeltal # wakeʔ
+# Tzotzil # vakib
+# Tojolabal # wakeʔ
+# Chuj # wakeb’
+# Motozintlec (Mocho) # wahaqe:ʔ
+# Kanjobal # waqéb
+# Jacaltec # waxeb’
+# Teco # wuqaq
+# Mam # wnuq
+# Aguacatec # wuqáq
+# Ixil # wahqil
+# Uspantec # cwaqaqib
+# Kekchi # kuaqib
+# Quiché # vacac
+# Cakchiquel # waqí’
+# Tzutujil # waaqiiʔ
+# Sacapultec # waxaq-i:b’
+# Pocomam # waaqi’m
+# Pocomchi # waq-i:b’
+# Northern Paiute # naapahi
+# Mono # navahi
+# Shoshone (Tümpisa, Panamint) # naapai-
+# Ft. Hall # naafaite
+# Gosiute # na:hpaih-tɨn
+# Comanƚche # napai-tɨ=
+# Koso # naavai
+# S Paiute # na-vai-y
+# Ute # navaiini
+# Chemehuevi # na'va
+# Kawaiisu # na-vaha-yu
+# Tübatulabal # napaai
+# Serrano # pavahai
+# Cahuilla # kʷansúpʎe
+# Cupeño # nemakwa̱nagax su̱plewet
+# Luiseño # yuʔpun supúl
+# Gabrielino # pabahi
+# Hopi # naavay
+# Pima # chudthp
+# Papago # cu:dp
+# Pima Bajo # tutpo
+# Northern Tepehuan # naadámi
+# SE Tepehuan # 
+# Tarahumara # usáni
+# Yaqui # búsani
+# Nahuatl # chicuacē
+# Tetelcingo # čɪkwasie
+# North Puebla # čikʷasin
+# Michoacán # čikʷase
+# Huasteca # čikwaseh
+# Sierra # čikʷase:
+# Pipil # chikwasin
+# Cora # aráhsevi
+# Huichol # ata zebí
+# Amuzgo # nñam
+# Mixtec # íñú
+# Cuicatec # gan4
+# Trique # watą’3
+# Mazatec # hyų
+# Chiquihuitlan # jyun
+# Ixcatec # šhǫ3
+# Chocho # šų2
+# Popoloc # hǫ3
+# Zapotec # x̱op
+# Córdova 16C # xopa
+# Istmo # xhoopa’
+# Mitla # šo’p
+# Chatino # scua
+# Otomi # ’dato
+# Mazahua # 'ʔñántɑ
+# Nágera 1637 # nantto
+# Matlatzinca # indathowi
+# Ocuilteco # mblandoho
+# Pame S # tikyent
+# C # tilija
+# N # teria
+# Chichimeca # tákùn
+# Ojitlán # hñi3
+# Usila # hñei4
+# Tlacoatzintepec # hŋí3
+# Chiltepec # hnyi
+# Sochiapan # hnyei23
+# Tepetotutla # hŋéi2
+# Palantla # hŋyéw2
+# Valle Nacional # hŋyu
+# Ozumacín # hñi
+# Lalana # hñö·h3
+# Lealao # hñú:3
+# Quiotepec # hñǘ̹h2
+# Comaltepec # hŋiú·2
+# Tlapanec # ma2 hũ2
+# Tarascan (Purépecha) # kʰʷi-mu
+# Jutiapa # takalar
+# Guazacapán # tak’alh
+
+# Jumaytepeque # tak’al ’ar
+
+# Chilanga # ŭī
+
+# Miskito # matasip bara kumi
+# Sumo (Ulwa) # ting as kau as
+# Mayangna # tiaskau as
+# Bocotá (Buglere) # deréke
+# Teribe # tér-de
+# Cabecar # qui-écra
+# Bribri # terl
+# Borunca # te xén
+# Guaymi (Ngäbere) # ti
+# Paya (Pech) # séra
+# Rama # kwíkwistar su sáiming
+# Cuna # nerkwd
+# Chimila # ráta mbrí nyé
+# Cagaba (Cogui) # taij-uña
+# Ica # chíngua
+# Central Tunebo # teraí
+# Tunebo de Margua # teraï
+# Tunebo de Manare # terai
+# Embera # 
+# Epena Pedee # 
+# Waunana (Woun Meu) # seis
+# Cayapa # mandishmallu
+# Colorado # so’tá
+# Warao # moho matana isaka
+# Siona #  ʔįtí̹ teʔé
+# Pioche # yehetawěnta
+# Secoya # seis
+# Cubeo # cũinápʉ rʉpede cũinádo
+# Macuna # cojómocōrojedí gajámo cojáñeáro
+# Desano #  bõhõtõ-ki-bãhã gahi bõhõtõ yuhu-ru bãhã
+# N Barasano # axṕémuhix̯ka ṕeniṕero
+# Puinave # tamda-baruba
+# N Nambiƚkuara # ŭáĭdna-áiş̌ore
+# Ticuna # nahai-mai-hai-pai
+# Yuri # oragoanahó
+# C Quechua (Ancash) # hoqta
+# Huánuco # soqta
+# Junín # suqta
+# Peripheral (Cajamarca) # soqta
+# San Martín # sukta
+# Ayacucho # soqta
+# Brazil # socta
+# Cuzco # soqta
+# Argentina # shoqta
+# Ecuador # shucta
+# Aymara # sojhta
+# Jaqaru # suhta
+# Zaparo # haîmuckumaracki ckaramsitacka
+# Iquito # matjā́-nóki
+# Yagua # tikilo-niatea
+# Candoshi # -minam matáyaro
+# Yaruro # keinetcinikeriame’h
+# Jívaro (Shuar) # čikíčik íraku
+# Aguaruna # uwejá makichík ijúk
+# Huambisa #  uwejan amua chikichik iruku
+# Jebero # sokta
+# Urarina # saotania
+# Ayoreo # chomerã’ iji’ ti
+# Chamacoco # chomar ahi
+# Piaroa # cammuté yauotene’te̱
+# Mawe # kokáviad maiţá
+# Kaiwa # ᵐboap̌ü´ memḗ
+# Guarani # poteĩ
+# Sp. alternatives # sei
+# Chiriguano # ówa
+# Mbyá # mboapy meme
+# Guarayu # nyempenyová
+# Nhengatu # po iepé
+# Cocama # socta
+# Guajajara # hä há
+# Oyampi # irõirõte
+# Apiaca # koivete
+# Arikem # mundápă uis-pu kutũa̘t
+# Karitiana # mʌ̃hĩn ʌj pʌ ota ʔoot
+# Carib # ōwiñ-duwōpiima
+# Waimiri (Atruahí) # takynynapa takynynapa
+# Makushi # ti-wín̥ mí-ya pó-na tə’-mo-tai
+# Pemon Taurepan # tiuken miaponá teotai
+# Akawaio # tègina puda
+# Apalai # ocitoro
+# Apalaitoiro # omazũmykaponato
+# Wayana # etato
+# Panare # tyityasa eñacätoetyo
+# Bakairi # ahage ahage ahage
+# Amarakaeri # nogbayo e'ayhua'
+# Otomaco # éréungui enga
+# Itene # tan máiñ nin maché
+# Chapacura # čumpa umi-či
+# Tinigua # ifwaţo kuáxa
+# Guahibo # itsakabeja berena
+# Culina # yiša
+# Paumari # sauihuaran karaauni
+# Resigaro # síʔosíkhó sagú
+# Piapoco # aiukapi béré
+# Achagua # abaíbacage
+# Wapishana # badęé̹p bakaneát
+# Goajiro (Wayuu) # apirua
+# Paraujano # siami
+# Arawak # bathian
+# Black Carib (Garífuna) # sísi
+# Palicur # pugunkuna
+# Amuesha # pitšap
+# Chamicuro # sokta
+# Paressi # aceuêcacuá
+# Ignaciano # séisiqui
+# Baure # repitikia
+# Piro (Yine) # patsrujire
+# Inapari # ichimápíre
+# Nomatsiguenga # ágaca pátiró basíní nobaco
+# Bora # í-ʔoxtshí- -thḯ tsha-ne
+# Miranya # gotzehihnwa
+# Faai # énémé daḥé
+# Muinane # sa-ʔúse xúúga-ʔuse-tɨ sááno
+# Ocaina # an̵ííra ɸáti
+# Nipode # ené-pebamo da
+# Meneca # ené-ɸeθimo da
+# Murui # enefebeƚ-llɨmo dacaɨ̀
+# Nonuya # dafwehētě nanidāmə
+# Andoke # ku’sí-hako-domi-ka ʌsidé
+# Chorote # iyenthle-tamni
+# Vejoz # tota jinta
+# Toba # cacayni cacaynilia
+# Guana # s̪ãã niḳ hemiḳ
+# Shipibo # socota
+# Pacahuara # muibui-kešna
+# Tacana # sukuta
+# Reyesano # šokota
+# Cavineña # shukuta
+# Huarayo # ai’ipiep
+# Chimane # ebeuñ
+# Tehuelche # uaenecash
+# Teushen # wenecash
+# Bororo # bóture ikéra aobowúto
+# Apanhecra # itawuna
+# Kencateye # hi’kotonocʸi
+# N Cayapo # amaïc-amaïk-amaïk
+# Xavante # ĩmropö
+# Cherente # kalesauzeidi
+# Mashakali # hathihg-sčihathing
+# Fulnió # khoyáfthoa-thak-fathoá
+# Caraja # wadewasori
+# Palha # da̤bɔ sɔȟɔdə́re
+# Guato # čenai caicaira
+# Mapudùngun (Mapuche) # kayu
+# Huilliche # cayu
+# Uru # pacchui
+# Lule # locuép … tamóp
+# Vilela # isig teèt yaaguit
+# Muniche # tsokta
+# Cofan # kʰáfaise yiʔkʰo
+# Callahuaya # thajwa
+# Yuracare # chicheti
+# Cayuvava # kárata-írubu
+# Bugilai # gaben
+# Taurap (Burmeso) # dabinénoráre
+# Tambora # báta-in
+# Oksapmin # dop
+# Kovai # mili munugon manan munugon
+# Kate # memoc â memocko mocjahoŋ
+# Mape # memoc â memocgo mockotoŋ
+# Dedua # maḷimoŋ ŋa noboc mocgu
+# Sene # memâ â memâwâ mâ
+# Momare # icne mă
+# Migabac # moæemonlicka monlic
+# Kube # nɯwɯ ema mɯŋ
+# Kosorong # boromong ano motongo
+# Ono # mete Mane so ɣitne veku
+# Sialum # metamu ko wengetene
+# Kinalakna # holi nembat kutam
+# Timbe # bot biken konok
+# Komba # namburan kanok
+# Tobo # maraman mogok
+# Yaknge # biri bara mohokung
+# Burum # aŋgɯlikep moṛok
+# Mesem # bainimbeke kwe
+# Nabak # bet nambet delang nembet galen kwep
+# Nuk # tupet tupet tupet
+# Nek # kitombo nogan
+# Nakama # kafo fa fikaŋgaŋ
+# Munkip # kafongfa kubugang
+# Numanggang # kafong ko kutnung
+# Sauk # kosan ingningit
+# Gusan # kaiwai kuboc
+# Finungwa # kai kusani kobelak
+# Urii # famagoŋ famagoŋ famagoŋ
+# Irumu # ket kutni kumbang
+# Wantoat # tapaya tapaya tapaya
+# Yagawak #  kumba  kumba
+# Bam # yara yara yara
+# Bonkiman # kolom kuwo isan
+# Isan (Yopno) # kodom kanda kopok konda
+# Som # okabmə okabmə
+# Sakam # paijang kuwe
+# Yau # obu hoŋ ohe bigu
+# Komutu # get num kaman
+# Weleki # isin bikƚŋaŋgin kongotai
+# counting # kagoƚ
+# Auyana (Usarufa) # abapake mórama
+# Awa # abapete morá
+# Waffa # yaáku saivai sáiƚnáidiri mmuáavai
+# Agarabi # apahpah o kah yen
+# Gende # oroi oroi oroi
+# Kamano # näya evutäkahea
+# Yagaria # d-anita bogo-kayagati’ bogo-ko’
+# Fore # to náentisa káno ’umemaye
+# Medlpa # pömp ragl gudl
+# Chimbu (Kuman) # kogƚo suařa
+# Wahgi # angiƚ gi yem mamte
+# Salt-Yui # ana hol pai muru hol pai taniga
+# Enga # tókange
+# Kyaka # pakina mange
+# Kewa # su mindi
+# Foe # dama
+# Korowai # gédun
+# Mapi (Yaqay) # běṙikěmàbiṙiòṙò
+# Pisa (Miaro Awyu) # bédo-sikirè
+# Aghu # bidikumã-fasike
+# Kaeti (Mandobo) # komogöp
+# Digul Mandobo # gumukup
+# Wambon # kumuk
+# S Kati # mbǐnmè
+# (N Kati) # mbǐnmè
+# Telefol # búkúb
+# Mianmin # asu-ke-asu-ke-asu-ke
+# Nomad (Samo) # ili ili bẽauili
+# Kubo # wãɪ̃
+# Beami # gafe
+# Onabasulu # 'kabe
+# Kaluli # do:go:fe
+# Kasua # tekapeipe
+# Aimele (Kware) # dɪɡaːɸi
+# Edolo # gafe
+# Mombun # matè
+# Angaataha # ikwi kwandere mo nanso
+# Baruya # at--i-na ata p-w--ir-i-daa'nyi da--’
+# Kawatsa # tavau to tavau to
+# Hamtai # feca hatuanga akapu hatuanga fati
+# Sentani # məhinə əmbaj
+# Tabla (Tanah Merah) # mesi mbéi
+# Lani (W Dani) # elopa opakiat
+# Saberi (Isirawa) # tja’mě rē mě’rē
+# Ekari # benumi
+# Moni # amo né hago
+# Mairasi # itana
+# Karas # raman
+# Iha # heretembu herewo
+# Baham # kutumbu kujogono
+# Guhu-Semane # boto tena me tena
+# Suena # wana zore wana zore gitire
+# Yekora # umazo ika dembaka
+# Binandere # ingo neida gisi
+# Mawae # nago zora dekako
+# Biangai # mere nasik keya nasika nak
+# Weri # mor has nasiaan nent
+# Humene # naia-tebo
+# Kwale (Uale) # tiba-fale
+# Doromu # orofai-yokoi
+# Maria # oipai-iokomaka
+# Doriri (Moikodi) # romu-ere
+# Magi (Mailu) # ima lilia ʔomu
+# Morawa # aunapu-aina
+# Binahari # gena-aula-mik
+# Bauwaki # eni-bom
+# Lau’una # aulau’i
+# Onjob # yanisi-for-kema
+# Maiwa # nani-davi
+# Jimajima # yandaibi
+# Daga # … daiton
+# Bom (Anjam) # gala-hujaide
+# Male # bar gelena
+# Bongu # iboŋ-egele-gud’ī
+# Amele # eben gic osahic
+# Panim # eběn-nahe
+# Garus # abu alili
+# Kamba (Wagi) # gurole
+# Mugil (Bargam) # ben sor amulikmo
+# Wasembo # abono abono
+# Pay (Mala) # iŋgut-unduaka
+# Ulingan (Mauwake) # wapɛna-kusov
+# Usan (Wanuma) # uben ig ue ig gâri
+# Waskia # iteltokeiteltoke
+# Bunabun (Brem) # umudbirinnam
+# Moresada # upɔrmindjak
+# Tauya # wesaʔa te-a-na
+# Pawaian #  anau anau
+# Orokolo # aukava-ila
+# Bine # nesae nesae
+# Meriam # neisi-neisi-neisi
+# Kanum # tarāwo
+# Kosarek # na’obbade
+# Goliath (Una) # nabaji
+# Eipo # nakobarye
+# Ketengban # ngangtan
+# Uria (Orya) # ahaeɾetahatap aha en
+# Berik # tafna guri dænfe-na
+# Kaure # tɾaplisutu tɾaplisutu
+# Nimboran # kienendi tendu
+# Mekwei # maftanin
+# Puragi # neboraida moonada
+# Kampong Baru (Kais) # rafaro onate
+# Inanwatan (Suabo) # néwo-gáago nagiáre
+# Konda # adenamutju
+# Yahadian # danam mutu
+# Kimaghana # turo
+# Oirata # ’nem
+# Fataluku # neme
+# Bunak # thomor
+# Zumalai # temol
+# Marae # tomol
+# Kolana (Wersing) # wɛtin’uŋ
+# Tanglapui (Kula?) # yɑwɑtʊns’ɔnɑ
+# Makasai # daho
+# Makalero # douhisi
+# Kui # tăl’ɑmɑ
+# Woisika (Kamang) # s’ıŋnɔk
+# Abui # tal’ɑmɑ
+# Kelon # tɛl’ɑn
+# Kafoa # tal’ɑmɑ
+# Kabola (Hamap?) # tal’ɑn
+# Blagar # t’ɑyaŋ
+# Tewa # tiy’ɑm
+# Nedebang # tiy’ɑmɑ
+# Lamma # hiss’n’aku
+# Amberbaken (Mpur) # mambitu
+# Karon Pantaɪ (Abun) # mat
+# Madik # mohěmat
+# Brat # danam
+# Tehit # mta̍mre
+# Kalabra # antameré
+# Moi # maftanim
+# Moraid # untaměrèh
+# Hattam # bridagôm
+# Ternate # rara
+# Modole # boelanga
+# Tidore # ròra
+# Galela # butànga
+# Loda # butanga
+# Sahu # raram
+# Pagu # boetanga
+# Mantion # sèrikem hòm
+# Yava # kawintabo
+# Bauzi # au mei vi va
+# Skou # nápánghì
+# Vanimo (Dusur) # no mlɛ yumono
+# Domo # nuɔ mlɛ yumɔno
+# Wutung # nɔtʃiɔ
+# Leitre # noɔ kã u
+# I’saka (Krisa) # dóu keni bai kaipa
+# Olo # eti plen niliye
+# Au # hispinak k-iutip
+# Mountain Arapesh (Bukiyip) # onowip-ich
+# S Arapesh (Mufian) # wan S wan S
+# Monumbo # nʲátakua-tákua
+# Gapun (Taiap) # daram-nambár-táu̯ne̥-nambar
+# Autu # yiyle dæni yiyle mak dowo
+# Mayo # letlana kelara wuri
+# Namia # napei-ran-waki-tija
+# Manambu # abun
+# Abelam (Ambulas) # naktaba sékét naktaba kayék nakurak
+# Iatmul # sɨla-kɨta
+# Kwasenen (Hanga Hundi) # 
+
+# Hewa # maluɛnia
+# Body parts # maluene
+# Alamblak # tir yoht-t-i manakor tirtho rpa-t
+# Murik # patéib abḗ
+# Yimas # tam mawŋkwat mpa-
+# Kaian # mbut-kaku
+# Giri (Kire) # farmbor
+# Yele # wenı
+# Savosavo # pogo
+# Sulka # a ktiek he hōri ōrom tīan
+# Bilua # varimuja
+# Baniata # tubi
+# Lavukaleve # oa
+# Kuot (Panaras) # gunamur
+# Baining (Qaqet) # a ngérchit dat demka
+# Taulil # libeti-ko-tagata
+# Butam # limavati ma tangata
+# Nasioi # paqnokoq-keta naduntaa
+# Buin # tugigami
+# Enindhilyagwa # amukuale auliaba
+# Gagudju # takadĭ̀tji noorkudua
+# Tiwi # kəřviŋara
+# Garawa # gudjara a-bagi-gudjara a-bagi-gudjara
+# Mara # mani n-murji wanggiy
+# Malakmalak # nenyik yananggarra yanak
+# Yawuru # gudit-e-gudit-e
+# Nungguƚbuyu # maraŋ- añjābugij
+# Gumulgal (Kala Lagaw Ya) # ukasar-ukasar-ukasar
+# Muruwari # marangkua
+# Yir Yoront # pulkoyrr
+# (Modern) # chich
+# Dyirbal # gaɽburungaɽburun
+# Darling (S Baagandji ) # garu yanḏa mara
+# Arabana # parkulu-parkulu-parkulu
+# Kalkatungu # makat̪i ŋaran̪a ajarn5a
+# Nyangumarta # tʸikitʸi
+# Yindjibarndi # tyarrwurti tyarrwurti
+# Western Desert # marnkurrpa-marnkurrpa
+# Pitjantjatjara # tjikitji
+# Pintupi # tjikitjipala
+# Ngadjunmaya # warru uwarrugu
+# Turku # site
+# Nubi # sita
+# Hiri Motu # tauratoi 
+# Fanagalo # sikis
+# Naga Pidgin # cʰoy
+# Gullah (Sea Isl.) # sɪks
+# Jamaican # siks
+# Virgin Is. # siks
+# Guyanese # siks
+# Srananƚtongo # siksi
+# Saramaccan # síkísi
+# Krio # siks
+# West African # siks
+# Djuka (Aukan) # sigisi
+# Nigerian # sis
+# Tok Pisin # sikis
+# Torres Strait # siks
+# Pitcairn # seʔks
+# Bislama # sikis
+# Solomon # siks
+# Hawaiian # siks
+# Negerhollands (Virgin Is.) # ses
+# Berbice # seši
+# Unserdeutsch # 
+# Papiamento (Curaçao) # seis
+# Cabo Verde # séx
+# Crioulo (Guiné-Bis) # sees
+# São Tomé # seši
+# Principe # sɛj
+# Annobon (Fa d’Ambu) # sejši
+# Macau # séç
+# Malacca # sez
+# Palenquero # sei
+# Indo-Portuguese (Korlai) # sey
+# Lingua Franca # sei
+# Haitian Creole # sis
+# Réunion # sis
+# Seychelles # sis
+# Mauritius # sis
+# Martinique # sis
+# Guadeloupe # si
+# St. Lucia # sis
+# Louisiana # sis
+# FṛGuiana # sis
+# Karipúna # sis
+# New Caledonia # sis
+# S Vietnam # sɨt
+# Michif # sis
+# Russenorsk # sę̆st
+# / Dalgarno # vu
+# / Wilkins # pobɣ
+# / Leibniz # ha
+# Formosan # dekie
+# Langue nouvelle # lu
+# / Delormel # zau
+# / Réthy # ë
+# / Letellier # ā
+# /Sotos Ochando # sibra
+# Solresol # resisi
+# / Reimann # ri
+# /Verheggen # kê
+# / Menct # du
+# Spelin # an
+# Bopal # ge
+# / Maldant # og
+# / Eichhorn # ök
+# Balta # ja
+# / Gurin # das
+# Spokil # fa
+# Zahlensprache # ä
+# Völkerverkehrssprache # tij
+# Pan-Arisch # sir
+# Ro # zal
+# aUɪ # A
+# Babm # zi:
+# suma # lai
+# Loglan # so
+# Lojban # xa
+# Tanerai # yannu
+# Lusane # ma
+# Láadan # bath
+# Eaiea # fg
+# Roctegedda # ha
+# Liva # nteî
+# Ibubo # adi
+# Emhay ghee chah # Gah
+# / Gigli # sse
+# / Gerber # sesoi
+# Communicationssprache # sesta
+# Pantos-Dimou-Glossa # ekso
+# Universal-Sprache / Pirro # sex
+# Volapük # mäl
+# Weltsprache # secs
+# / Courtonne # sis
+# Pasilingua # sexa
+# Esperanto # ses
+# Mundolingue # sex
+# Kosmos # sexa
+# Lingua / Henderson # sex
+# Mundolinco # siso
+# Anglo-Franca # sex
+# Myrana # sex
+# Langue catholique # six
+# Antivolapük # siss
+# Dil # siz
+# Universala # ses
+# Orba # sei
+# Communia # sexi
+# Novilatiin # see
+# Veltparl # seks
+# Nov Latin # sex
+# Dilpok # su
+# Langue bleue # gab
+# Idiom Neutral # seks
+# Panroman # sex
+# Mundelingva # seto
+# Perio # zek
+# / Zakrzewski # ses
+# Pan-Kel # ha
+# Ido # sis
+# Parla # sis
+# Romanal # sexti
+# / Kovalev # hex
+# Uropi # ses
+# Lips-Kith # sek
+# Interlingue # six
+# Hom-Idyomo # sesi
+# Lingvo Kommona # seza
+# Omo # ses
+# Una # six
+# Novial # six
+# Panedo # zesto
+# Sintesal # sex
+# Mondyal # sis
+# Interglossa # hexa
+# Olingo # ses
+# Auxilia # sis
+# Pikto # dutri
+# Speedwords # ses
+# Esperantuisho # sis
+# Mundion # six
+# Frater # ses
+# Interlingua # sex
+# Antro # seks
+# Unolok # si
+# Axiom-Variant # sekst
+# Ande # ju
+# Stipfone # seï
+# Glosa # six
+# Unilingua # six
+# Liberanto # sey
+# Frendo # sesa
+# Zamalo # seqs
+# Gloneo # sit
+# Eurolengo # sis
+# Unitario # seksta
+# Dunia # heks
+# Eurolang # six
+# Sen:espera # sesin
+# Uni # SA
+# Etwu # sis
+# Eklektu # hok
+# Neo-Dalmatian # si
+# Talossan # sex
+# Tundrian # sêix
+# Pacez # six
+# Nu Teutonish # ses
+# Anglic # six
+# Euronord # six
+# Earth Minimal # si
+# Alannaic # hekse
+# Jameld # zix
+# Paulic # xis
+# Breersh # sis
+# Ceqli # ce
+# Adelic # sekke
+# Futurese # sis
+# / Majar # šest
+# Novy Razg. # femg’
+# Ladef # si
+# New Prussian # ušāi
+# Sevorian # ṡeṡt
+# Nashina # sest
+# Slovio # sxes
+# Brithenig # sei
+# Breathanach # seis
+# Wessisc # segh
+# Celltiecc # chwech
+# Degaspregos # sweksos
+# Palawa Kani # nana
+# Toki Pona # luka wan
+# Proto-Eldarin # ének-
+# Qenya # ende
+# Quenya # enque
+# Noldorin # eneg
+# Amman-Iar # toner
+# Klingon # jav
+# Atlantean # luk
+# D’ni # vahgahfah
+# Tev’Meckian # lep
+# Dothraki # zhinda
+# High Valyrian # bȳre
+# Na’vi # pukap
+# Serpent’s Tongue # zokrul
+# Vorlin # tor
+# Tepa # maanisi
+# Naqu # xoi
+# Elet Anta # iscwe
+# Neelan # ziw
+# DiLingo # sip
+# Maktalu # ushu
+# Tha-Tizê # ku
+# Watakassí # mandú
+# Arkian # raji
+# Hibernian # rai
+# Antapa # edi-ék-íso
+# Üqoi # vithkhu
+# MCL # sli
+# Nova # nú
+# Cispa # kaish
+# Jarrda # kov
+# Doraya # keta
+# Gladilatian # mu
+# Draseléq # faqs
+# Curco # fac
+# Leturian # teit
+# Arangothian # umpso
+# Sulekhï # shoth
+# Kankonian # sem
+# Denden # srao
+# Danovën # kö
+# Minervan # sorc
+# Mango # khoz
+# Otg # et
+# Rokbeigalmki # sejo
+# Ciravesu # quije
+# Rahha # sen
+# Teonaht # ksykso
+# Melanian # le
+# Kélen # té
+# Eleviial # ze
+# Toono # zola vi benki
+# Mushroomese # læk
+# Fu # jila
+# Eloshtan # catak
+# Qested # sase
+# Muila # sat
+# Ozee Tilp # pu
+# Nepturian # nona
+# Vamela # lima tea
+# Sile # fish
+# Dráeng # sia
+# Dublex # sis
+# Idhur # eki
+# Hallon # vech
+# Ìlōãrtrascū # pumtses
+# Adinjo # lumen
+# Elressie # pur
+# Jaueqaomys # ii’tei
+# Ziotaki # pelia
+# Conlang #4892 # fonei
+# Necarasso Cryssesa # mja
+# Quebric # engë
+# Janarisa # zil
+# Eloshtan # catak
+# Machren # naep-N
+# Kadhrein # nav
+# Ivrien # nave-N
+# Genistien # naven
+# Castuvien # naben
+# Astarien # naiba
+# Lemyzon # nep
+# Xara # fon
+# Doxian # ki
+# Late Vautinese # qwe
+# Allemonian # gwi
+# Hopsturian # gii
+# Ilo # engqi
+# Jano # i
+# Degwanian # wu
+# Verdurian # sues
+# Ismaîn # sus
+# Barakhinei # sêsht
+# Sarroc # sieḣ
+# Xurnáš # seč
+# Teôši # seţe
+# Obenzayet # sata
+# Luxajia # ma
+# Kebreni # migem
+# New Jeori # bwêŋ
+# Cuolese # boŋ
+# Gurdagor # mar
+# Dhekhnami # plêç
+# Yamda # vuronšrija
+# Trêng # ɦôraw šiija
+# Lé # bàr
+# Uyseʔ # het
+# Neinuoian # ɗiže
+# Elkarîl # rin
+# Flaidish # liffel

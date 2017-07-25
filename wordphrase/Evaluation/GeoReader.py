@@ -1,3 +1,4 @@
+from Evaluation.database import connect_db
 from Geometry.GroundTruthPolygon import GroundTruthPolygon
 from Geometry import GeoPolygon
 import operator
@@ -5,7 +6,6 @@ import itertools
 from operator import itemgetter
 import json, math, sys
 import itertools
-
 
 def load_json_file(filename):
     plain_text = open(filename).read()
@@ -26,9 +26,9 @@ def get_ground_truth_list(gt_obj):
     gt_list = []
 
     for feature in gt_obj['features']:
-        new_gt_rect = GroundTruthPolygon(feature['properties']['id'], feature['properties']['Position'],
-                                         feature['properties']['Name'].lower(),
-                                         feature['properties']['Text'].lower(), feature['geometry']['coordinates'][0])
+        new_gt_rect = GroundTruthPolygon(feature['properties']['id'], feature['properties']['txt_loc'],
+                                         feature['properties']['text'],
+                                         feature['properties']['phrase'], feature['geometry']['coordinates'][0])
 
         gt_list.append(new_gt_rect)
 
@@ -93,11 +93,26 @@ def process_letter_size(gt_list):
         # print 'Word1:{} Word2: {} Size: {} Diff:{}'.format(pair[0].word, pair[1].word, pair[0].get_area_per_letter(), pair[3])
 
 
+def filter_coordinates(text):
+
+    if not text.endswith("'"):
+        return False
+    text=text.strip("'")
+    arr = text.split("°")
+    if len(arr) != 2:
+        return False
+    if arr[0].isdigit() and arr[1].isdigit():
+        return True
+    else:
+        return False
+
+
+
 def filter_function(gt_list):
     filtered_list = []
     for gt in gt_list:
-        if "." in gt.word:
-            continue
+        #if "." in gt.word:
+            #continue
         filtered_list.append(gt)
     return filtered_list
 
@@ -110,11 +125,7 @@ def get_gold_data_phrases(fname):
     return content
 
 
-if __name__ == '__main__':
-    # groundTruthFile = sys.argv[1]
-    groundTruthFile = '../USGS.geojson'
-    result_obj = load_json_file(groundTruthFile)
-    gt_list = get_ground_truth_list(result_obj)
+def get_nearest_neighboar(gt_list):
 
     for i in range(0, len(gt_list), 1):
         for j in range(i + 1, len(gt_list), 1):
@@ -124,41 +135,128 @@ if __name__ == '__main__':
             gt_list[i].test.append(tuple1)
             gt_list[j].test.append(tuple2)
 
+        gt_list[i].test.sort(key=lambda tup: tup[0])
+    return gt_list
 
-    count = 0
-    c2=0
+
+def get_associated_polygon(gt_list):
+
     for gt in gt_list:
-        index = 0
-        index2=0
-        gt.test.sort(key=lambda tup: tup[0])
-        print "The word:  %s  The phrase: %s" % (gt.word,gt.phrase)
+        #if "." in gt.word:
+            #continue
+        if gt.word == gt.phrase:
+            continue
+        potential_array = itertools.islice(gt.test, 10)
+        for candidate in potential_array:
+            letter_size = max(candidate[1].get_area_per_letter() / gt.get_area_per_letter(),
+                              gt.get_area_per_letter() / candidate[1].get_area_per_letter())
+            if letter_size < 1.8 :
+                if gt.same_captial(candidate[1]) and (not filter_coordinates(candidate[1])):
+                    #if candidate[0]<min(gt.find_longest_line().length,candidate[1].find_longest_line().length)*5:
+                        gt.associated_polygon.append(candidate[1])
 
-        top = itertools.islice(gt.test, 10)
-        for tuple in top:
-            #print tuple[1].word + " "
-            if tuple[1].phrase == gt.phrase:
-                index+=1
-            letter_size = max(tuple[1].get_area_per_letter()/gt.get_area_per_letter(),gt.get_area_per_letter()/tuple[1].get_area_per_letter())
-            #print "the letter size is : %s" %(letter_size)
-            if letter_size < 1.8:
-                print tuple[1].word + " "
-                if tuple[1].phrase == gt.phrase:
-                    index2 += 1
+    return gt_list
 
-        if index != len(gt.phrase.split())-1 and (len(gt.word.split())==1):
-            #print "index: %d  word len: %d" %(index,len(gt.phrase.split())-1)
-            print "not matching: %s  %s" %(gt.word,gt.phrase)
-            count+=1
 
-        if index == len(gt.phrase.split())-1 and index2 != len(gt.phrase.split())-1 and (len(gt.word.split())==1):
-            #print "index: %d  word len: %d" %(index,len(gt.phrase.split())-1)
-            print "letter size: %s  %s" %(gt.word,gt.phrase)
-            c2 += 1
+def print_difference(list1,list2):
+    for i in range(1,len(list1),1):
+        if len(list1[i].associated_polygon) ==len(list2[i].associated_polygon):
+            continue
+        print "the word is:%s" %list1[i].word
+        #print diff(list1[i].associated_polygon,list2[i].associated_polygon)
+        print diff(list2[i].associated_polygon, list1[i].associated_polygon)
 
+def diff(first, second):
+        second = set(second)
+        return [item for item in first if item not in second]
+
+
+def evaluation_result(gt_list):
+    detected_polygon = 0
+    correct_polygon = 0
+    detected_correct = 0
+    for gt in gt_list:
+        print "the word is:%s   and the phrase is: " % gt.word, gt.phrase
+        if gt.word == gt.phrase:
+            correct_polygon += 0
+        else:
+            correct_polygon += len(gt.phrase.split(" "))-1
+
+        detected_polygon += len(gt.associated_polygon)
+
+        for polygon in gt.associated_polygon:
+
+            if polygon.phrase == gt.phrase:
+                detected_correct += 1
+                print polygon.word + "     c"
+
+            else:
+                print polygon.word
+        #print "detec_correct: %d   correct_polygon: %d" %(detected_correct, correct_polygon)
         print "\n"
+    print "precision is: %f" % (float (detected_correct)/detected_polygon)
+    print "recall is: %f" % (float (detected_correct)/correct_polygon)
 
-    print count
-    print c2
+
+
+if __name__ == '__main__':
+    # groundTruthFile = sys.argv[1]
+    groundTruthFile = '../usgs15_pa.geojson'
+    result_obj = load_json_file(groundTruthFile)
+    gt_list = get_ground_truth_list(result_obj)
+
+
+
+    gt_list=get_nearest_neighboar(gt_list)
+    list1= get_associated_polygon(gt_list)
+
+    #list2 = same_cap(gt_list)
+    #print print_difference(list1,list2)
+    evaluation_result(list1)
+
+
+
+
+
+
+
+    # count = 0
+    # c2=0
+    # for gt in gt_list:
+    #     index = 0
+    #     index2=0
+    #     gt.test.sort(key=lambda tup: tup[0])
+    #     print "The word:  %s  The phrase: %s" % (gt.word,gt.phrase)
+    #
+    #     top = itertools.islice(gt.test, 10)
+    #     for tuple in top:
+    #         #print tuple[1].word + " "
+    #         if tuple[1].phrase == gt.phrase:
+    #             index+=1
+    #         letter_size = max(tuple[1].get_area_per_letter()/gt.get_area_per_letter(),gt.get_area_per_letter()/tuple[1].get_area_per_letter())
+    #         #print "the letter size is : %s" %(letter_size)
+    #         if letter_size < 1.8:
+    #             if gt.same_captial(tuple[1]) and tuple[0]<gt.find_longest_line().length*2:
+    #             #if (gt.find_orientation(tuple[1])<15 or abs(gt.find_orientation(tuple[1])-180)<15) :
+    #             #print tuple[1].word + " "+str(gt.find_orientation(tuple[1]))+"? "+str(abs(gt.find_orientation(tuple[1])-180))+"    "
+    #                 print tuple[1].word
+    #                 if tuple[1].phrase == gt.phrase:
+    #                     index2 += 1
+    #
+    #     if index != len(gt.phrase.split())-1 and (len(gt.word.split())==1):
+    #         #print "index: %d  word len: %d" %(index,len(gt.phrase.split())-1)
+    #         print "not matching: %s  %s" %(gt.word,gt.phrase)
+    #         count+=1
+    #
+    #     if index == len(gt.phrase.split())-1 and index2 != len(gt.phrase.split())-1 and (len(gt.word.split())==1):
+    #         #print "index: %d  word len: %d" %(index,len(gt.phrase.split())-1)
+    #         #print "letter size: %s  %s" %(gt.word,gt.phrase)
+    #         c2 += 1
+    #
+    #     print "\n"
+    #
+    # print count
+    # print c2
 
         # sorted_gt_list  =sorted(gt_list, key=lambda gt:gt.get_center_location())
 

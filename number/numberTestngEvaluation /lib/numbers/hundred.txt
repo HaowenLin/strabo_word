@@ -1,0 +1,111 @@
+@@ https://www.indifferentlanguages.com/words/hundred
+@@ Saying Hundred in European Languages
+
+@@ Language	Ways to say hundred
+Albanian	njëqind
+Basque	ehun
+Belarusian	сто
+Bosnian	sto
+Bulgarian	Сто
+Catalan	cent
+Croatian	sto
+Czech	stovka
+Danish	hundred
+Dutch	honderdtal
+Estonian	sada
+Finnish	sata
+French	cent
+Galician	cen
+German	Hundert
+Greek	εκατό
+Hungarian	száz
+Icelandic	hundrað
+Irish	céad
+Italian	cento
+Latvian	simts
+Lithuanian	šimtas
+Macedonian	сто
+Maltese	mitt
+Norwegian	hundre
+Polish	sto
+Portuguese	cem
+Romanian	sută
+Russian	сто
+Serbian	сто
+Slovak	stovka
+Slovenian	sto
+Spanish	ciento
+Swedish	hundra
+Ukrainian	СТО
+Welsh	cant
+Yiddish	הונדערט
+
+ 
+@@ Saying Hundred in Asian Languages
+
+@@ Language	Ways to say hundred
+Armenian	հարյուր
+Azerbaijani	yüz
+Bengali	শত
+Chinese Simplified	百
+Chinese Traditional	百
+Georgian	ასი
+Gujarati	સો
+Hindi	सौ
+Hmong	puas
+Japanese	百
+Kannada	ನೂರು
+Kazakh	жүз
+Khmer	រយ
+Korean	백
+Lao	ຮ້ອຍ
+Malayalam	നൂറ്
+Marathi	शंभर
+Mongolian	зуун
+Myanmar (Burmese)	တရာ
+Nepali	सय
+Sinhala	සිය
+Tajik	сад
+Tamil	நூறு
+Telugu	వంద
+Thai	ร้อย
+Urdu	سو
+Uzbek	yuz
+Vietnamese	hàng trăm
+
+@@ Saying Hundred in Middle-Eastern Languages
+
+@@ Language	Ways to say hundred
+Arabic	مائة
+Hebrew	מאה
+Persian	صد
+Turkish	yüz
+@@ Saying Hundred in African Languages
+
+@@ Language	Ways to say hundred
+Afrikaans	honderd
+Chichewa	mazana
+Hausa	mutum ɗari
+Igbo	narị
+Sesotho	le makholo a
+Somali	boqol
+Swahili	mia
+Yoruba	ọgọrun
+Zulu	angamakhulu
+@@ Saying Hundred in Austronesian Languages
+
+@@ Language	Ways to say hundred
+Cebuano	ka gatus ka
+Filipino	daan
+Indonesian	ratus
+Javanese	atus
+Malagasy	zato
+Malay	ratus
+Maori	rau
+@@ Saying Hundred in Other Foreign Languages
+
+@@ Language	Ways to say hundred
+Esperanto	Cent
+Haitian Creole	san
+Latin	centum
+Somali	boqol

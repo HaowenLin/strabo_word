@@ -1,0 +1,110 @@
+@@https://www.indifferentlanguages.com/words/thousand
+
+@@Language	Ways to say thousand
+Albanian	mijë
+Basque	Mila
+Belarusian	тысяча
+Bosnian	hiljada
+Bulgarian	хиляда
+Catalan	mil
+Croatian	tisuću
+Czech	tisíc
+Danish	tusinde
+Dutch	duizend
+Estonian	tuhat
+Finnish	tuhat
+French	mille
+Galician	mil
+German	Tausend
+Greek	χίλια
+Hungarian	ezer
+Icelandic	þúsund
+Irish	míle
+Italian	mille
+Latvian	tūkstotis
+Lithuanian	tūkstantis
+Macedonian	илјади
+Maltese	elf
+Norwegian	tusen
+Polish	tysiąc
+Portuguese	mil
+Romanian	mie
+Russian	тысяча
+Serbian	хиљада
+Slovak	tisíc
+Slovenian	tisoč
+Spanish	mil
+Swedish	tusen
+Ukrainian	тисячі
+Welsh	mil
+Yiddish	טויזנט
+
+ 
+@@ Saying Thousand in Asian Languages
+
+Language	Ways to say thousand
+Armenian	հազար
+Azerbaijani	min
+Bengali	হাজার
+Chinese Simplified	千
+Chinese Traditional	千
+Georgian	ათასი
+Gujarati	હજાર
+Hindi	हज़ार
+Hmong	txhiab
+Japanese	千
+Kannada	ಸಾವಿರ
+Kazakh	мың
+Khmer	ពាន់​នាក់
+Korean	천
+Lao	ພັນ
+Malayalam	ആയിരം
+Marathi	हजार
+Mongolian	мянган
+Myanmar (Burmese)	တထောင်
+Nepali	हजार
+Sinhala	දහසක්
+Tajik	ҳазор
+Tamil	ஆயிரம்
+Telugu	వెయ్యి
+Thai	พัน
+Urdu	ہزار
+Uzbek	ming
+Vietnamese	một ngàn
+
+@@ Saying Thousand in Middle-Eastern Languages
+
+@@ Language	Ways to say thousand
+Arabic	ألف
+Hebrew	אלף
+Persian	هزار
+Turkish	bin
+
+@@ Saying Thousand in African Languages
+
+@@ Language	Ways to say thousand
+Afrikaans	duisend
+Chichewa	zikwi
+Hausa	dubu
+Igbo	puku
+Sesotho	ba likete tse
+Somali	kun
+Swahili	elfu
+Yoruba	ẹgbẹrun
+Zulu	abayizinkulungwane
+@@ Saying Thousand in Austronesian Languages
+
+@@ Language	Ways to say thousand
+Cebuano	ka libo ka mga
+Filipino	libo
+Indonesian	ribu
+Javanese	ewu
+Malagasy	arivo
+Malay	ribu
+Maori	mano
+@@ Saying Thousand in Other Foreign Languages
+
+@@ Language	Ways to say thousand
+Esperanto	mil
+Haitian Creole	mil
+Latin	milibus

@@ -1,0 +1,109 @@
+
+import csv,sys
+
+
+def evalute_result(gold_standard_dataset, result_sets):
+
+
+
+    gold_standard_data_num = len (gold_standard_dataset)
+
+    correct_results = set()
+    correct_results_number = 0;
+
+    total_extracted_output = len (result_sets) ;
+
+
+
+    for k in range (0, len (result_sets)):
+        for i in range (0, len (gold_standard_dataset), 1):
+            if (result_sets[k] == gold_standard_dataset[i]):
+                correct_results_number +=1 ;
+                correct_results.add(result_sets[k])
+                #hasFound= True
+                break;
+
+
+    recall = 0 if gold_standard_data_num == 0 else (float (correct_results_number) / gold_standard_data_num)
+    precision = 0 if total_extracted_output == 0 else ( float (correct_results_number) / total_extracted_output)
+    f_score = 0 if precision + recall == 0 else 2 * precision * recall / (precision + recall)
+
+    # if precision + recall ==0:
+    #     f_score = 0
+    #     print("??")
+    # else:
+    #     f_score =  float(2* correct_results_number)/(gold_standard_data_num+ total_extracted_output)
+    #     print (2* correct_results_number)
+    #     print(gold_standard_data_num+ total_extracted_output)
+    #     print (f_score)
+
+    print ("The assumed gold standard dataset is: ")
+    print " ".join (str (x) for x in gold_standard_dataset)
+    #print ("\n")
+
+    print ("The assumed result dataset is: ")
+    print " ".join (str (x) for x in result_sets)
+    #print ("\n")
+
+    print ("The correct result dataset is: ")
+    print " ".join (str (x) for x in correct_results)
+    #print ("\n")
+
+    print("Detected number results: %d"     % len(result_sets))
+    print("Correct number results:  %d"     %  len(correct_results))
+    print("Number of gold data output: %d"  % gold_standard_data_num)
+    print("Text Recognition Precision:  %f" % precision)
+    print("Text Recognition Recall:     %f" % recall)
+    print("Text F-score:                %f" % f_score)
+
+    return gold_standard_data_num,total_extracted_output,correct_results_number, precision,recall,f_score
+
+
+def readFile(filename):
+    #file = open (filename, "r")
+    with open(filename) as f:
+        result = [tuple (map (str, i.rstrip().split ('\t'))) for i in f]
+
+    return result
+
+
+
+
+if __name__ == '__main__':
+
+        csv_file = open ('evaluation_numbers' + '.csv', 'w')
+        csv_head = ['filename', 'gold_standard_data', 'total extracted number', 'correct output','precision', 'recall', 'f-score']
+        csv_writer = csv.DictWriter (csv_file, csv_head)
+
+
+        groundtruth = readFile("gt2.txt")
+        result = readFile ("rt2.txt")
+
+
+
+        gold_standard_data_num,total_extracted_output,correct_results_number,precision, recall, f_score = evalute_result(groundtruth,result)
+
+
+
+        #write for header
+        csv_writer.writerow ({'filename': "filename",
+                              'gold_standard_data': "gold_standard_data",
+                              'total extracted number': "total extracted number",
+                              'correct output': "correct output",
+                              'precision': "precision",
+                              'correct output': "correct output",
+                              'recall': "recall",
+                              'f-score':"f-score"})
+
+       # groundTruthFile = sys.argv[1]
+        #resultFile = sys.argv[2]
+
+
+
+
+        csv_writer.writerow ({'filename': "f1",
+                              'precision': str (precision),
+                              'gold_standard_data': str('gold_standard_data'),
+                              'total extracted number': str(total_extracted_output),
+                              'correct output': str(correct_results_number),
+                              'recall': str (recall), 'f-score': str (f_score)})

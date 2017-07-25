@@ -1,0 +1,20 @@
+
+
+def f(text,word):
+    #print (text)
+    en_text=bytes(text,encoding="utf-8")
+    en_word=bytes(word,encoding="utf-8")
+    start = en_text.find(en_word)
+    print (start)
+    print (start+len(en_word))
+    #return (start,start+len(en_word))
+
+
+if __name__ == '__main__':
+
+    #f("aobamachushengwumeiguoxiaweiyizhoutanxiangshan, tazaixiaweiyizhangda, dantongnianshiqiyezaihuashengdunzhouheyindunixiyafenbieshenghuole1nianhe4nian. zai1983nianconggelunbiyadaxuebiyezhihou, tazaizhijiagezuo1mingshequhuodongzuzhizhe. 1988nianaobamajinrulehafufaxueyuan, zainachengweilehafufalupinglundedi1mingfeiyizongbianji. biyehoutachengweile1mingminquanlushi, bingcong1997nianzhi2004nianzaizhijiagedaxuefaxueyuanrenxianzhixingfalujiaoshou.","1983")
+    f = open ('eco.txt', 'rb')
+    f.seek (6, 1)
+    x= f.read()
+    print (x)
+

@@ -1,0 +1,2446 @@
+#	Chinese
+::::	0	::::	ling
+::::	1	::::	yi
+::::	2	::::	er
+::::	3	::::	san
+::::	4	::::	si
+::::	5	::::	wu
+::::	6	::::	liu
+::::	7	::::	qi
+::::	8	::::	ba
+::::	9	::::	jiu
+::::	10	::::	shi
+::::	11	::::	shiyi
+::::	12	::::	shier
+::::	13	::::	shisan
+::::	14	::::	shisi
+::::	15	::::	shiwu
+::::	16	::::	shiliu
+::::	17	::::	shiqi
+::::	18	::::	shiba
+::::	19	::::	shijiu
+::::	20	::::	ershi
+::::	21	::::	ershiyi
+::::	22	::::	ershier
+::::	23	::::	ershisan
+::::	24	::::	ershisi
+::::	25	::::	ershiwu
+::::	26	::::	ershiliu
+::::	27	::::	ershiqi
+::::	28	::::	ershiba
+::::	29	::::	ershijiu
+::::	30	::::	sanshi
+::::	31	::::	sanshiyi
+::::	32	::::	sanshier
+::::	33	::::	sanshisan
+::::	34	::::	sanshisi
+::::	35	::::	sanshiwu
+::::	36	::::	sanshiliu
+::::	37	::::	sanshiqi
+::::	38	::::	sanshiba
+::::	39	::::	sanshijiu
+::::	40	::::	sishi
+::::	41	::::	sishiyi
+::::	42	::::	sishier
+::::	43	::::	sishisan
+::::	44	::::	sishisi
+::::	45	::::	sishiwu
+::::	46	::::	sishiliu
+::::	47	::::	sishiqi
+::::	48	::::	sishiba
+::::	49	::::	sishijiu
+::::	50	::::	wushi
+::::	51	::::	wushiyi
+::::	52	::::	wushier
+::::	53	::::	wushisan
+::::	54	::::	wushisi
+::::	55	::::	wushiwu
+::::	56	::::	wushiliu
+::::	57	::::	wushiqi
+::::	58	::::	wushiba
+::::	59	::::	wushijiu
+::::	60	::::	liushi
+::::	61	::::	liushiyi
+::::	62	::::	liushier
+::::	63	::::	liushisan
+::::	64	::::	liushisi
+::::	65	::::	liushiwu
+::::	66	::::	liushiliu
+::::	67	::::	liushiqi
+::::	68	::::	liushiba
+::::	69	::::	liushijiu
+::::	70	::::	qishi
+::::	71	::::	qishiyi
+::::	72	::::	qishier
+::::	73	::::	qishisan
+::::	74	::::	qishisi
+::::	75	::::	qishiwu
+::::	76	::::	qishiliu
+::::	77	::::	qishiqi
+::::	78	::::	qishiba
+::::	79	::::	qishijiu
+::::	80	::::	bashi
+::::	81	::::	bashiyi
+::::	82	::::	bashier
+::::	83	::::	bashisan
+::::	84	::::	bashisi
+::::	85	::::	bashiwu
+::::	86	::::	bashiliu
+::::	87	::::	bashiqi
+::::	88	::::	bashiba
+::::	89	::::	bashijiu
+::::	90	::::	jiushi
+::::	91	::::	jiushiyi
+::::	92	::::	jiushier
+::::	93	::::	jiushisan
+::::	94	::::	jiushisi
+::::	95	::::	jiushiwu
+::::	96	::::	jiushiliu
+::::	97	::::	jiushiqi
+::::	98	::::	jiushiba
+::::	99	::::	jiushijiu
+::::	100	::::	yibai
+#	Croatian
+::::	0	::::	nula
+::::	1	::::	jedan
+::::	2	::::	dva
+::::	3	::::	tri
+::::	4	::::	četiri
+::::	5	::::	pet
+::::	6	::::	šest
+::::	7	::::	sedam
+::::	8	::::	osam
+::::	9	::::	devet
+::::	10	::::	deset
+::::	11	::::	jedanaest
+::::	12	::::	dvanaest
+::::	13	::::	trinaest
+::::	14	::::	cetrnaest
+::::	15	::::	petnaest
+::::	16	::::	šesnaest
+::::	17	::::	sedamnaest
+::::	18	::::	osamnaest
+::::	19	::::	devetnaest
+::::	20	::::	dvadeset
+::::	21	::::	dvadeset jedan
+::::	22	::::	dvadeset dva
+::::	23	::::	dvadeset tri
+::::	24	::::	dvadeset četiri
+::::	25	::::	dvadeset pet
+::::	26	::::	dvadeset šest
+::::	27	::::	dvadeset sedam
+::::	28	::::	dvadeset osam
+::::	29	::::	dvadeset devet
+::::	30	::::	trideset
+::::	31	::::	trideset jedan
+::::	32	::::	trideset dva
+::::	33	::::	trideset tri
+::::	34	::::	trideset četiri
+::::	35	::::	trideset pet
+::::	36	::::	trideset šest
+::::	37	::::	trideset sedam
+::::	38	::::	trideset osam
+::::	39	::::	trideset devet
+::::	40	::::	cetrdeset
+::::	41	::::	cetrdeset jedan
+::::	42	::::	cetrdeset dva
+::::	43	::::	cetrdeset tri
+::::	44	::::	cetrdeset četiri
+::::	45	::::	cetrdeset pet
+::::	46	::::	cetrdeset šest
+::::	47	::::	cetrdeset sedam
+::::	48	::::	cetrdeset osam
+::::	49	::::	cetrdeset devet
+::::	50	::::	pedeset
+::::	51	::::	pedeset jedan
+::::	52	::::	pedeset dva
+::::	53	::::	pedeset tri
+::::	54	::::	pedeset četiri
+::::	55	::::	pedeset pet
+::::	56	::::	pedeset šest
+::::	57	::::	pedeset sedam
+::::	58	::::	pedeset osam
+::::	59	::::	pedeset devet
+::::	60	::::	šezdeset
+::::	61	::::	šezdeset jedan
+::::	62	::::	šezdeset dva
+::::	63	::::	šezdeset tri
+::::	64	::::	šezdeset četiri
+::::	65	::::	šezdeset pet
+::::	66	::::	šezdeset šest
+::::	67	::::	šezdeset sedam
+::::	68	::::	šezdeset osam
+::::	69	::::	šezdeset devet
+::::	70	::::	sedamdeset
+::::	71	::::	sedamdeset jedan
+::::	72	::::	sedamdeset dva
+::::	73	::::	sedamdeset tri
+::::	74	::::	sedamdeset četiri
+::::	75	::::	sedamdeset pet
+::::	76	::::	sedamdeset šest
+::::	77	::::	sedamdeset sedam
+::::	78	::::	sedamdeset osam
+::::	79	::::	sedamdeset devet
+::::	80	::::	osamdeset
+::::	81	::::	osamdeset jedan
+::::	82	::::	osamdeset dva
+::::	83	::::	osamdeset tri
+::::	84	::::	osamdeset četiri
+::::	85	::::	osamdeset pet
+::::	86	::::	osamdeset šest
+::::	87	::::	osamdeset sedam
+::::	88	::::	osamdeset osam
+::::	89	::::	osamdeset devet
+::::	90	::::	devedeset
+::::	91	::::	devedeset jedan
+::::	92	::::	devedeset dva
+::::	93	::::	devedeset tri
+::::	94	::::	devedeset četiri
+::::	95	::::	devedeset pet
+::::	96	::::	devedeset šest
+::::	97	::::	devedeset sedam
+::::	98	::::	devedeset osam
+::::	99	::::	devedeset devet
+::::	100	::::	sto
+#	Czech
+::::	0	::::	nula
+::::	1	::::	jeden
+::::	2	::::	dva
+::::	3	::::	tri
+::::	4	::::	chtyri
+::::	5	::::	pet
+::::	6	::::	shest
+::::	7	::::	sedm
+::::	8	::::	osm
+::::	9	::::	devet
+::::	10	::::	deset
+::::	11	::::	jedenáct
+::::	12	::::	dvanáct
+::::	13	::::	trináct
+::::	14	::::	ctrnáct
+::::	15	::::	patnáct
+::::	16	::::	sestnáct
+::::	17	::::	sedmnáct
+::::	18	::::	osmnáct
+::::	19	::::	devatenáct
+::::	20	::::	dvacet
+::::	21	::::	dvacetjedna
+::::	22	::::	dvacetdva
+::::	23	::::	dvacettri
+::::	24	::::	dvacetchtyri
+::::	25	::::	dvacetpet
+::::	26	::::	dvacetshest
+::::	27	::::	dvacetsedm
+::::	28	::::	dvacetosm
+::::	29	::::	dvacetdevet
+::::	30	::::	tricet
+::::	31	::::	tricetjedna
+::::	32	::::	tricetdva
+::::	33	::::	tricettri
+::::	34	::::	tricetchtyri
+::::	35	::::	tricetpet
+::::	36	::::	tricetshest
+::::	37	::::	tricetsedm
+::::	38	::::	tricetosm
+::::	39	::::	tricetdevet
+::::	40	::::	ctryricet
+::::	41	::::	ctryricetjedna
+::::	42	::::	ctryricetdva
+::::	43	::::	ctryricettri
+::::	44	::::	ctryricetchtyri
+::::	45	::::	ctryricetpet
+::::	46	::::	ctryricetshest
+::::	47	::::	ctryricetsedm
+::::	48	::::	ctryricetosm
+::::	49	::::	ctryricetdevet
+::::	50	::::	padesát
+::::	51	::::	padesátjedna
+::::	52	::::	padesátdva
+::::	53	::::	padesáttri
+::::	54	::::	padesátchtyri
+::::	55	::::	padesátpet
+::::	56	::::	padesátshest
+::::	57	::::	padesátsedm
+::::	58	::::	padesátosm
+::::	59	::::	padesátdevet
+::::	60	::::	sedesát
+::::	61	::::	sedesátjedna
+::::	62	::::	sedesátdva
+::::	63	::::	sedesáttri
+::::	64	::::	sedesátchtyri
+::::	65	::::	sedesátpet
+::::	66	::::	sedesátshest
+::::	67	::::	sedesátsedm
+::::	68	::::	sedesátosm
+::::	69	::::	sedesátdevet
+::::	70	::::	sedmdesát
+::::	71	::::	sedmdesátjedna
+::::	72	::::	sedmdesátdva
+::::	73	::::	sedmdesáttri
+::::	74	::::	sedmdesátchtyri
+::::	75	::::	sedmdesátpet
+::::	76	::::	sedmdesátshest
+::::	77	::::	sedmdesátsedm
+::::	78	::::	sedmdesátosm
+::::	79	::::	sedmdesátdevet
+::::	80	::::	osmdesát
+::::	81	::::	osmdesátjedna
+::::	82	::::	osmdesátdva
+::::	83	::::	osmdesáttri
+::::	84	::::	osmdesátchtyri
+::::	85	::::	osmdesátpet
+::::	86	::::	osmdesátshest
+::::	87	::::	osmdesátsedm
+::::	88	::::	osmdesátosm
+::::	89	::::	osmdesátdevet
+::::	90	::::	devádesát
+::::	91	::::	devádesátjedna
+::::	92	::::	devádesátdva
+::::	93	::::	devádesáttri
+::::	94	::::	devádesátchtyri
+::::	95	::::	devádesátpet
+::::	96	::::	devádesátshest
+::::	97	::::	devádesátsedm
+::::	98	::::	devádesátosm
+::::	99	::::	devádesátdevet
+::::	100	::::	sto
+#	Danish
+::::	0	::::	nul
+::::	1	::::	en
+::::	2	::::	to
+::::	3	::::	tre
+::::	4	::::	fire
+::::	5	::::	fem
+::::	6	::::	seks
+::::	7	::::	syv
+::::	8	::::	otte
+::::	9	::::	ni
+::::	10	::::	ti
+::::	11	::::	elleve
+::::	12	::::	tolv
+::::	13	::::	tretten
+::::	14	::::	fjorten
+::::	15	::::	femten
+::::	16	::::	seksten
+::::	17	::::	sytten
+::::	18	::::	atten
+::::	19	::::	nitten
+::::	20	::::	tyve
+::::	21	::::	énogtyve
+::::	22	::::	toogtyve
+::::	23	::::	treogtyve
+::::	24	::::	fireogtyve
+::::	25	::::	femogtyve
+::::	26	::::	seksogtyve
+::::	27	::::	syvogtyve
+::::	28	::::	otteogtyve
+::::	29	::::	niogtyve
+::::	30	::::	tredive
+::::	31	::::	énogtredive
+::::	32	::::	toogtredive
+::::	33	::::	treogtredive
+::::	34	::::	fireogtredive
+::::	35	::::	femogtredive
+::::	36	::::	seksogtredive
+::::	37	::::	syvogtredive
+::::	38	::::	otteogtredive
+::::	39	::::	niogtredive
+::::	40	::::	fyrre
+::::	41	::::	énogfyrre
+::::	42	::::	toogfyrre
+::::	43	::::	treogfyrre
+::::	44	::::	fireogfyrre
+::::	45	::::	femogfyrre
+::::	46	::::	seksogfyrre
+::::	47	::::	syvogfyrre
+::::	48	::::	otteogfyrre
+::::	49	::::	niogfyrre
+::::	50	::::	halvtreds
+::::	51	::::	énoghalvtreds
+::::	52	::::	tooghalvtreds
+::::	53	::::	treoghalvtreds
+::::	54	::::	fireoghalvtreds
+::::	55	::::	femoghalvtreds
+::::	56	::::	seksoghalvtreds
+::::	57	::::	syvoghalvtreds
+::::	58	::::	otteoghalvtreds
+::::	59	::::	nioghalvtreds
+::::	60	::::	tres
+::::	61	::::	énogtres
+::::	62	::::	toogtres
+::::	63	::::	treogtres
+::::	64	::::	fireogtres
+::::	65	::::	femogtres
+::::	66	::::	seksogtres
+::::	67	::::	syvogtres
+::::	68	::::	otteogtres
+::::	69	::::	niogtres
+::::	70	::::	halvfjerds
+::::	71	::::	énoghalvfjerds
+::::	72	::::	tooghalvfjerds
+::::	73	::::	treoghalvfjerds
+::::	74	::::	fireoghalvfjerds
+::::	75	::::	femoghalvfjerds
+::::	76	::::	seksoghalvfjerds
+::::	77	::::	syvoghalvfjerds
+::::	78	::::	otteoghalvfjerds
+::::	79	::::	nioghalvfjerds
+::::	80	::::	firs
+::::	81	::::	énogfirs
+::::	82	::::	toogfirs
+::::	83	::::	treogfirs
+::::	84	::::	fireogfirs
+::::	85	::::	femogfirs
+::::	86	::::	seksogfirs
+::::	87	::::	syvogfirs
+::::	88	::::	otteogfirs
+::::	89	::::	niogfirs
+::::	90	::::	halvfems
+::::	91	::::	énoghalvfems
+::::	92	::::	tooghalvfems
+::::	93	::::	treoghalvfems
+::::	94	::::	fireoghalvfems
+::::	95	::::	femoghalvfems
+::::	96	::::	seksoghalvfems
+::::	97	::::	syvoghalvfems
+::::	98	::::	otteoghalvfems
+::::	99	::::	nioghalvfems
+::::	100	::::	hundrede
+#	Dutch
+::::	0	::::	nul
+::::	1	::::	een
+::::	2	::::	twee
+::::	3	::::	drie
+::::	4	::::	vier
+::::	5	::::	vijf
+::::	6	::::	zes
+::::	7	::::	zeven
+::::	8	::::	acht
+::::	9	::::	negen
+::::	10	::::	tien
+::::	11	::::	elf
+::::	12	::::	twaalf
+::::	13	::::	dertien
+::::	14	::::	veertien
+::::	15	::::	vijftien
+::::	16	::::	zestien
+::::	17	::::	zeventien
+::::	18	::::	achttien
+::::	19	::::	negentien
+::::	20	::::	twintig
+::::	21	::::	eenentwintig
+::::	22	::::	tweeëntwintig
+::::	23	::::	drieëntwintig
+::::	24	::::	vierentwintig
+::::	25	::::	vijfentwintig
+::::	26	::::	zesentwintig
+::::	27	::::	zevenentwintig
+::::	28	::::	achtentwintig
+::::	29	::::	negenentwintig
+::::	30	::::	dertig
+::::	31	::::	eenendertig
+::::	32	::::	tweeëndertig
+::::	33	::::	drieëndertig
+::::	34	::::	vierendertig
+::::	35	::::	vijfendertig
+::::	36	::::	zesendertig
+::::	37	::::	zevenendertig
+::::	38	::::	achtendertig
+::::	39	::::	negenendertig
+::::	40	::::	veertig
+::::	41	::::	eenenveertig
+::::	42	::::	tweeënveertig
+::::	43	::::	drieënveertig
+::::	44	::::	vierenveertig
+::::	45	::::	vijfenveertig
+::::	46	::::	zesenveertig
+::::	47	::::	zevenenveertig
+::::	48	::::	achtenveertig
+::::	49	::::	negenenveertig
+::::	50	::::	vijftig
+::::	51	::::	eenenvijftig
+::::	52	::::	tweeënvijftig
+::::	53	::::	drieënvijftig
+::::	54	::::	vierenvijftig
+::::	55	::::	vijfenvijftig
+::::	56	::::	zesenvijftig
+::::	57	::::	zevenenvijftig
+::::	58	::::	achtenvijftig
+::::	59	::::	negenenvijftig
+::::	60	::::	zestig
+::::	61	::::	eenenzestig
+::::	62	::::	tweeënzestig
+::::	63	::::	drieënzestig
+::::	64	::::	vierenzestig
+::::	65	::::	vijfenzestig
+::::	66	::::	zesenzestig
+::::	67	::::	zevenenzestig
+::::	68	::::	achtenzestig
+::::	69	::::	negenenzestig
+::::	70	::::	zeventig
+::::	71	::::	eenenzeventig
+::::	72	::::	tweeënzeventig
+::::	73	::::	drieënzeventig
+::::	74	::::	vierenzeventig
+::::	75	::::	vijfenzeventig
+::::	76	::::	zesenzeventig
+::::	77	::::	zevenenzeventig
+::::	78	::::	achtenzeventig
+::::	79	::::	negenenzeventig
+::::	80	::::	tachtig
+::::	81	::::	eenentachtig
+::::	82	::::	tweeëntachtig
+::::	83	::::	drieëntachtig
+::::	84	::::	vierentachtig
+::::	85	::::	vijfentachtig
+::::	86	::::	zesentachtig
+::::	87	::::	zevenentachtig
+::::	88	::::	achtentachtig
+::::	89	::::	negenentachtig
+::::	90	::::	negentig
+::::	91	::::	eenennegentig
+::::	92	::::	tweeënnegentig
+::::	93	::::	drieënnegentig
+::::	94	::::	vierennegentig
+::::	95	::::	vijfennegentig
+::::	96	::::	zesennegentig
+::::	97	::::	zevenennegentig
+::::	98	::::	achtennegentig
+::::	99	::::	negenennegentig
+::::	100	::::	honderd
+#	English
+::::	0	::::	zero
+::::	1	::::	one
+::::	2	::::	two
+::::	3	::::	three
+::::	4	::::	four
+::::	5	::::	five
+::::	6	::::	six
+::::	7	::::	seven
+::::	8	::::	eight
+::::	9	::::	nine
+::::	10	::::	ten
+::::	11	::::	eleven
+::::	12	::::	twelve
+::::	13	::::	thirteen
+::::	14	::::	fourteen
+::::	15	::::	fifteen
+::::	16	::::	sixteen
+::::	17	::::	seventeen
+::::	18	::::	eighteen
+::::	19	::::	nineteen
+::::	20	::::	twenty
+::::	21	::::	twenty-one
+::::	22	::::	twenty-two
+::::	23	::::	twenty-three
+::::	24	::::	twenty-four
+::::	25	::::	twenty-five
+::::	26	::::	twenty-six
+::::	27	::::	twenty-seven
+::::	28	::::	twenty-eight
+::::	29	::::	twenty-nine
+::::	30	::::	thirty
+::::	31	::::	thirty-one
+::::	32	::::	thirty-two
+::::	33	::::	thirty-three
+::::	34	::::	thirty-four
+::::	35	::::	thirty-five
+::::	36	::::	thirty-six
+::::	37	::::	thirty-seven
+::::	38	::::	thirty-eight
+::::	39	::::	thirty-nine
+::::	40	::::	forty
+::::	41	::::	forty-one
+::::	42	::::	forty-two
+::::	43	::::	forty-three
+::::	44	::::	forty-four
+::::	45	::::	forty-five
+::::	46	::::	forty-six
+::::	47	::::	forty-seven
+::::	48	::::	forty-eight
+::::	49	::::	forty-nine
+::::	50	::::	fifty
+::::	51	::::	fifty-one
+::::	52	::::	fifty-two
+::::	53	::::	fifty-three
+::::	54	::::	fifty-four
+::::	55	::::	fifty-five
+::::	56	::::	fifty-six
+::::	57	::::	fifty-seven
+::::	58	::::	fifty-eight
+::::	59	::::	fifty-nine
+::::	60	::::	sixty
+::::	61	::::	sixty-one
+::::	62	::::	sixty-two
+::::	63	::::	sixty-three
+::::	64	::::	sixty-four
+::::	65	::::	sixty-five
+::::	66	::::	sixty-six
+::::	67	::::	sixty-seven
+::::	68	::::	sixty-eight
+::::	69	::::	sixty-nine
+::::	70	::::	seventy
+::::	71	::::	seventy-one
+::::	72	::::	seventy-two
+::::	73	::::	seventy-three
+::::	74	::::	seventy-four
+::::	75	::::	seventy-five
+::::	76	::::	seventy-six
+::::	77	::::	seventy-seven
+::::	78	::::	seventy-eight
+::::	79	::::	seventy-nine
+::::	80	::::	eighty
+::::	81	::::	eighty-one
+::::	82	::::	eighty-two
+::::	83	::::	eighty-three
+::::	84	::::	eighty-four
+::::	85	::::	eighty-five
+::::	86	::::	eighty-six
+::::	87	::::	eighty-seven
+::::	88	::::	eighty-eight
+::::	89	::::	eighty-nine
+::::	90	::::	ninety
+::::	91	::::	ninety-one
+::::	92	::::	ninety-two
+::::	93	::::	ninety-three
+::::	94	::::	ninety-four
+::::	95	::::	ninety-five
+::::	96	::::	ninety-six
+::::	97	::::	ninety-seven
+::::	98	::::	ninety-eight
+::::	99	::::	ninety-nine
+::::	100	::::	hundred
+#	Estonian
+::::	0	::::	null
+::::	1	::::	üks
+::::	2	::::	kaks
+::::	3	::::	kolm
+::::	4	::::	neli
+::::	5	::::	viis
+::::	6	::::	kuus
+::::	7	::::	seitse
+::::	8	::::	kaheksa
+::::	9	::::	üheksa
+::::	10	::::	kümme
+::::	11	::::	üksteist
+::::	12	::::	kaksteist
+::::	13	::::	kolmteist
+::::	14	::::	neliteist
+::::	15	::::	viisteist
+::::	16	::::	kuusteist
+::::	17	::::	seitseteist
+::::	18	::::	kaheksateist
+::::	19	::::	üheksateist
+::::	20	::::	kakskümmend
+::::	21	::::	kakskümmend üks
+::::	22	::::	kakskümmend kaks
+::::	23	::::	kakskümmend kolm
+::::	24	::::	kakskümmend neli
+::::	25	::::	kakskümmend viis
+::::	26	::::	kakskümmend kuus
+::::	27	::::	kakskümmend seitse
+::::	28	::::	kakskümmend kaheksa
+::::	29	::::	kakskümmend üheksa
+::::	30	::::	kolmkümmend
+::::	31	::::	kolmkümmend üks
+::::	32	::::	kolmkümmend kaks
+::::	33	::::	kolmkümmend kolm
+::::	34	::::	kolmkümmend neli
+::::	35	::::	kolmkümmend viis
+::::	36	::::	kolmkümmend kuus
+::::	37	::::	kolmkümmend seitse
+::::	38	::::	kolmkümmend kaheksa
+::::	39	::::	kolmkümmend üheksa
+::::	40	::::	nelikümmend
+::::	41	::::	nelikümmend üks
+::::	42	::::	nelikümmend kaks
+::::	43	::::	nelikümmend kolm
+::::	44	::::	nelikümmend neli
+::::	45	::::	nelikümmend viis
+::::	46	::::	nelikümmend kuus
+::::	47	::::	nelikümmend seitse
+::::	48	::::	nelikümmend kaheksa
+::::	49	::::	nelikümmend üheksa
+::::	50	::::	viiskümmend
+::::	51	::::	viiskümmend üks
+::::	52	::::	viiskümmend kaks
+::::	53	::::	viiskümmend kolm
+::::	54	::::	viiskümmend neli
+::::	55	::::	viiskümmend viis
+::::	56	::::	viiskümmend kuus
+::::	57	::::	viiskümmend seitse
+::::	58	::::	viiskümmend kaheksa
+::::	59	::::	viiskümmend üheksa
+::::	60	::::	kuuskümmend
+::::	61	::::	kuuskümmend üks
+::::	62	::::	kuuskümmend kaks
+::::	63	::::	kuuskümmend kolm
+::::	64	::::	kuuskümmend neli
+::::	65	::::	kuuskümmend viis
+::::	66	::::	kuuskümmend kuus
+::::	67	::::	kuuskümmend seitse
+::::	68	::::	kuuskümmend kaheksa
+::::	69	::::	kuuskümmend üheksa
+::::	70	::::	seitsekümmend
+::::	71	::::	seitsekümmend üks
+::::	72	::::	seitsekümmend kaks
+::::	73	::::	seitsekümmend kolm
+::::	74	::::	seitsekümmend neli
+::::	75	::::	seitsekümmend viis
+::::	76	::::	seitsekümmend kuus
+::::	77	::::	seitsekümmend seitse
+::::	78	::::	seitsekümmend kaheksa
+::::	79	::::	seitsekümmend üheksa
+::::	80	::::	kaheksakümmend
+::::	81	::::	kaheksakümmend üks
+::::	82	::::	kaheksakümmend kaks
+::::	83	::::	kaheksakümmend kolm
+::::	84	::::	kaheksakümmend neli
+::::	85	::::	kaheksakümmend viis
+::::	86	::::	kaheksakümmend kuus
+::::	87	::::	kaheksakümmend seitse
+::::	88	::::	kaheksakümmend kaheksa
+::::	89	::::	kaheksakümmend üheksa
+::::	90	::::	üheksakümmend
+::::	91	::::	üheksakümmend üks
+::::	92	::::	üheksakümmend kaks
+::::	93	::::	üheksakümmend kolm
+::::	94	::::	üheksakümmend neli
+::::	95	::::	üheksakümmend viis
+::::	96	::::	üheksakümmend kuus
+::::	97	::::	üheksakümmend seitse
+::::	98	::::	üheksakümmend kaheksa
+::::	99	::::	üheksakümmend üheksa
+::::	100	::::	sada
+#	Finnish
+::::	0	::::	nolla
+::::	1	::::	yksi
+::::	2	::::	kaksi
+::::	3	::::	kolme
+::::	4	::::	neljä
+::::	5	::::	viisi
+::::	6	::::	kuusi
+::::	7	::::	seitsemän
+::::	8	::::	kahdeksan
+::::	9	::::	yhdeksän
+::::	10	::::	kymmenen
+::::	11	::::	yksitoista
+::::	12	::::	kaksitoista
+::::	13	::::	kolmetoista
+::::	14	::::	neljätoista
+::::	15	::::	viisitoista
+::::	16	::::	kuusitoista
+::::	17	::::	seitsemäntoista
+::::	18	::::	kahdeksantoista
+::::	19	::::	yhdeksäntoista
+::::	20	::::	kaksikymmentä
+::::	21	::::	kaksikymmentäyksi
+::::	22	::::	kaksikymmentäkaksi
+::::	23	::::	kaksikymmentäkolme
+::::	24	::::	kaksikymmentäneljä
+::::	25	::::	kaksikymmentäviisi
+::::	26	::::	kaksikymmentäkuusi
+::::	27	::::	kaksikymmentäseitsemän
+::::	28	::::	kaksikymmentäkahdeksan
+::::	29	::::	kaksikymmentäyhdeksän
+::::	30	::::	kolmekymmentä
+::::	31	::::	kolmekymmentäyksi
+::::	32	::::	kolmekymmentäkaksi
+::::	33	::::	kolmekymmentäkolme
+::::	34	::::	kolmekymmentäneljä
+::::	35	::::	kolmekymmentäviisi
+::::	36	::::	kolmekymmentäkuusi
+::::	37	::::	kolmekymmentäseitsemän
+::::	38	::::	kolmekymmentäkahdeksan
+::::	39	::::	kolmekymmentäyhdeksän
+::::	40	::::	neljäkymmentä
+::::	41	::::	neljäkymmentäyksi
+::::	42	::::	neljäkymmentäkaksi
+::::	43	::::	neljäkymmentäkolme
+::::	44	::::	neljäkymmentäneljä
+::::	45	::::	neljäkymmentäviisi
+::::	46	::::	neljäkymmentäkuusi
+::::	47	::::	neljäkymmentäseitsemän
+::::	48	::::	neljäkymmentäkahdeksan
+::::	49	::::	neljäkymmentäyhdeksän
+::::	50	::::	viisikymmentä
+::::	51	::::	viisikymmentäyksi
+::::	52	::::	viisikymmentäkaksi
+::::	53	::::	viisikymmentäkolme
+::::	54	::::	viisikymmentäneljä
+::::	55	::::	viisikymmentäviisi
+::::	56	::::	viisikymmentäkuusi
+::::	57	::::	viisikymmentäseitsemän
+::::	58	::::	viisikymmentäkahdeksan
+::::	59	::::	viisikymmentäyhdeksän
+::::	60	::::	kuusikymmentä
+::::	61	::::	kuusikymmentäyksi
+::::	62	::::	kuusikymmentäkaksi
+::::	63	::::	kuusikymmentäkolme
+::::	64	::::	kuusikymmentäneljä
+::::	65	::::	kuusikymmentäviisi
+::::	66	::::	kuusikymmentäkuusi
+::::	67	::::	kuusikymmentäseitsemän
+::::	68	::::	kuusikymmentäkahdeksan
+::::	69	::::	kuusikymmentäyhdeksän
+::::	70	::::	seitsemänkymmentä
+::::	71	::::	seitsemänkymmentäyksi
+::::	72	::::	seitsemänkymmentäkaksi
+::::	73	::::	seitsemänkymmentäkolme
+::::	74	::::	seitsemänkymmentäneljä
+::::	75	::::	seitsemänkymmentäviisi
+::::	76	::::	seitsemänkymmentäkuusi
+::::	77	::::	seitsemänkymmentäseitsemän
+::::	78	::::	seitsemänkymmentäkahdeksan
+::::	79	::::	seitsemänkymmentäyhdeksän
+::::	80	::::	kahdeksankymmentä
+::::	81	::::	kahdeksankymmentäyksi
+::::	82	::::	kahdeksankymmentäkaksi
+::::	83	::::	kahdeksankymmentäkolme
+::::	84	::::	kahdeksankymmentäneljä
+::::	85	::::	kahdeksankymmentäviisi
+::::	86	::::	kahdeksankymmentäkuusi
+::::	87	::::	kahdeksankymmentäseitsemän
+::::	88	::::	kahdeksankymmentäkahdeksan
+::::	89	::::	kahdeksankymmentäyhdeksän
+::::	90	::::	yhdeksänkymmentä
+::::	91	::::	yhdeksänkymmentäyksi
+::::	92	::::	yhdeksänkymmentäkaksi
+::::	93	::::	yhdeksänkymmentäkolme
+::::	94	::::	yhdeksänkymmentäneljä
+::::	95	::::	yhdeksänkymmentäviisi
+::::	96	::::	yhdeksänkymmentäkuusi
+::::	97	::::	yhdeksänkymmentäseitsemän
+::::	98	::::	yhdeksänkymmentäkahdeksan
+::::	99	::::	yhdeksänkymmentäyhdeksän
+::::	100	::::	sata
+#	French
+::::	0	::::	zero
+::::	1	::::	un
+::::	2	::::	deux
+::::	3	::::	trois
+::::	4	::::	quatre
+::::	5	::::	cinq
+::::	6	::::	six
+::::	7	::::	sept
+::::	8	::::	huit
+::::	9	::::	neuf
+::::	10	::::	dix
+::::	11	::::	onze
+::::	12	::::	douze
+::::	13	::::	treize
+::::	14	::::	quatorze
+::::	15	::::	quinze
+::::	16	::::	seize
+::::	17	::::	dix-sept
+::::	18	::::	dix-huit
+::::	19	::::	dix-neuf
+::::	20	::::	vingt
+::::	21	::::	vingtet un
+::::	22	::::	vingt-deux
+::::	23	::::	vingt-trois
+::::	24	::::	vingt-quatre
+::::	25	::::	vingt-cinq
+::::	26	::::	vingt-six
+::::	27	::::	vingt-sept
+::::	28	::::	vingt-huit
+::::	29	::::	vingt-neuf
+::::	30	::::	trente
+::::	31	::::	trenteet un
+::::	32	::::	trente-deux
+::::	33	::::	trente-trois
+::::	34	::::	trente-quatre
+::::	35	::::	trente-cinq
+::::	36	::::	trente-six
+::::	37	::::	trente-sept
+::::	38	::::	trente-huit
+::::	39	::::	trente-neuf
+::::	40	::::	quarante
+::::	41	::::	quaranteet un
+::::	42	::::	quarante-deux
+::::	43	::::	quarante-trois
+::::	44	::::	quarante-quatre
+::::	45	::::	quarante-cinq
+::::	46	::::	quarante-six
+::::	47	::::	quarante-sept
+::::	48	::::	quarante-huit
+::::	49	::::	quarante-neuf
+::::	50	::::	cinquante
+::::	51	::::	cinquanteet un
+::::	52	::::	cinquante-deux
+::::	53	::::	cinquante-trois
+::::	54	::::	cinquante-quatre
+::::	55	::::	cinquante-cinq
+::::	56	::::	cinquante-six
+::::	57	::::	cinquante-sept
+::::	58	::::	cinquante-huit
+::::	59	::::	cinquante-neuf
+::::	60	::::	soixante
+::::	61	::::	soixanteet un
+::::	62	::::	soixante-deux
+::::	63	::::	soixante-trois
+::::	64	::::	soixante-quatre
+::::	65	::::	soixante-cinq
+::::	66	::::	soixante-six
+::::	67	::::	soixante-sept
+::::	68	::::	soixante-huit
+::::	69	::::	soixante-neuf
+::::	70	::::	soixante-dix
+::::	71	::::	soixante et onze
+::::	72	::::	soixante-douze
+::::	73	::::	soixante-treize
+::::	74	::::	soixante-quatorze
+::::	75	::::	soixante-quinze
+::::	76	::::	soixante-seize
+::::	77	::::	soixante-dix-sept
+::::	78	::::	soixante-dix-huit
+::::	79	::::	soixante-dix-neuf
+::::	80	::::	quatre-vingts
+::::	81	::::	quatre-vingt-un
+::::	82	::::	quatre-vingt-deux
+::::	83	::::	quatre-vingt-trois
+::::	84	::::	quatre-vingt-quatre
+::::	85	::::	quatre-vingt-cinq
+::::	86	::::	quatre-vingt-six
+::::	87	::::	quatre-vingt-sept
+::::	88	::::	quatre-vingt-huit
+::::	89	::::	quatre-vingt-neuf
+::::	90	::::	quatre-vingt-dix
+::::	91	::::	quatre-vingt-onze
+::::	92	::::	quatre-vingt-douze
+::::	93	::::	quatre-vingt-treize
+::::	94	::::	quatre-vingt-quatorze
+::::	95	::::	quatre-vingt-quinze
+::::	96	::::	quatre-vingt-seize
+::::	97	::::	quatre-vingt-dix-sept
+::::	98	::::	quatre-vingt-dix-huit
+::::	99	::::	quatre-vingt-dix-neuf
+::::	100	::::	cent
+#	German
+::::	0	::::	null
+::::	1	::::	eins
+::::	2	::::	zwei
+::::	3	::::	drei
+::::	4	::::	vier
+::::	5	::::	fünf
+::::	6	::::	sechs
+::::	7	::::	sieben
+::::	8	::::	acht
+::::	9	::::	neun
+::::	10	::::	zehn
+::::	11	::::	elf
+::::	12	::::	zwölf
+::::	13	::::	dreizehn
+::::	14	::::	vierzehn
+::::	15	::::	funfzehn
+::::	16	::::	sechszehn
+::::	17	::::	siebzehn
+::::	18	::::	achtzehn
+::::	19	::::	neunzehn
+::::	20	::::	zwanzig
+::::	21	::::	einundzwanzig
+::::	22	::::	zweiundzwanzig
+::::	23	::::	dreiundzwanzig
+::::	24	::::	vierundzwanzig
+::::	25	::::	fünfundzwanzig
+::::	26	::::	sechsundzwanzig
+::::	27	::::	siebenundzwanzig
+::::	28	::::	achtundzwanzig
+::::	29	::::	neunundzwanzig
+::::	30	::::	dreißig
+::::	31	::::	einunddreißig
+::::	32	::::	zweiunddreißig
+::::	33	::::	dreiunddreißig
+::::	34	::::	vierunddreißig
+::::	35	::::	fünfunddreißig
+::::	36	::::	sechsunddreißig
+::::	37	::::	siebenunddreißig
+::::	38	::::	achtunddreißig
+::::	39	::::	neununddreißig
+::::	40	::::	vierzig
+::::	41	::::	einundvierzig
+::::	42	::::	zweiundvierzig
+::::	43	::::	dreiundvierzig
+::::	44	::::	vierundvierzig
+::::	45	::::	fünfundvierzig
+::::	46	::::	sechsundvierzig
+::::	47	::::	siebenundvierzig
+::::	48	::::	achtundvierzig
+::::	49	::::	neunundvierzig
+::::	50	::::	funfzig
+::::	51	::::	einundfunfzig
+::::	52	::::	zweiundfunfzig
+::::	53	::::	dreiundfunfzig
+::::	54	::::	vierundfunfzig
+::::	55	::::	fünfundfunfzig
+::::	56	::::	sechsundfunfzig
+::::	57	::::	siebenundfunfzig
+::::	58	::::	achtundfunfzig
+::::	59	::::	neunundfunfzig
+::::	60	::::	sechzig
+::::	61	::::	einundsechzig
+::::	62	::::	zweiundsechzig
+::::	63	::::	dreiundsechzig
+::::	64	::::	vierundsechzig
+::::	65	::::	fünfundsechzig
+::::	66	::::	sechsundsechzig
+::::	67	::::	siebenundsechzig
+::::	68	::::	achtundsechzig
+::::	69	::::	neunundsechzig
+::::	70	::::	siebzig
+::::	71	::::	einundsiebzig
+::::	72	::::	zweiundsiebzig
+::::	73	::::	dreiundsiebzig
+::::	74	::::	vierundsiebzig
+::::	75	::::	fünfundsiebzig
+::::	76	::::	sechsundsiebzig
+::::	77	::::	siebenundsiebzig
+::::	78	::::	achtundsiebzig
+::::	79	::::	neunundsiebzig
+::::	80	::::	achtzig
+::::	81	::::	einundachtzig
+::::	82	::::	zweiundachtzig
+::::	83	::::	dreiundachtzig
+::::	84	::::	vierundachtzig
+::::	85	::::	fünfundachtzig
+::::	86	::::	sechsundachtzig
+::::	87	::::	siebenundachtzig
+::::	88	::::	achtundachtzig
+::::	89	::::	neunundachtzig
+::::	90	::::	neunzig
+::::	91	::::	einundneunzig
+::::	92	::::	zweiundneunzig
+::::	93	::::	dreiundneunzig
+::::	94	::::	vierundneunzig
+::::	95	::::	fünfundneunzig
+::::	96	::::	sechsundneunzig
+::::	97	::::	siebenundneunzig
+::::	98	::::	achtundneunzig
+::::	99	::::	neunundneunzig
+::::	100	::::	(ein)hundert
+#	Hebrew
+::::	0	::::	אפס
+::::	1	::::	אחת
+::::	2	::::	שנים
+::::	3	::::	שלוש
+::::	4	::::	ארבע
+::::	5	::::	חמש
+::::	6	::::	שש
+::::	7	::::	שבע
+::::	8	::::	שמונה
+::::	9	::::	תשע
+::::	10	::::	עשר
+::::	11	::::	אחת עשרה
+::::	12	::::	שנים עשרה
+::::	13	::::	שלוש עשרה
+::::	14	::::	ארבע עשרה
+::::	15	::::	חמש עשרה
+::::	16	::::	שש עשרה
+::::	17	::::	שבע עשרה
+::::	18	::::	שמונה עשרה
+::::	19	::::	תשע עשרה
+::::	20	::::	עשרים
+::::	21	::::	עשרים ואחת
+::::	22	::::	עשרים ושנים
+::::	23	::::	עשרים ושלוש
+::::	24	::::	עשרים וארבע
+::::	25	::::	עשרים וחמש
+::::	26	::::	עשרים ושש
+::::	27	::::	עשרים ושבע
+::::	28	::::	עשרים ושמונה
+::::	29	::::	עשרים ותשע
+::::	30	::::	שלושים
+::::	31	::::	שלושים ואחת
+::::	32	::::	שלושים ושנים
+::::	33	::::	שלושים ושלוש
+::::	34	::::	שלושים וארבע
+::::	35	::::	שלושים וחמש
+::::	36	::::	שלושים ושש
+::::	37	::::	שלושים ושבע
+::::	38	::::	שלושים ושמונה
+::::	39	::::	שלושים ותשע
+::::	40	::::	ארבעים
+::::	41	::::	ארבעים ואחת
+::::	42	::::	ארבעים ושנים
+::::	43	::::	ארבעים ושלוש
+::::	44	::::	ארבעים וארבע
+::::	45	::::	ארבעים וחמש
+::::	46	::::	ארבעים ושש
+::::	47	::::	ארבעים ושבע
+::::	48	::::	ארבעים ושמונה
+::::	49	::::	ארבעים ותשע
+::::	50	::::	חמישים
+::::	51	::::	חמישים ואחת
+::::	52	::::	חמישים ושנים
+::::	53	::::	חמישים ושלוש
+::::	54	::::	חמישים וארבע
+::::	55	::::	חמישים וחמש
+::::	56	::::	חמישים ושש
+::::	57	::::	חמישים ושבע
+::::	58	::::	חמישים ושמונה
+::::	59	::::	חמישים ותשע
+::::	60	::::	ששים
+::::	61	::::	ששים ואחת
+::::	62	::::	ששים ושנים
+::::	63	::::	ששים ושלוש
+::::	64	::::	ששים וארבע
+::::	65	::::	ששים וחמש
+::::	66	::::	ששים ושש
+::::	67	::::	ששים ושבע
+::::	68	::::	ששים ושמונה
+::::	69	::::	ששים ותשע
+::::	70	::::	שבעים
+::::	71	::::	שבעים ואחת
+::::	72	::::	שבעים ושנים
+::::	73	::::	שבעים ושלוש
+::::	74	::::	שבעים וארבע
+::::	75	::::	שבעים וחמש
+::::	76	::::	שבעים ושש
+::::	77	::::	שבעים ושבע
+::::	78	::::	שבעים ושמונה
+::::	79	::::	שבעים ותשע
+::::	80	::::	שמונים
+::::	81	::::	שמונים ואחת
+::::	82	::::	שמונים ושנים
+::::	83	::::	שמונים ושלוש
+::::	84	::::	שמונים וארבע
+::::	85	::::	שמונים וחמש
+::::	86	::::	שמונים ושש
+::::	87	::::	שמונים ושבע
+::::	88	::::	שמונים ושמונה
+::::	89	::::	שמונים ותשע
+::::	90	::::	תשעים
+::::	91	::::	תשעים ואחת
+::::	92	::::	תשעים ושנים
+::::	93	::::	תשעים ושלוש
+::::	94	::::	תשעים וארבע
+::::	95	::::	תשעים וחמש
+::::	96	::::	תשעים ושש
+::::	97	::::	תשעים ושבע
+::::	98	::::	תשעים ושמונה
+::::	99	::::	תשעים ותשע
+::::	100	::::	מאה
+#	Hungarian
+::::	0	::::	nulla
+::::	1	::::	egy
+::::	2	::::	kettö
+::::	3	::::	három
+::::	4	::::	négy
+::::	5	::::	öt
+::::	6	::::	hat
+::::	7	::::	hét
+::::	8	::::	nyolc
+::::	9	::::	kilenc
+::::	10	::::	tíz
+::::	11	::::	tízenegy
+::::	12	::::	tízenkettö
+::::	13	::::	tízenhárom
+::::	14	::::	tízennégy
+::::	15	::::	tízenöt
+::::	16	::::	tízenhat
+::::	17	::::	tízenhét
+::::	18	::::	tízennyolc
+::::	19	::::	tízenkilenc
+::::	20	::::	húsz
+::::	21	::::	húszonegy
+::::	22	::::	húszonkettö
+::::	23	::::	húszonhárom
+::::	24	::::	húszonnégy
+::::	25	::::	húszonöt
+::::	26	::::	húszonhat
+::::	27	::::	húszonhét
+::::	28	::::	húszonnyolc
+::::	29	::::	húszonkilenc
+::::	30	::::	harminc
+::::	31	::::	harmincegy
+::::	32	::::	harminckettö
+::::	33	::::	harminchárom
+::::	34	::::	harmincnégy
+::::	35	::::	harmincöt
+::::	36	::::	harminchat
+::::	37	::::	harminchét
+::::	38	::::	harmincnyolc
+::::	39	::::	harminckilenc
+::::	40	::::	negyven
+::::	41	::::	negyvenegy
+::::	42	::::	negyvenkettö
+::::	43	::::	negyvenhárom
+::::	44	::::	negyvennégy
+::::	45	::::	negyvenöt
+::::	46	::::	negyvenhat
+::::	47	::::	negyvenhét
+::::	48	::::	negyvennyolc
+::::	49	::::	negyvenkilenc
+::::	50	::::	ötven
+::::	51	::::	ötvenegy
+::::	52	::::	ötvenkettö
+::::	53	::::	ötvenhárom
+::::	54	::::	ötvennégy
+::::	55	::::	ötvenöt
+::::	56	::::	ötvenhat
+::::	57	::::	ötvenhét
+::::	58	::::	ötvennyolc
+::::	59	::::	ötvenkilenc
+::::	60	::::	hatvan
+::::	61	::::	hatvanegy
+::::	62	::::	hatvankettö
+::::	63	::::	hatvanhárom
+::::	64	::::	hatvannégy
+::::	65	::::	hatvanöt
+::::	66	::::	hatvanhat
+::::	67	::::	hatvanhét
+::::	68	::::	hatvannyolc
+::::	69	::::	hatvankilenc
+::::	70	::::	hetven
+::::	71	::::	hetvenegy
+::::	72	::::	hetvenkettö
+::::	73	::::	hetvenhárom
+::::	74	::::	hetvennégy
+::::	75	::::	hetvenöt
+::::	76	::::	hetvenhat
+::::	77	::::	hetvenhét
+::::	78	::::	hetvennyolc
+::::	79	::::	hetvenkilenc
+::::	80	::::	nyolcvan
+::::	81	::::	nyolcvanegy
+::::	82	::::	nyolcvankettö
+::::	83	::::	nyolcvanhárom
+::::	84	::::	nyolcvannégy
+::::	85	::::	nyolcvanöt
+::::	86	::::	nyolcvanhat
+::::	87	::::	nyolcvanhét
+::::	88	::::	nyolcvannyolc
+::::	89	::::	nyolcvankilenc
+::::	90	::::	kilencven
+::::	91	::::	kilencvenegy
+::::	92	::::	kilencvenkettö
+::::	93	::::	kilencvenhárom
+::::	94	::::	kilencvennégy
+::::	95	::::	kilencvenöt
+::::	96	::::	kilencvenhat
+::::	97	::::	kilencvenhét
+::::	98	::::	kilencvennyolc
+::::	99	::::	kilencvenkilenc
+::::	100	::::	száz
+#	Italian
+::::	0	::::	zero
+::::	1	::::	uno
+::::	2	::::	due
+::::	3	::::	tre
+::::	4	::::	quattro
+::::	5	::::	cinque
+::::	6	::::	sei
+::::	7	::::	sette
+::::	8	::::	otto
+::::	9	::::	nove
+::::	10	::::	dieci
+::::	11	::::	undici
+::::	12	::::	dodici
+::::	13	::::	tredici
+::::	14	::::	quattordici
+::::	15	::::	quindici
+::::	16	::::	sedici
+::::	17	::::	diciassette
+::::	18	::::	diciotto
+::::	19	::::	diciannove
+::::	20	::::	venti
+::::	21	::::	ventuno
+::::	22	::::	ventidue
+::::	23	::::	ventitre
+::::	24	::::	ventiquattro
+::::	25	::::	venticinque
+::::	26	::::	ventisei
+::::	27	::::	ventisette
+::::	28	::::	ventotto
+::::	29	::::	ventinove
+::::	30	::::	trenta
+::::	31	::::	trentuno
+::::	32	::::	trentadue
+::::	33	::::	trentatre
+::::	34	::::	trentaquattro
+::::	35	::::	trentacinque
+::::	36	::::	trentasei
+::::	37	::::	trentasette
+::::	38	::::	trentotto
+::::	39	::::	trentanove
+::::	40	::::	quaranta
+::::	41	::::	quarantuno
+::::	42	::::	quarantadue
+::::	43	::::	quarantatre
+::::	44	::::	quarantaquattro
+::::	45	::::	quarantacinque
+::::	46	::::	quarantasei
+::::	47	::::	quarantasette
+::::	48	::::	quarantotto
+::::	49	::::	quarantanove
+::::	50	::::	cinquanta
+::::	51	::::	cinquantuno
+::::	52	::::	cinquantadue
+::::	53	::::	cinquantatre
+::::	54	::::	cinquantaquattro
+::::	55	::::	cinquantacinque
+::::	56	::::	cinquantasei
+::::	57	::::	cinquantasette
+::::	58	::::	cinquantotto
+::::	59	::::	cinquantanove
+::::	60	::::	sessanta
+::::	61	::::	sessantuno
+::::	62	::::	sessantadue
+::::	63	::::	sessantatre
+::::	64	::::	sessantaquattro
+::::	65	::::	sessantacinque
+::::	66	::::	sessantasei
+::::	67	::::	sessantasette
+::::	68	::::	sessantotto
+::::	69	::::	sessantanove
+::::	70	::::	settanta
+::::	71	::::	settantuno
+::::	72	::::	settantadue
+::::	73	::::	settantatre
+::::	74	::::	settantaquattro
+::::	75	::::	settantacinque
+::::	76	::::	settantasei
+::::	77	::::	settantasette
+::::	78	::::	settantotto
+::::	79	::::	settantanove
+::::	80	::::	ottanta
+::::	81	::::	ottantuno
+::::	82	::::	ottantadue
+::::	83	::::	ottantatre
+::::	84	::::	ottantaquattro
+::::	85	::::	ottantacinque
+::::	86	::::	ottantasei
+::::	87	::::	ottantasette
+::::	88	::::	ottantotto
+::::	89	::::	ottantanove
+::::	90	::::	novanta
+::::	91	::::	novantuno
+::::	92	::::	novantadue
+::::	93	::::	novantatre
+::::	94	::::	novantaquattro
+::::	95	::::	novantacinque
+::::	96	::::	novantasei
+::::	97	::::	novantasette
+::::	98	::::	novantotto
+::::	99	::::	novantanove
+::::	100	::::	cento
+#	Japanese
+::::	0	::::	rei
+::::	1	::::	ichi
+::::	2	::::	ni
+::::	3	::::	san
+::::	4	::::	yon
+::::	5	::::	go
+::::	6	::::	roku
+::::	7	::::	nana
+::::	8	::::	hachi
+::::	9	::::	kyuu
+::::	10	::::	juu
+::::	11	::::	juuichi
+::::	12	::::	juuni
+::::	13	::::	juusan
+::::	14	::::	juushi
+::::	15	::::	juugo
+::::	16	::::	juuroku
+::::	17	::::	juushichi
+::::	18	::::	juuhachi
+::::	19	::::	juuku
+::::	20	::::	nijuu
+::::	21	::::	nijuuichi
+::::	22	::::	nijuuni
+::::	23	::::	nijuusan
+::::	24	::::	nijuushi
+::::	25	::::	nijuugo
+::::	26	::::	nijuuroku
+::::	27	::::	nijuushichi
+::::	28	::::	nijuuhachi
+::::	29	::::	nijuuku
+::::	30	::::	sanjuu
+::::	31	::::	sanjuuichi
+::::	32	::::	sanjuuni
+::::	33	::::	sanjuusan
+::::	34	::::	sanjuushi
+::::	35	::::	sanjuugo
+::::	36	::::	sanjuuroku
+::::	37	::::	sanjuushichi
+::::	38	::::	sanjuuhachi
+::::	39	::::	sanjuuku
+::::	40	::::	yonjuu
+::::	41	::::	yonjuuichi
+::::	42	::::	yonjuuni
+::::	43	::::	yonjuusan
+::::	44	::::	yonjuushi
+::::	45	::::	yonjuugo
+::::	46	::::	yonjuuroku
+::::	47	::::	yonjuushichi
+::::	48	::::	yonjuuhachi
+::::	49	::::	yonjuuku
+::::	50	::::	gojuu
+::::	51	::::	gojuuichi
+::::	52	::::	gojuuni
+::::	53	::::	gojuusan
+::::	54	::::	gojuushi
+::::	55	::::	gojuugo
+::::	56	::::	gojuuroku
+::::	57	::::	gojuushichi
+::::	58	::::	gojuuhachi
+::::	59	::::	gojuuku
+::::	60	::::	rokujuu
+::::	61	::::	rokujuuichi
+::::	62	::::	rokujuuni
+::::	63	::::	rokujuusan
+::::	64	::::	rokujuushi
+::::	65	::::	rokujuugo
+::::	66	::::	rokujuuroku
+::::	67	::::	rokujuushichi
+::::	68	::::	rokujuuhachi
+::::	69	::::	rokujuuku
+::::	70	::::	nanajuu
+::::	71	::::	nanajuuichi
+::::	72	::::	nanajuuni
+::::	73	::::	nanajuusan
+::::	74	::::	nanajuushi
+::::	75	::::	nanajuugo
+::::	76	::::	nanajuuroku
+::::	77	::::	nanajuushichi
+::::	78	::::	nanajuuhachi
+::::	79	::::	nanajuuku
+::::	80	::::	hachijuu
+::::	81	::::	hachijuuichi
+::::	82	::::	hachijuuni
+::::	83	::::	hachijuusan
+::::	84	::::	hachijuushi
+::::	85	::::	hachijuugo
+::::	86	::::	hachijuuroku
+::::	87	::::	hachijuushichi
+::::	88	::::	hachijuuhachi
+::::	89	::::	hachijuuku
+::::	90	::::	kyuujuu
+::::	91	::::	kyuujuuichi
+::::	92	::::	kyuujuuni
+::::	93	::::	kyuujuusan
+::::	94	::::	kyuujuushi
+::::	95	::::	kyuujuugo
+::::	96	::::	kyuujuuroku
+::::	97	::::	kyuujuushichi
+::::	98	::::	kyuujuuhachi
+::::	99	::::	kyuujuuku
+::::	100	::::	hyaku
+#	Norwegian
+::::	0	::::	null
+::::	1	::::	en
+::::	2	::::	to
+::::	3	::::	tre
+::::	4	::::	fire
+::::	5	::::	fem
+::::	6	::::	seks
+::::	7	::::	syv
+::::	8	::::	åtte
+::::	9	::::	ni
+::::	10	::::	ti
+::::	11	::::	elleve
+::::	12	::::	tolv
+::::	13	::::	tretten
+::::	14	::::	fjorten
+::::	15	::::	femten
+::::	16	::::	seksten
+::::	17	::::	sytten
+::::	18	::::	atten
+::::	19	::::	nitten
+::::	20	::::	tjue
+::::	21	::::	tjueen
+::::	22	::::	tjueto
+::::	23	::::	tjuetre
+::::	24	::::	tjuefire
+::::	25	::::	tjuefem
+::::	26	::::	tjueseks
+::::	27	::::	tjuesyv
+::::	28	::::	tjueåtte
+::::	29	::::	tjueni
+::::	30	::::	tretti
+::::	31	::::	trettien
+::::	32	::::	trettito
+::::	33	::::	trettitre
+::::	34	::::	trettifire
+::::	35	::::	trettifem
+::::	36	::::	trettiseks
+::::	37	::::	trettisyv
+::::	38	::::	trettiåtte
+::::	39	::::	trettini
+::::	40	::::	førti
+::::	41	::::	førtien
+::::	42	::::	førtito
+::::	43	::::	førtitre
+::::	44	::::	førtifire
+::::	45	::::	førtifem
+::::	46	::::	førtiseks
+::::	47	::::	førtisyv
+::::	48	::::	førtiåtte
+::::	49	::::	førtini
+::::	50	::::	femti
+::::	51	::::	femtien
+::::	52	::::	femtito
+::::	53	::::	femtitre
+::::	54	::::	femtifire
+::::	55	::::	femtifem
+::::	56	::::	femtiseks
+::::	57	::::	femtisyv
+::::	58	::::	femtiåtte
+::::	59	::::	femtini
+::::	60	::::	seksti
+::::	61	::::	sekstien
+::::	62	::::	sekstito
+::::	63	::::	sekstitre
+::::	64	::::	sekstifire
+::::	65	::::	sekstifem
+::::	66	::::	sekstiseks
+::::	67	::::	sekstisyv
+::::	68	::::	sekstiåtte
+::::	69	::::	sekstini
+::::	70	::::	sytti
+::::	71	::::	syttien
+::::	72	::::	syttito
+::::	73	::::	syttitre
+::::	74	::::	syttifire
+::::	75	::::	syttifem
+::::	76	::::	syttiseks
+::::	77	::::	syttisyv
+::::	78	::::	syttiåtte
+::::	79	::::	syttini
+::::	80	::::	åtti
+::::	81	::::	åttien
+::::	82	::::	åttito
+::::	83	::::	åttitre
+::::	84	::::	åttifire
+::::	85	::::	åttifem
+::::	86	::::	åttiseks
+::::	87	::::	åttisyv
+::::	88	::::	åttiåtte
+::::	89	::::	åttini
+::::	90	::::	nitti
+::::	91	::::	nittien
+::::	92	::::	nittito
+::::	93	::::	nittitre
+::::	94	::::	nittifire
+::::	95	::::	nittifem
+::::	96	::::	nittiseks
+::::	97	::::	nittisyv
+::::	98	::::	nittiåtte
+::::	99	::::	nittini
+::::	100	::::	hundre
+#	Polish
+::::	0	::::	zero
+::::	1	::::	jeden
+::::	2	::::	dwa
+::::	3	::::	trzy
+::::	4	::::	cztery
+::::	5	::::	piec
+::::	6	::::	szesc
+::::	7	::::	siedem
+::::	8	::::	osiem
+::::	9	::::	dziewiec
+::::	10	::::	dziesiec
+::::	11	::::	jedenascie
+::::	12	::::	dwanascie
+::::	13	::::	trzynascie
+::::	14	::::	czternascie
+::::	15	::::	pietnascie
+::::	16	::::	szesnascie
+::::	17	::::	siedemnascie
+::::	18	::::	osiemnascie
+::::	19	::::	dziewietnascie
+::::	20	::::	dwadziescia
+::::	21	::::	dwadziesciajeden
+::::	22	::::	dwadziesciadwa
+::::	23	::::	dwadziesciatrzy
+::::	24	::::	dwadziesciacztery
+::::	25	::::	dwadziesciapiec
+::::	26	::::	dwadziesciaszesc
+::::	27	::::	dwadziesciasiedem
+::::	28	::::	dwadziesciaosiem
+::::	29	::::	dwadziesciadziewiec
+::::	30	::::	trzydzìesci
+::::	31	::::	trzydzìescijeden
+::::	32	::::	trzydzìescidwa
+::::	33	::::	trzydzìescitrzy
+::::	34	::::	trzydzìescicztery
+::::	35	::::	trzydzìescipiec
+::::	36	::::	trzydzìesciszesc
+::::	37	::::	trzydzìescisiedem
+::::	38	::::	trzydzìesciosiem
+::::	39	::::	trzydzìescidziewiec
+::::	40	::::	czterdziesci
+::::	41	::::	czterdziescijeden
+::::	42	::::	czterdziescidwa
+::::	43	::::	czterdziescitrzy
+::::	44	::::	czterdziescicztery
+::::	45	::::	czterdziescipiec
+::::	46	::::	czterdziesciszesc
+::::	47	::::	czterdziescisiedem
+::::	48	::::	czterdziesciosiem
+::::	49	::::	czterdziescidziewiec
+::::	50	::::	piecdziesiat
+::::	51	::::	piecdziesiatjeden
+::::	52	::::	piecdziesiatdwa
+::::	53	::::	piecdziesiattrzy
+::::	54	::::	piecdziesiatcztery
+::::	55	::::	piecdziesiatpiec
+::::	56	::::	piecdziesiatszesc
+::::	57	::::	piecdziesiatsiedem
+::::	58	::::	piecdziesiatosiem
+::::	59	::::	piecdziesiatdziewiec
+::::	60	::::	szescdziesiat
+::::	61	::::	szescdziesiatjeden
+::::	62	::::	szescdziesiatdwa
+::::	63	::::	szescdziesiattrzy
+::::	64	::::	szescdziesiatcztery
+::::	65	::::	szescdziesiatpiec
+::::	66	::::	szescdziesiatszesc
+::::	67	::::	szescdziesiatsiedem
+::::	68	::::	szescdziesiatosiem
+::::	69	::::	szescdziesiatdziewiec
+::::	70	::::	siedemdziesiat
+::::	71	::::	siedemdziesiatjeden
+::::	72	::::	siedemdziesiatdwa
+::::	73	::::	siedemdziesiattrzy
+::::	74	::::	siedemdziesiatcztery
+::::	75	::::	siedemdziesiatpiec
+::::	76	::::	siedemdziesiatszesc
+::::	77	::::	siedemdziesiatsiedem
+::::	78	::::	siedemdziesiatosiem
+::::	79	::::	siedemdziesiatdziewiec
+::::	80	::::	osiemdziesiat
+::::	81	::::	osiemdziesiatjeden
+::::	82	::::	osiemdziesiatdwa
+::::	83	::::	osiemdziesiattrzy
+::::	84	::::	osiemdziesiatcztery
+::::	85	::::	osiemdziesiatpiec
+::::	86	::::	osiemdziesiatszesc
+::::	87	::::	osiemdziesiatsiedem
+::::	88	::::	osiemdziesiatosiem
+::::	89	::::	osiemdziesiatdziewiec
+::::	90	::::	dziewiecdziesiat
+::::	91	::::	dziewiecdziesiatjeden
+::::	92	::::	dziewiecdziesiatdwa
+::::	93	::::	dziewiecdziesiattrzy
+::::	94	::::	dziewiecdziesiatcztery
+::::	95	::::	dziewiecdziesiatpiec
+::::	96	::::	dziewiecdziesiatszesc
+::::	97	::::	dziewiecdziesiatsiedem
+::::	98	::::	dziewiecdziesiatosiem
+::::	99	::::	dziewiecdziesiatdziewiec
+::::	100	::::	sto
+#	Portuguese
+::::	0	::::	zero
+::::	1	::::	um
+::::	2	::::	dois
+::::	3	::::	três
+::::	4	::::	quatro
+::::	5	::::	cinco
+::::	6	::::	seis
+::::	7	::::	sete
+::::	8	::::	oito
+::::	9	::::	nove
+::::	10	::::	dez
+::::	11	::::	onze
+::::	12	::::	doze
+::::	13	::::	treze
+::::	14	::::	catorze
+::::	15	::::	quinze
+::::	16	::::	dezasseis
+::::	17	::::	dezassete
+::::	18	::::	dezoito
+::::	19	::::	dezanove
+::::	20	::::	vinte
+::::	21	::::	vintee um
+::::	22	::::	vintee dois
+::::	23	::::	vintee três
+::::	24	::::	vintee quatro
+::::	25	::::	vintee cinco
+::::	26	::::	vintee seis
+::::	27	::::	vintee sete
+::::	28	::::	vintee oito
+::::	29	::::	vintee nove
+::::	30	::::	trinta
+::::	31	::::	trintae um
+::::	32	::::	trintae dois
+::::	33	::::	trintae três
+::::	34	::::	trintae quatro
+::::	35	::::	trintae cinco
+::::	36	::::	trintae seis
+::::	37	::::	trintae sete
+::::	38	::::	trintae oito
+::::	39	::::	trintae nove
+::::	40	::::	quarenta
+::::	41	::::	quarentae um
+::::	42	::::	quarentae dois
+::::	43	::::	quarentae três
+::::	44	::::	quarentae quatro
+::::	45	::::	quarentae cinco
+::::	46	::::	quarentae seis
+::::	47	::::	quarentae sete
+::::	48	::::	quarentae oito
+::::	49	::::	quarentae nove
+::::	50	::::	cinquenta
+::::	51	::::	cinquentae um
+::::	52	::::	cinquentae dois
+::::	53	::::	cinquentae três
+::::	54	::::	cinquentae quatro
+::::	55	::::	cinquentae cinco
+::::	56	::::	cinquentae seis
+::::	57	::::	cinquentae sete
+::::	58	::::	cinquentae oito
+::::	59	::::	cinquentae nove
+::::	60	::::	sessenta
+::::	61	::::	sessentae um
+::::	62	::::	sessentae dois
+::::	63	::::	sessentae três
+::::	64	::::	sessentae quatro
+::::	65	::::	sessentae cinco
+::::	66	::::	sessentae seis
+::::	67	::::	sessentae sete
+::::	68	::::	sessentae oito
+::::	69	::::	sessentae nove
+::::	70	::::	setenta
+::::	71	::::	setentae um
+::::	72	::::	setentae dois
+::::	73	::::	setentae três
+::::	74	::::	setentae quatro
+::::	75	::::	setentae cinco
+::::	76	::::	setentae seis
+::::	77	::::	setentae sete
+::::	78	::::	setentae oito
+::::	79	::::	setentae nove
+::::	80	::::	oitenta
+::::	81	::::	oitentae um
+::::	82	::::	oitentae dois
+::::	83	::::	oitentae três
+::::	84	::::	oitentae quatro
+::::	85	::::	oitentae cinco
+::::	86	::::	oitentae seis
+::::	87	::::	oitentae sete
+::::	88	::::	oitentae oito
+::::	89	::::	oitentae nove
+::::	90	::::	noventa
+::::	91	::::	noventae um
+::::	92	::::	noventae dois
+::::	93	::::	noventae três
+::::	94	::::	noventae quatro
+::::	95	::::	noventae cinco
+::::	96	::::	noventae seis
+::::	97	::::	noventae sete
+::::	98	::::	noventae oito
+::::	99	::::	noventae nove
+::::	100	::::	cem
+#	Romanian
+::::	0	::::	zero
+::::	1	::::	unu
+::::	2	::::	doi
+::::	3	::::	trei
+::::	4	::::	patru
+::::	5	::::	cinci
+::::	6	::::	sase
+::::	7	::::	sapte
+::::	8	::::	opt
+::::	9	::::	noua
+::::	10	::::	zece
+::::	11	::::	unsprezece
+::::	12	::::	doisprezece
+::::	13	::::	treisprezece
+::::	14	::::	paisprezece
+::::	15	::::	cincisprezece
+::::	16	::::	saisprezece
+::::	17	::::	saptesprezece
+::::	18	::::	optsprezece
+::::	19	::::	nouasprezece
+::::	20	::::	douazeci
+::::	21	::::	douazecisiunu
+::::	22	::::	douazecisidoi
+::::	23	::::	douazecisitrei
+::::	24	::::	douazecisipatru
+::::	25	::::	douazecisicinci
+::::	26	::::	douazecisisase
+::::	27	::::	douazecisisapte
+::::	28	::::	douazecisiopt
+::::	29	::::	douazecisinoua
+::::	30	::::	treizeci
+::::	31	::::	treizecisiunu
+::::	32	::::	treizecisidoi
+::::	33	::::	treizecisitrei
+::::	34	::::	treizecisipatru
+::::	35	::::	treizecisicinci
+::::	36	::::	treizecisisase
+::::	37	::::	treizecisisapte
+::::	38	::::	treizecisiopt
+::::	39	::::	treizecisinoua
+::::	40	::::	patruzeci
+::::	41	::::	patruzecisiunu
+::::	42	::::	patruzecisidoi
+::::	43	::::	patruzecisitrei
+::::	44	::::	patruzecisipatru
+::::	45	::::	patruzecisicinci
+::::	46	::::	patruzecisisase
+::::	47	::::	patruzecisisapte
+::::	48	::::	patruzecisiopt
+::::	49	::::	patruzecisinoua
+::::	50	::::	cincizeci
+::::	51	::::	cincizecisiunu
+::::	52	::::	cincizecisidoi
+::::	53	::::	cincizecisitrei
+::::	54	::::	cincizecisipatru
+::::	55	::::	cincizecisicinci
+::::	56	::::	cincizecisisase
+::::	57	::::	cincizecisisapte
+::::	58	::::	cincizecisiopt
+::::	59	::::	cincizecisinoua
+::::	60	::::	saizeci
+::::	61	::::	saizecisiunu
+::::	62	::::	saizecisidoi
+::::	63	::::	saizecisitrei
+::::	64	::::	saizecisipatru
+::::	65	::::	saizecisicinci
+::::	66	::::	saizecisisase
+::::	67	::::	saizecisisapte
+::::	68	::::	saizecisiopt
+::::	69	::::	saizecisinoua
+::::	70	::::	saptezeci
+::::	71	::::	saptezecisiunu
+::::	72	::::	saptezecisidoi
+::::	73	::::	saptezecisitrei
+::::	74	::::	saptezecisipatru
+::::	75	::::	saptezecisicinci
+::::	76	::::	saptezecisisase
+::::	77	::::	saptezecisisapte
+::::	78	::::	saptezecisiopt
+::::	79	::::	saptezecisinoua
+::::	80	::::	optzeci
+::::	81	::::	optzecisiunu
+::::	82	::::	optzecisidoi
+::::	83	::::	optzecisitrei
+::::	84	::::	optzecisipatru
+::::	85	::::	optzecisicinci
+::::	86	::::	optzecisisase
+::::	87	::::	optzecisisapte
+::::	88	::::	optzecisiopt
+::::	89	::::	optzecisinoua
+::::	90	::::	nouazeci
+::::	91	::::	nouazecisiunu
+::::	92	::::	nouazecisidoi
+::::	93	::::	nouazecisitrei
+::::	94	::::	nouazecisipatru
+::::	95	::::	nouazecisicinci
+::::	96	::::	nouazecisisase
+::::	97	::::	nouazecisisapte
+::::	98	::::	nouazecisiopt
+::::	99	::::	nouazecisinoua
+::::	100	::::	o suta
+#	Spanish
+::::	0	::::	cero
+::::	1	::::	uno
+::::	2	::::	dos
+::::	3	::::	tres
+::::	4	::::	cuatro
+::::	5	::::	cinco
+::::	6	::::	seis
+::::	7	::::	siete
+::::	8	::::	ocho
+::::	9	::::	nueve
+::::	10	::::	diez
+::::	11	::::	once
+::::	12	::::	doce
+::::	13	::::	trece
+::::	14	::::	catorce
+::::	15	::::	quince
+::::	16	::::	dieciséis
+::::	17	::::	diecisiete
+::::	18	::::	dieciocho
+::::	19	::::	diecinueve
+::::	20	::::	veinte
+::::	21	::::	veintiuno
+::::	22	::::	veintidós
+::::	23	::::	veintitrés
+::::	24	::::	veinticuatro
+::::	25	::::	veinticinco
+::::	26	::::	veintiséis
+::::	27	::::	veintisiete
+::::	28	::::	veintiocho
+::::	29	::::	veintinueve
+::::	30	::::	treinta
+::::	31	::::	treintay uno
+::::	32	::::	treintay dos
+::::	33	::::	treintay tres
+::::	34	::::	treintay cuatro
+::::	35	::::	treintay cinco
+::::	36	::::	treintay seis
+::::	37	::::	treintay siete
+::::	38	::::	treintay ocho
+::::	39	::::	treintay nueve
+::::	40	::::	cuarenta
+::::	41	::::	cuarentay uno
+::::	42	::::	cuarentay dos
+::::	43	::::	cuarentay tres
+::::	44	::::	cuarentay cuatro
+::::	45	::::	cuarentay cinco
+::::	46	::::	cuarentay seis
+::::	47	::::	cuarentay siete
+::::	48	::::	cuarentay ocho
+::::	49	::::	cuarentay nueve
+::::	50	::::	cincuenta
+::::	51	::::	cincuentay uno
+::::	52	::::	cincuentay dos
+::::	53	::::	cincuentay tres
+::::	54	::::	cincuentay cuatro
+::::	55	::::	cincuentay cinco
+::::	56	::::	cincuentay seis
+::::	57	::::	cincuentay siete
+::::	58	::::	cincuentay ocho
+::::	59	::::	cincuentay nueve
+::::	60	::::	sesenta
+::::	61	::::	sesentay uno
+::::	62	::::	sesentay dos
+::::	63	::::	sesentay tres
+::::	64	::::	sesentay cuatro
+::::	65	::::	sesentay cinco
+::::	66	::::	sesentay seis
+::::	67	::::	sesentay siete
+::::	68	::::	sesentay ocho
+::::	69	::::	sesentay nueve
+::::	70	::::	setenta
+::::	71	::::	setentay uno
+::::	72	::::	setentay dos
+::::	73	::::	setentay tres
+::::	74	::::	setentay cuatro
+::::	75	::::	setentay cinco
+::::	76	::::	setentay seis
+::::	77	::::	setentay siete
+::::	78	::::	setentay ocho
+::::	79	::::	setentay nueve
+::::	80	::::	ochenta
+::::	81	::::	ochentay uno
+::::	82	::::	ochentay dos
+::::	83	::::	ochentay tres
+::::	84	::::	ochentay cuatro
+::::	85	::::	ochentay cinco
+::::	86	::::	ochentay seis
+::::	87	::::	ochentay siete
+::::	88	::::	ochentay ocho
+::::	89	::::	ochentay nueve
+::::	90	::::	noventa
+::::	91	::::	noventay uno
+::::	92	::::	noventay dos
+::::	93	::::	noventay tres
+::::	94	::::	noventay cuatro
+::::	95	::::	noventay cinco
+::::	96	::::	noventay seis
+::::	97	::::	noventay siete
+::::	98	::::	noventay ocho
+::::	99	::::	noventay nueve
+::::	100	::::	cien
+#	Swedish
+::::	0	::::	noll
+::::	1	::::	en
+::::	2	::::	två
+::::	3	::::	tre
+::::	4	::::	fyra
+::::	5	::::	fem
+::::	6	::::	sex
+::::	7	::::	sju
+::::	8	::::	åtta
+::::	9	::::	nio
+::::	10	::::	tio
+::::	11	::::	elva
+::::	12	::::	tolv
+::::	13	::::	tretton
+::::	14	::::	fjorton
+::::	15	::::	femton
+::::	16	::::	sexton
+::::	17	::::	sjutton
+::::	18	::::	arton
+::::	19	::::	nitton
+::::	20	::::	tjugo
+::::	21	::::	tjugoen
+::::	22	::::	tjugotvå
+::::	23	::::	tjugotre
+::::	24	::::	tjugofyra
+::::	25	::::	tjugofem
+::::	26	::::	tjugosex
+::::	27	::::	tjugosju
+::::	28	::::	tjugoåtta
+::::	29	::::	tjugonio
+::::	30	::::	trettio
+::::	31	::::	trettioen
+::::	32	::::	trettiotvå
+::::	33	::::	trettiotre
+::::	34	::::	trettiofyra
+::::	35	::::	trettiofem
+::::	36	::::	trettiosex
+::::	37	::::	trettiosju
+::::	38	::::	trettioåtta
+::::	39	::::	trettionio
+::::	40	::::	fyrtio
+::::	41	::::	fyrtioen
+::::	42	::::	fyrtiotvå
+::::	43	::::	fyrtiotre
+::::	44	::::	fyrtiofyra
+::::	45	::::	fyrtiofem
+::::	46	::::	fyrtiosex
+::::	47	::::	fyrtiosju
+::::	48	::::	fyrtioåtta
+::::	49	::::	fyrtionio
+::::	50	::::	femtio
+::::	51	::::	femtioen
+::::	52	::::	femtiotvå
+::::	53	::::	femtiotre
+::::	54	::::	femtiofyra
+::::	55	::::	femtiofem
+::::	56	::::	femtiosex
+::::	57	::::	femtiosju
+::::	58	::::	femtioåtta
+::::	59	::::	femtionio
+::::	60	::::	sextio
+::::	61	::::	sextioen
+::::	62	::::	sextiotvå
+::::	63	::::	sextiotre
+::::	64	::::	sextiofyra
+::::	65	::::	sextiofem
+::::	66	::::	sextiosex
+::::	67	::::	sextiosju
+::::	68	::::	sextioåtta
+::::	69	::::	sextionio
+::::	70	::::	sjuttio
+::::	71	::::	sjuttioen
+::::	72	::::	sjuttiotvå
+::::	73	::::	sjuttiotre
+::::	74	::::	sjuttiofyra
+::::	75	::::	sjuttiofem
+::::	76	::::	sjuttiosex
+::::	77	::::	sjuttiosju
+::::	78	::::	sjuttioåtta
+::::	79	::::	sjuttionio
+::::	80	::::	åttio
+::::	81	::::	åttioen
+::::	82	::::	åttiotvå
+::::	83	::::	åttiotre
+::::	84	::::	åttiofyra
+::::	85	::::	åttiofem
+::::	86	::::	åttiosex
+::::	87	::::	åttiosju
+::::	88	::::	åttioåtta
+::::	89	::::	åttionio
+::::	90	::::	nittio
+::::	91	::::	nittioen
+::::	92	::::	nittiotvå
+::::	93	::::	nittiotre
+::::	94	::::	nittiofyra
+::::	95	::::	nittiofem
+::::	96	::::	nittiosex
+::::	97	::::	nittiosju
+::::	98	::::	nittioåtta
+::::	99	::::	nittionio
+::::	100	::::	hundra
+#	Turkish
+::::	0	::::	sifir
+::::	1	::::	bir
+::::	2	::::	iki
+::::	3	::::	üç
+::::	4	::::	dört
+::::	5	::::	bes
+::::	6	::::	alti
+::::	7	::::	yedi
+::::	8	::::	sekiz
+::::	9	::::	dokuz
+::::	10	::::	on
+::::	11	::::	on bir
+::::	12	::::	on iki
+::::	13	::::	on üç
+::::	14	::::	on dört
+::::	15	::::	on bes
+::::	16	::::	on alti
+::::	17	::::	on yedi
+::::	18	::::	on sekiz
+::::	19	::::	on dokuz
+::::	20	::::	yirmi
+::::	21	::::	yirmi bir
+::::	22	::::	yirmi iki
+::::	23	::::	yirmi üç
+::::	24	::::	yirmi dört
+::::	25	::::	yirmi bes
+::::	26	::::	yirmi alti
+::::	27	::::	yirmi yedi
+::::	28	::::	yirmi sekiz
+::::	29	::::	yirmi dokuz
+::::	30	::::	otuz
+::::	31	::::	otuz bir
+::::	32	::::	otuz iki
+::::	33	::::	otuz üç
+::::	34	::::	otuz dört
+::::	35	::::	otuz bes
+::::	36	::::	otuz alti
+::::	37	::::	otuz yedi
+::::	38	::::	otuz sekiz
+::::	39	::::	otuz dokuz
+::::	40	::::	kirk
+::::	41	::::	kirk bir
+::::	42	::::	kirk iki
+::::	43	::::	kirk üç
+::::	44	::::	kirk dört
+::::	45	::::	kirk bes
+::::	46	::::	kirk alti
+::::	47	::::	kirk yedi
+::::	48	::::	kirk sekiz
+::::	49	::::	kirk dokuz
+::::	50	::::	elli
+::::	51	::::	elli bir
+::::	52	::::	elli iki
+::::	53	::::	elli üç
+::::	54	::::	elli dört
+::::	55	::::	elli bes
+::::	56	::::	elli alti
+::::	57	::::	elli yedi
+::::	58	::::	elli sekiz
+::::	59	::::	elli dokuz
+::::	60	::::	altmis
+::::	61	::::	altmis bir
+::::	62	::::	altmis iki
+::::	63	::::	altmis üç
+::::	64	::::	altmis dört
+::::	65	::::	altmis bes
+::::	66	::::	altmis alti
+::::	67	::::	altmis yedi
+::::	68	::::	altmis sekiz
+::::	69	::::	altmis dokuz
+::::	70	::::	yetmis
+::::	71	::::	yetmis bir
+::::	72	::::	yetmis iki
+::::	73	::::	yetmis üç
+::::	74	::::	yetmis dört
+::::	75	::::	yetmis bes
+::::	76	::::	yetmis alti
+::::	77	::::	yetmis yedi
+::::	78	::::	yetmis sekiz
+::::	79	::::	yetmis dokuz
+::::	80	::::	seksen
+::::	81	::::	seksen bir
+::::	82	::::	seksen iki
+::::	83	::::	seksen üç
+::::	84	::::	seksen dört
+::::	85	::::	seksen bes
+::::	86	::::	seksen alti
+::::	87	::::	seksen yedi
+::::	88	::::	seksen sekiz
+::::	89	::::	seksen dokuz
+::::	90	::::	doksan
+::::	91	::::	doksan bir
+::::	92	::::	doksan iki
+::::	93	::::	doksan üç
+::::	94	::::	doksan dört
+::::	95	::::	doksan bes
+::::	96	::::	doksan alti
+::::	97	::::	doksan yedi
+::::	98	::::	doksan sekiz
+::::	99	::::	doksan dokuz
+::::	100	::::	yüz
+#	Welsh (masculine)
+::::	0	::::	dim
+::::	1	::::	un
+::::	2	::::	dau
+::::	3	::::	tri
+::::	4	::::	pedwar
+::::	5	::::	pump
+::::	6	::::	chwech
+::::	7	::::	saith
+::::	8	::::	wyth
+::::	9	::::	naw
+::::	10	::::	deg
+::::	11	::::	un deg un
+::::	12	::::	un deg dau
+::::	13	::::	un deg tri
+::::	14	::::	un deg pedwar
+::::	15	::::	un deg pump
+::::	16	::::	un deg chwech
+::::	17	::::	un deg saith
+::::	18	::::	un deg wyth
+::::	19	::::	un deg naw
+::::	20	::::	dau ddeg
+::::	21	::::	dau ddeg un
+::::	22	::::	dau ddeg dau
+::::	23	::::	dau ddeg tri
+::::	24	::::	dau ddeg pedwar
+::::	25	::::	dau ddeg pump
+::::	26	::::	dau ddeg chwech
+::::	27	::::	dau ddeg saith
+::::	28	::::	dau ddeg wyth
+::::	29	::::	dau ddeg naw
+::::	30	::::	tri deg
+::::	31	::::	tri deg un
+::::	32	::::	tri deg dau
+::::	33	::::	tri deg tri
+::::	34	::::	tri deg pedwar
+::::	35	::::	tri deg pump
+::::	36	::::	tri deg chwech
+::::	37	::::	tri deg saith
+::::	38	::::	tri deg wyth
+::::	39	::::	tri deg naw
+::::	40	::::	pedwar deg
+::::	41	::::	pedwar deg un
+::::	42	::::	pedwar deg dau
+::::	43	::::	pedwar deg tri
+::::	44	::::	pedwar deg pedwar
+::::	45	::::	pedwar deg pump
+::::	46	::::	pedwar deg chwech
+::::	47	::::	pedwar deg saith
+::::	48	::::	pedwar deg wyth
+::::	49	::::	pedwar deg naw
+::::	50	::::	pum deg
+::::	51	::::	pum deg un
+::::	52	::::	pum deg dau
+::::	53	::::	pum deg tri
+::::	54	::::	pum deg pedwar
+::::	55	::::	pum deg pump
+::::	56	::::	pum deg chwech
+::::	57	::::	pum deg saith
+::::	58	::::	pum deg wyth
+::::	59	::::	pum deg naw
+::::	60	::::	chwe deg
+::::	61	::::	chwe deg un
+::::	62	::::	chwe deg dau
+::::	63	::::	chwe deg tri
+::::	64	::::	chwe deg pedwar
+::::	65	::::	chwe deg pump
+::::	66	::::	chwe deg chwech
+::::	67	::::	chwe deg saith
+::::	68	::::	chwe deg wyth
+::::	69	::::	chwe deg naw
+::::	70	::::	saith deg
+::::	71	::::	saith deg un
+::::	72	::::	saith deg dau
+::::	73	::::	saith deg tri
+::::	74	::::	saith deg pedwar
+::::	75	::::	saith deg pump
+::::	76	::::	saith deg chwech
+::::	77	::::	saith deg saith
+::::	78	::::	saith deg wyth
+::::	79	::::	saith deg naw
+::::	80	::::	wyth deg
+::::	81	::::	wyth deg un
+::::	82	::::	wyth deg dau
+::::	83	::::	wyth deg tri
+::::	84	::::	wyth deg pedwar
+::::	85	::::	wyth deg pump
+::::	86	::::	wyth deg chwech
+::::	87	::::	wyth deg saith
+::::	88	::::	wyth deg wyth
+::::	89	::::	wyth deg naw
+::::	90	::::	naw deg
+::::	91	::::	naw deg un
+::::	92	::::	naw deg dau
+::::	93	::::	naw deg tri
+::::	94	::::	naw deg pedwar
+::::	95	::::	naw deg pump
+::::	96	::::	naw deg chwech
+::::	97	::::	naw deg saith
+::::	98	::::	naw deg wyth
+::::	99	::::	naw deg naw
+::::	100	::::	cant
+#	Welsh (feminine)
+::::	0	::::	dim
+
+::::	1	::::	un
+
+::::	2	::::	dwy
+
+::::	3	::::	tair
+
+::::	4	::::	pedair
+
+::::	5	::::	pump
+
+::::	6	::::	chwech
+
+::::	7	::::	saith
+
+::::	8	::::	wyth
+
+::::	9	::::	naw
+
+::::	10	::::	deg
+
+::::	11	::::	un deg un
+
+::::	12	::::	un deg dwy
+
+::::	13	::::	un deg tair
+
+::::	14	::::	un deg pedair
+
+::::	15	::::	un deg pump
+
+::::	16	::::	un deg chwech
+
+::::	17	::::	un deg saith
+
+::::	18	::::	un deg wyth
+
+::::	19	::::	un deg naw
+
+::::	20	::::	dau ddeg
+
+::::	21	::::	dau ddeg un
+
+::::	22	::::	dau ddeg dwy
+
+::::	23	::::	dau ddeg tair
+
+::::	24	::::	dau ddeg pedair
+
+::::	25	::::	dau ddeg pump
+
+::::	26	::::	dau ddeg chwech
+
+::::	27	::::	dau ddeg saith
+
+::::	28	::::	dau ddeg wyth
+
+::::	29	::::	dau ddeg naw
+
+::::	30	::::	tri deg
+
+::::	31	::::	tri deg un
+
+::::	32	::::	tri deg dwy
+
+::::	33	::::	tri deg tair
+
+::::	34	::::	tri deg pedair
+
+::::	35	::::	tri deg pump
+
+::::	36	::::	tri deg chwech
+
+::::	37	::::	tri deg saith
+
+::::	38	::::	tri deg wyth
+
+::::	39	::::	tri deg naw
+
+::::	40	::::	pedwar deg
+
+::::	41	::::	pedwar deg un
+
+::::	42	::::	pedwar deg dwy
+
+::::	43	::::	pedwar deg tair
+
+::::	44	::::	pedwar deg pedair
+
+::::	45	::::	pedwar deg pump
+
+::::	46	::::	pedwar deg chwech
+
+::::	47	::::	pedwar deg saith
+
+::::	48	::::	pedwar deg wyth
+
+::::	49	::::	pedwar deg naw
+
+::::	50	::::	pum deg
+
+::::	51	::::	pum deg un
+
+::::	52	::::	pum deg dwy
+
+::::	53	::::	pum deg tair
+
+::::	54	::::	pum deg pedair
+
+::::	55	::::	pum deg pump
+
+::::	56	::::	pum deg chwech
+
+::::	57	::::	pum deg saith
+
+::::	58	::::	pum deg wyth
+
+::::	59	::::	pum deg naw
+
+::::	60	::::	chwe deg
+
+::::	61	::::	chwe deg un
+
+::::	62	::::	chwe deg dwy
+
+::::	63	::::	chwe deg tair
+
+::::	64	::::	chwe deg pedair
+
+::::	65	::::	chwe deg pump
+
+::::	66	::::	chwe deg chwech
+
+::::	67	::::	chwe deg saith
+
+::::	68	::::	chwe deg wyth
+
+::::	69	::::	chwe deg naw
+
+::::	70	::::	saith deg
+
+::::	71	::::	saith deg un
+
+::::	72	::::	saith deg dwy
+
+::::	73	::::	saith deg tair
+
+::::	74	::::	saith deg pedair
+
+::::	75	::::	saith deg pump
+
+::::	76	::::	saith deg chwech
+
+::::	77	::::	saith deg saith
+
+::::	78	::::	saith deg wyth
+
+::::	79	::::	saith deg naw
+
+::::	80	::::	wyth deg
+
+::::	81	::::	wyth deg un
+
+::::	82	::::	wyth deg dwy
+
+::::	83	::::	wyth deg tair
+
+::::	84	::::	wyth deg pedair
+
+::::	85	::::	wyth deg pump
+
+::::	86	::::	wyth deg chwech
+
+::::	87	::::	wyth deg saith
+
+::::	88	::::	wyth deg wyth
+
+::::	89	::::	wyth deg naw
+
+::::	90	::::	naw deg
+
+::::	91	::::	naw deg un
+
+::::	92	::::	naw deg dwy
+
+::::	93	::::	naw deg tair
+
+::::	94	::::	naw deg pedair
+
+::::	95	::::	naw deg pump
+
+::::	96	::::	naw deg chwech
+
+::::	97	::::	naw deg saith
+
+::::	98	::::	naw deg wyth
+
+::::	99	::::	naw deg naw
+
+::::	100	::::	cant

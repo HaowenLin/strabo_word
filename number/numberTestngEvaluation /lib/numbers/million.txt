@@ -1,0 +1,111 @@
+@@ https://www.indifferentlanguages.com/words/million
+
+@@ Saying Million in European Languages
+
+@@ Language	Ways to say million
+Albanian	milion
+Basque	milioi
+Belarusian	мільёна
+Bosnian	milion
+Bulgarian	милион
+Catalan	milió
+Croatian	milijuna
+Czech	milión
+Danish	millioner
+Dutch	miljoen
+Estonian	miljon
+Finnish	miljoona
+French	million
+Galician	millón
+German	Million
+Greek	εκατομμύριο
+Hungarian	millió
+Icelandic	milljónir
+Irish	milliún
+Italian	milione
+Latvian	miljons
+Lithuanian	milijonas
+Macedonian	милиони
+Maltese	miljun
+Norwegian	millioner
+Polish	milion
+Portuguese	milhão
+Romanian	milion
+Russian	миллиона
+Serbian	милион
+Slovak	milión
+Slovenian	milijonov
+Spanish	millón
+Swedish	miljoner
+Ukrainian	мільйона
+Welsh	miliwn
+Yiddish	מיליאָן
+
+ 
+@@ Saying Million in Asian Languages
+
+@@ Language	Ways to say million
+Armenian	միլիոն
+Azerbaijani	milyon
+Bengali	মিলিয়ন
+Chinese Simplified	百万
+Chinese Traditional	百萬
+Georgian	მილიონი
+Gujarati	મિલિયન
+Hindi	दस लाख
+Hmong	lab
+Japanese	100万
+Kannada	ಮಿಲಿಯನ್
+Kazakh	миллион
+Khmer	លាន​នាក់
+Korean	백만
+Lao	ລ້ານ
+Malayalam	ദശലക്ഷം
+Marathi	दशलक्ष
+Mongolian	сая
+Myanmar (Burmese)	ရေသန်း
+Nepali	लाख
+Sinhala	මිලියන
+Tajik	миллион
+Tamil	மில்லியன்
+Telugu	మిలియన్
+Thai	ล้าน
+Urdu	دس لاکھ
+Uzbek	million
+Vietnamese	triệu
+@@ Saying Million in Middle-Eastern Languages
+
+@@ Language	Ways to say million
+Arabic	مليون
+Hebrew	מיליון
+Persian	میلیون
+Turkish	milyon
+
+@@ Saying Million in African Languages
+
+@@ Language	Ways to say million
+Afrikaans	miljoen
+Chichewa	miliyoni
+Hausa	da miliyan
+Igbo	nde
+Sesotho	limilione tse
+Somali	million
+Swahili	milioni
+Yoruba	million
+Zulu	million
+@@ Saying Million in Austronesian Languages
+
+@@ Language	Ways to say million
+Cebuano	milyon nga
+Filipino	milyon
+Indonesian	juta
+Javanese	yuta
+Malagasy	tapitrisa
+Malay	juta
+Maori	miriona
+@@ Saying Million in Other Foreign Languages
+
+@@ Language	Ways to say million
+Esperanto	miliono
+Haitian Creole	milyon dola
+Latin	million

@@ -1,0 +1,109 @@
+@@ Saying Billion in European Languages
+
+@@ Language	Ways to say billion
+Albanian	miliardë
+Basque	milioi
+Belarusian	мільярд
+Bosnian	milijarde
+Bulgarian	милиард
+Catalan	bilió
+Croatian	milijarde
+Czech	miliarda
+Danish	milliarder
+Dutch	miljard
+Estonian	miljard
+Finnish	miljardi
+French	milliard
+Galician	mil millóns
+German	Milliarde
+Greek	δισεκατομμύριο
+Hungarian	billió
+Icelandic	milljarða
+Irish	billiún
+Italian	miliardo
+Latvian	miljards
+Lithuanian	milijardų
+Macedonian	милијарди
+Maltese	biljun
+Norwegian	milliarder
+Polish	miliard
+Portuguese	bilhão
+Romanian	miliard
+Russian	миллиард
+Serbian	милијарди
+Slovak	miliarda
+Slovenian	milijard
+Spanish	billón
+Swedish	miljarder
+Ukrainian	мільярд
+Welsh	biliwn
+Yiddish	ביליאָן
+
+ 
+@@ Saying Billion in Asian Languages
+
+@@ Language	Ways to say billion
+Armenian	միլիարդ
+Azerbaijani	milyard
+Bengali	বিলিয়ন
+Chinese Simplified	十亿
+Chinese Traditional	十億
+Georgian	მილიარდი
+Gujarati	અબજ
+Hindi	एक अरब
+Hmong	billion
+Japanese	10億
+Kannada	ಶತಕೋಟಿ
+Kazakh	миллиард
+Khmer	ពាន់​លាន​ដុល្លារ
+Korean	십억
+Lao	ພັນ
+Malayalam	ബില്യൺ
+Marathi	अब्ज
+Mongolian	тэрбум
+Myanmar (Burmese)	ဘီလီယံခန့်
+Nepali	अरब
+Sinhala	බිලියන
+Tajik	миллиард
+Tamil	பில்லியன்
+Telugu	బిలియన్
+Thai	พันล้าน
+Urdu	ارب
+Uzbek	milliard
+Vietnamese	tỷ
+
+@@ Saying Billion in Middle-Eastern Languages
+
+@@ Language	Ways to say billion
+Arabic	مليار
+Hebrew	מיליארדים
+Persian	بیلیون
+Turkish	milyar
+@@ Saying Billion in African Languages
+
+@@ Language	Ways to say billion
+Afrikaans	miljard
+Chichewa	biliyoni
+Hausa	biliyan
+Igbo	ijeri
+Sesotho	limilione tse likete tse
+Somali	billion
+Swahili	bilioni
+Yoruba	bilionu
+Zulu	billion
+@@ Saying Billion in Austronesian Languages
+
+@@ Language	Ways to say billion
+Cebuano	bilyon
+Filipino	bilyon
+Indonesian	milyar
+Javanese	milyar
+Malagasy	lavitrisa
+Malay	bilion
+Maori	piriona
+@@ Saying Billion in Other Foreign Languages
+
+@@ Language	Ways to say billion
+Esperanto	miliardo
+Haitian Creole	milya dola
+Latin	sescenti

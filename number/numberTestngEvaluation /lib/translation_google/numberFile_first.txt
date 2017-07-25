@@ -1,0 +1,1000 @@
+#language:	Afrikaans	af
+translation:	drie
+english:	three
+ans:	3
+
+#language:	Afrikaans	af
+translation:	sestien
+english:	sixteen
+ans:	16
+
+#language:	Afrikaans	af
+translation:	nege en sewentig
+english:	seventy-nine
+ans:	79
+
+#language:	Afrikaans	af
+translation:	Ses honderd vyf en negentig
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Afrikaans	af
+translation:	Nege honderd een-en-sewentig
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Afrikaans	af
+translation:	Ses duisend drie honderd vyf en dertig
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Afrikaans	af
+translation:	Twee duisend ses honderd en sewentig
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Afrikaans	af
+translation:	Drie miljoen agthonderd vier en tagtigduisend vierhonderd sewe en dertig
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Afrikaans	af
+translation:	Een miljard ses honderd en twee miljoen vierhonderd agt en twintigduisend driehonderd twee-en-dertig
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Afrikaans	af
+translation:	Vyfhonderd vyf en sewentigmiljoen twee en sewentigduisend sewehonderd sewe-en-sestig
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Albanian	sq
+translation:	tre
+english:	three
+ans:	3
+
+#language:	Albanian	sq
+translation:	gjashtëmbëdhjetë
+english:	sixteen
+ans:	16
+
+#language:	Albanian	sq
+translation:	shtatëdhjetë e nëntë
+english:	seventy-nine
+ans:	79
+
+#language:	Albanian	sq
+translation:	Gjashtëqind e nëntëdhjetë e pesë
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Albanian	sq
+translation:	Nëntëqind e shtatëdhjetë e një
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Albanian	sq
+translation:	Gjashtë mijë e treqind e tridhjetë e pesë
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Albanian	sq
+translation:	Dy mijë e gjashtëqind e shtatëdhjetë
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Albanian	sq
+translation:	Tre milionë e tetëqind e tetëdhjetë e katër mijë e katërqind e tridhjetë e shtatë veta
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Albanian	sq
+translation:	Një miliard e gjashtëqind e dy milionë e katërqind e njëzet e tetë mijë e treqind e tridhjetë e dy
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Albanian	sq
+translation:	Pesëqind e shtatëdhjetë e pesë milionë, shtatëdhjetë e dy mijë e shtatëqind e gjashtëdhjetë e shtatë veta
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Amharic	am
+translation:	ሶስት
+english:	three
+ans:	3
+
+#language:	Amharic	am
+translation:	አስራ ስድስት
+english:	sixteen
+ans:	16
+
+#language:	Amharic	am
+translation:	ሰባ ዘጠኝ
+english:	seventy-nine
+ans:	79
+
+#language:	Amharic	am
+translation:	ስድስት መቶ ዘጠና አምስት
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Amharic	am
+translation:	ዘጠኝ መቶ ሰባ ፩
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Amharic	am
+translation:	ስድስት ሺህ ሦስት መቶ ሠላሳ አምስት
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Amharic	am
+translation:	ሁለት ሺህ ስድስት መቶ ሰባ
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Amharic	am
+translation:	ሦስት ሚሊዮን ስምንት መቶ ሰማንያ አራት-አራት አራት መቶ ሠላሳ ሰባት
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Amharic	am
+translation:	አንድ ቢሊዮን ስድስት መቶ ሁለት ሚሊዮን አራት መቶ ሃያ ስምንት ሺህ ሦስት መቶ ሠላሳ ሁለት
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Amharic	am
+translation:	አምስት መቶ ሰባ አምስት ሚሊዮን ሰባ ሰባ ሁለት ሺህ ሰባት መቶ ስልሳ ሰባት
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Arabic	ar
+translation:	ثلاثة
+english:	three
+ans:	3
+
+#language:	Arabic	ar
+translation:	السادس عشر
+english:	sixteen
+ans:	16
+
+#language:	Arabic	ar
+translation:	تسعة وسبعون
+english:	seventy-nine
+ans:	79
+
+#language:	Arabic	ar
+translation:	وستمائة وخمسة وتسعين
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Arabic	ar
+translation:	وتسعمائة وسبعون
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Arabic	ar
+translation:	ستة آلاف وثلاثمائة وخمسة وثلاثين
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Arabic	ar
+translation:	ألفا وستمائة وسبعون
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Arabic	ar
+translation:	وثلاثة ملايين وثمانمائة وأربعة وثمانون ألفا وأربعمائة وسبعة وثلاثين
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Arabic	ar
+translation:	مليار وستمائة واثنين مليون وأربعمائة وثمانية وعشرون ألف وثلاثمائة واثنان وثلاثون
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Arabic	ar
+translation:	وخمسمائة وخمسة وسبعون مليون وسبعون ألف وسبعمائة وسبعة وستون
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Armenian	hy
+translation:	Երեքը
+english:	three
+ans:	3
+
+#language:	Armenian	hy
+translation:	Տասնվեց
+english:	sixteen
+ans:	16
+
+#language:	Armenian	hy
+translation:	յոթանասուն ինը
+english:	seventy-nine
+ans:	79
+
+#language:	Armenian	hy
+translation:	Վեց հարյուր իննսունհինգ
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Armenian	hy
+translation:	Ինը հարիւր յոթանասունինը
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Armenian	hy
+translation:	Վեց հազար երեք հարյուր երեսունհինգ
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Armenian	hy
+translation:	Երկու հազար վեց հարյուր յոթանասուն
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Armenian	hy
+translation:	Երեք միլիոն ութ հարյուր ութսունհինգ հազար չորս հարյուր երեսուն
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Armenian	hy
+translation:	Մեկ միլիարդ վեց հարյուր երկու միլիոն չորս հարյուր քսանհինգ հազար երեք հարյուր երեսուն
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Armenian	hy
+translation:	Հինգ հարյուր յոթանասունհինգ միլիոն յոթանասուներկու հազար յոթ հարյուր վաթսուն յոթ
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Azeerbaijani	az
+translation:	Üç
+english:	three
+ans:	3
+
+#language:	Azeerbaijani	az
+translation:	On altı
+english:	sixteen
+ans:	16
+
+#language:	Azeerbaijani	az
+translation:	Yetmiş doqquz
+english:	seventy-nine
+ans:	79
+
+#language:	Azeerbaijani	az
+translation:	Altı yüz doxsan beş
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Azeerbaijani	az
+translation:	Doqquz yüz yetmiş bir
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Azeerbaijani	az
+translation:	Altı min üç yüz otuz beş
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Azeerbaijani	az
+translation:	Iki min altı yüz yetmiş
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Azeerbaijani	az
+translation:	Üç milyon səksən səksən dörd min dörd yüz otuz yeddi
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Azeerbaijani	az
+translation:	Bir milyard altı yüz iki milyon dörd yüz iyirmi min üç yüz otuz iki
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Azeerbaijani	az
+translation:	Beş yüz yetmiş beş milyon yetmiş iki min yeddi yüz altmış yeddi
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Basque	eu
+translation:	hiru
+english:	three
+ans:	3
+
+#language:	Basque	eu
+translation:	hamasei
+english:	sixteen
+ans:	16
+
+#language:	Basque	eu
+translation:	hirurogeita bederatzi
+english:	seventy-nine
+ans:	79
+
+#language:	Basque	eu
+translation:	Sei ehun eta laurogeita bost
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Basque	eu
+translation:	Bederatziehun eta hirurogeita bat
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Basque	eu
+translation:	Sei mila hirurehun eta hogeita hamabost
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Basque	eu
+translation:	Bi mila eta seiehun eta hirurogeita hamar
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Basque	eu
+translation:	Hiru milioi zortziehun eta laurogeita lau mila laurehun eta hogeita hamazazpi
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Basque	eu
+translation:	Mila milioi bat zortziehun eta bi milioi laurehun eta hogeita zortzi mila hirurehun eta hogeita bi
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Basque	eu
+translation:	Bostehun eta hirurogeita bost milioi hirurogeita bi mila zazpiehun eta hirurogeita zazpi
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Belarusian	be
+translation:	тры
+english:	three
+ans:	3
+
+#language:	Belarusian	be
+translation:	шаснаццаць
+english:	sixteen
+ans:	16
+
+#language:	Belarusian	be
+translation:	семдзесят-дзевяць
+english:	seventy-nine
+ans:	79
+
+#language:	Belarusian	be
+translation:	шасьцьсот дзевяноста пяць
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Belarusian	be
+translation:	дзевяцьсот семдзесят адзін
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Belarusian	be
+translation:	6335
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Belarusian	be
+translation:	2670
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Belarusian	be
+translation:	+3 млн 884437
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Belarusian	be
+translation:	адзін мільярд шэсцьсот і 2 млн 428.332
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Belarusian	be
+translation:	575000000 72767
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Bengali	bn
+translation:	তিন
+english:	three
+ans:	3
+
+#language:	Bengali	bn
+translation:	ষোল
+english:	sixteen
+ans:	16
+
+#language:	Bengali	bn
+translation:	উনাশি
+english:	seventy-nine
+ans:	79
+
+#language:	Bengali	bn
+translation:	ছয় ছ&#39;শত পঞ্চম
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Bengali	bn
+translation:	নয় শত এবং সত্তর এক
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Bengali	bn
+translation:	ছয় হাজার তিনশো ত্রিশ পঞ্চাশ
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Bengali	bn
+translation:	দুই হাজার ছয় ছয় শত এবং সত্তর
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Bengali	bn
+translation:	তিন মিলিয়ন আটশো আঠা চার হাজার চারশো ত্রিশ সাত
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Bengali	bn
+translation:	এক বিলিয়ন ছয় শত দুই মিলিয়ন চার শত ২8 হাজার তিনশো ত্রিশ বৎসর
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Bengali	bn
+translation:	পাঁচশত পঁচিশ হাজার সত্তর হাজার সাতশত সাত ষাট সাত
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Bosnian	bs
+translation:	Tri
+english:	three
+ans:	3
+
+#language:	Bosnian	bs
+translation:	Šesnaest
+english:	sixteen
+ans:	16
+
+#language:	Bosnian	bs
+translation:	sedamdeset devet
+english:	seventy-nine
+ans:	79
+
+#language:	Bosnian	bs
+translation:	Šeststo devedeset i pet
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Bosnian	bs
+translation:	Devet stotina i sedamdeset i jedan
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Bosnian	bs
+translation:	Šest hiljada trista i trideset pet
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Bosnian	bs
+translation:	Dve hiljade šest stotina i sedamdeset
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Bosnian	bs
+translation:	Tri miliona osam stotina osamdeset i četiri hiljade četiri stotine i trideset sedam
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Bosnian	bs
+translation:	Jedna milijarda šeststo dva miliona četiri stotina dvadeset i osam hiljada trista trideset dva
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Bosnian	bs
+translation:	Pet stotina sedamdeset pet miliona sedamdeset dve hiljade sedam stotina i šezdeset sedam
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Bulgarian	bg
+translation:	три
+english:	three
+ans:	3
+
+#language:	Bulgarian	bg
+translation:	шестнадесет
+english:	sixteen
+ans:	16
+
+#language:	Bulgarian	bg
+translation:	седемдесет и девет
+english:	seventy-nine
+ans:	79
+
+#language:	Bulgarian	bg
+translation:	Шестстотин деветдесет и пет
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Bulgarian	bg
+translation:	Деветстотин седемдесет и едно
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Bulgarian	bg
+translation:	Шест хиляди триста и тридесет и пет
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Bulgarian	bg
+translation:	Две хиляди шестстотин и седемдесет
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Bulgarian	bg
+translation:	Три милиона осемстотин осемдесет и четири хиляди четиристотин тридесет и седем
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Bulgarian	bg
+translation:	Един милиард шестстотин и два милиона четиристотин двадесет и осем хиляди триста и тридесет и две
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Bulgarian	bg
+translation:	Петстотин седемдесет и пет милиона седемдесет и две хиляди седемстотин шестдесет и седем
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Catalan	ca
+translation:	Tres
+english:	three
+ans:	3
+
+#language:	Catalan	ca
+translation:	setze
+english:	sixteen
+ans:	16
+
+#language:	Catalan	ca
+translation:	setanta nou
+english:	seventy-nine
+ans:	79
+
+#language:	Catalan	ca
+translation:	Sis-cents noranta-cinc
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Catalan	ca
+translation:	Nou-cents setanta-un
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Catalan	ca
+translation:	Sis mil tres-cents trenta-cinc
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Catalan	ca
+translation:	Dos mil sis-cents setanta
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Catalan	ca
+translation:	Tres milions vuit-cents vuitanta-quatre mil quatre-cents trenta-set
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Catalan	ca
+translation:	Mil milions de sis-cents dos milions quatre-cents vint-i-vuit mil tres-cents trenta-dos
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Catalan	ca
+translation:	Cinc-cents setanta-cinc milions setanta-dos mil set-cents seixanta-set
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Cebuano	ceb
+translation:	tulo
+english:	three
+ans:	3
+
+#language:	Cebuano	ceb
+translation:	Napulo ug unom
+english:	sixteen
+ans:	16
+
+#language:	Cebuano	ceb
+translation:	Kapitoan ug siyam
+english:	seventy-nine
+ans:	79
+
+#language:	Cebuano	ceb
+translation:	Unom ka gatus ug kasiyaman ug lima
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Cebuano	ceb
+translation:	Siyam ka gatus ug kapitoan ug usa
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Cebuano	ceb
+translation:	Unom ka libo tulo ka gatus ug katloan ug lima
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Cebuano	ceb
+translation:	Duha ka libo unom ka gatus ug kapitoan
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Cebuano	ceb
+translation:	Tulo ka milyon walo ka gatus ug kawaloag-upat ka libo upat ka gatus ug katloag-pito
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Cebuano	ceb
+translation:	Usa ka bilyon nga unom ka gatus ug duha ka milyon upat ka gatus ug kawhaan ug walo ka libo tulo ka gatus ug katloan ug duha
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Cebuano	ceb
+translation:	Lima ka gatus ug kapitoan ug lima ka libo nga kapitoan ug duha ka libo pito ka gatus ug kan-uman ug pito
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Chinese	zh-CN
+translation:	三
+english:	three
+ans:	3
+
+#language:	Chinese	zh-CN
+translation:	十六
+english:	sixteen
+ans:	16
+
+#language:	Chinese	zh-CN
+translation:	七十九
+english:	seventy-nine
+ans:	79
+
+#language:	Chinese	zh-CN
+translation:	六百九十五
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Chinese	zh-CN
+translation:	九百七十一
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Chinese	zh-CN
+translation:	六千三百五十五
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Chinese	zh-CN
+translation:	二千六百七十
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Chinese	zh-CN
+translation:	三百八十八万四千四百七十七
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Chinese	zh-CN
+translation:	十亿六百二十二万二千八百三十三点二
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Chinese	zh-CN
+translation:	五百七十五万七千二百七十七
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Chinese	zh-TW
+translation:	三
+english:	three
+ans:	3
+
+#language:	Chinese	zh-TW
+translation:	十六
+english:	sixteen
+ans:	16
+
+#language:	Chinese	zh-TW
+translation:	七十九
+english:	seventy-nine
+ans:	79
+
+#language:	Chinese	zh-TW
+translation:	六百九十五
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Chinese	zh-TW
+translation:	九百七十一
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Chinese	zh-TW
+translation:	六千三百五十五
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Chinese	zh-TW
+translation:	二千六百七十
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Chinese	zh-TW
+translation:	三百八十八萬四千四百七十七
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Chinese	zh-TW
+translation:	十億六百二十二萬二千八百三十三點二
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Chinese	zh-TW
+translation:	五百七十五萬七千二百七十七
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Corsican	co
+translation:	tre
+english:	three
+ans:	3
+
+#language:	Corsican	co
+translation:	sedici
+english:	sixteen
+ans:	16
+
+#language:	Corsican	co
+translation:	Sebistini novi
+english:	seventy-nine
+ans:	79
+
+#language:	Corsican	co
+translation:	Sei centu e novanta cinquettes
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Corsican	co
+translation:	Nove centu e settanta
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Corsican	co
+translation:	Sei mila trenta centu è trenta cinque
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Corsican	co
+translation:	Dumila sei centu settanta
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Corsican	co
+translation:	Trenta millioni di ottu ottu centu cincu misi quattru centu e trenta sette
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Corsican	co
+translation:	Un milioniu sei centu e duie cinque è quattru centu e vintisimu mila trenta centu è trenta i dui
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Corsican	co
+translation:	Cincucentu centu cinquammi cinquemila tu settii-dos mil setti centu è seicentu setti
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Croatian	hr
+translation:	tri
+english:	three
+ans:	3
+
+#language:	Croatian	hr
+translation:	šesnaest
+english:	sixteen
+ans:	16
+
+#language:	Croatian	hr
+translation:	sedamdesetdevet
+english:	seventy-nine
+ans:	79
+
+#language:	Croatian	hr
+translation:	Šest stotina devedeset i pet
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Croatian	hr
+translation:	Devetsto sedamdeset i jedan
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Croatian	hr
+translation:	Šest tisuća tristo trideset i pet
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Croatian	hr
+translation:	Dvije tisuće šest stotina i sedamdeset
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Croatian	hr
+translation:	Tri milijuna osam stotina osamdeset četiri tisuće četiri stotine i trideset i sedam godina
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Croatian	hr
+translation:	Jedna milijarda šest stotina dva milijuna četiristo dvadeset i osam tisuća tristo i trideset dvije
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Croatian	hr
+translation:	Petsto sedamdeset pet milijuna sedamdeset dvije tisuće sedamsto šezdeset i sedam godina
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Czech	cs
+translation:	tři
+english:	three
+ans:	3
+
+#language:	Czech	cs
+translation:	šestnáct
+english:	sixteen
+ans:	16
+
+#language:	Czech	cs
+translation:	sedmdesát devět
+english:	seventy-nine
+ans:	79
+
+#language:	Czech	cs
+translation:	Šest set devadesát pět
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Czech	cs
+translation:	Devět set sedmdesát jedna
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Czech	cs
+translation:	Šest tisíc tři sta třicet pět
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Czech	cs
+translation:	Dvě tisíce šest set sedmdesát
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Czech	cs
+translation:	Tři miliony osm set osmdesát čtyři tisíce čtyři sta třicet sedm
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Czech	cs
+translation:	Jedna miliarda šest set dva miliony čtyři sta dvacet osm tisíc tři sta třicet dva
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Czech	cs
+translation:	Pět set sedmdesát pět milionů sedmdesát dva tisíc sedm set šedesát sedm
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Danish	da
+translation:	tre
+english:	three
+ans:	3
+
+#language:	Danish	da
+translation:	seksten
+english:	sixteen
+ans:	16
+
+#language:	Danish	da
+translation:	nioghalvfjerds
+english:	seventy-nine
+ans:	79
+
+#language:	Danish	da
+translation:	Seks hundrede og femoghalvfems
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Danish	da
+translation:	Ni hundrede og halvfjerds
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Danish	da
+translation:	Seks tusinde tre hundrede og tredive fem
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Danish	da
+translation:	To tusind seks hundrede og halvfjerds
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Danish	da
+translation:	Tre millioner otte hundrede og fireoghalvfems tusinde fire hundrede og trediveogtreds
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Danish	da
+translation:	En milliard seks hundrede og to millioner fire hundrede otteogtredive tusind tre hundrede og tredive to
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Danish	da
+translation:	Fem hundrede og femoghalvfjerds million tooghalvfems tusinde syv hundrede og syvoghalvfems
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
+#language:	Dutch	nl
+translation:	drie
+english:	three
+ans:	3
+
+#language:	Dutch	nl
+translation:	zestien
+english:	sixteen
+ans:	16
+
+#language:	Dutch	nl
+translation:	negenenzeventig
+english:	seventy-nine
+ans:	79
+
+#language:	Dutch	nl
+translation:	Zeshonderd vijfennegentig
+english:	six hundred and ninety-five
+ans:	695
+
+#language:	Dutch	nl
+translation:	Negenhonderdzeventig
+english:	nine hundred and seventy-one
+ans:	971
+
+#language:	Dutch	nl
+translation:	Zesduizend driehonderd vijfendertig
+english:	six thousand three hundred and thirty-five
+ans:	6335
+
+#language:	Dutch	nl
+translation:	Tweeduizend zeshonderd en zeventig
+english:	two thousand six hundred and seventy
+ans:	2670
+
+#language:	Dutch	nl
+translation:	Drie miljoen achthonderd vierentachtigduizend vierhonderd zevenendertig
+english:	three million eight hundred and eighty-four thousand four hundred and thirty-seven
+ans:	3884437
+
+#language:	Dutch	nl
+translation:	Een miljard zeshonderd en twee miljoen vierhonderd achtentwintigduizend driehonderd tweeëndertig
+english:	one billion six hundred and two million four hundred and twenty-eight thousand three hundred and thirty-two
+ans:	1602428332
+
+#language:	Dutch	nl
+translation:	Vijfhonderd vijfenzeventig miljoen tweeënzeventigduizend zevenhonderd zevenenzestig
+english:	five hundred and seventy-five million seventy-two thousand seven hundred and sixty-seven
+ans:	575072767
+
